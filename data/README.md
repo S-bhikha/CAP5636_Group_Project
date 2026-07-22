@@ -6,25 +6,30 @@ Local corpora and task artifacts for **Fact-Constrained Story Generation**.
 
 ```text
 data/
+  SCHEMA.md               # fact-card / SFT / prompt contract (Lane A↔B↔C)
+  ENV_SETUP.md            # venv + download
+  LICENSES.md             # corpus license obligations
   raw/
     tinystories/          # Stage 1 pretraining source
-      train_smoke.jsonl   # 10k stories (lab smoke size)
-      validation_smoke.jsonl
-      train.jsonl         # full train split (when downloaded)
-      validation.jsonl
     wikipedia/            # Stage 2 B1 CPT source
-      20231101_simple_smoke.jsonl
-      20231101_simple.jsonl   # full Simple English dump (when downloaded)
   manifests/
-    local_corpora.json    # row counts, paths, sizes, timestamps
-  fact_cards/             # (next) train.jsonl + eval.jsonl
-  sft_pairs/              # (next) fact-card → story pairs for M2
-  prompts/                # (next) frozen eval prompts
+    local_corpora.json
+  fact_cards/
+    train.jsonl           # approved train cards (JSONL — B/C load)
+    eval.jsonl            # approved held-out cards (JSONL)
+    drafts/
+      wiki_candidates.json  # review queue (JSON array — edit this)
+  sft_pairs/
+    train.jsonl           # approved card_id → story (M2)
+  prompts/
+    templates.json        # frozen instruction + model-input render
   processed/              # tokenized / packed tensors (later)
 ```
 
 Raw dumps under `data/raw/` are **gitignored** (regenerate with the script).  
-Manifests and this README are tracked.
+Schema, approved cards, templates, manifests, and license docs are tracked.
+
+**Drafts vs approved:** edit drafts as pretty **JSON**; promote to **JSONL** for training/eval.
 
 ## Corpora we use
 
@@ -110,10 +115,34 @@ repository; rebuild commands are provided instead.
 
 Full obligations, share-alike scope, and the hand-in checklist live in **`data/LICENSES.md`**.
 
-## Not here yet (Lane A next)
+## Fact cards & Wiki draft extraction
 
-- Fact-card schema freeze + seed cards (`fact_cards/`)
-- Frozen eval IDs (`fact_cards/eval.jsonl`)
-- SFT pairs for M2 (`sft_pairs/train.jsonl`)
-- Token estimates for matched Stage-2 budgets
-- Optional topic-filtered Wiki subset aligned to fact-card topics
+**Contract:** [`SCHEMA.md`](./SCHEMA.md) (fields, model render, split rules, review flow).
+
+```bash
+source .venv/bin/activate
+
+# 1) Propose draft cards (JSON array for easy IDE review)
+python scripts/extract_fact_card_drafts.py \
+  --input data/raw/wikipedia/20231101_simple_smoke.jsonl \
+  --max-drafts 30
+# → data/fact_cards/drafts/wiki_candidates.json
+
+# 2) Edit that JSON: fix facts, set split, set review_status to "approved"
+
+# 3) Export approved cards to train/eval JSONL
+python scripts/promote_fact_cards.py --dry-run   # preview
+python scripts/promote_fact_cards.py             # write JSONL
+```
+
+| File | Format | Role |
+| --- | --- | --- |
+| `fact_cards/drafts/wiki_candidates.json` | JSON array | Human review queue |
+| `fact_cards/train.jsonl` / `eval.jsonl` | JSONL | Approved cards for B/C |
+
+## Lane A next
+
+- [ ] Grow to ≥10 approved seed cards; reserve eval ids early  
+- [ ] Review/edit wiki drafts; promote approved ones  
+- [ ] More SFT pairs for M2 (`sft_pairs/train.jsonl`)  
+- [ ] Token estimates for matched Stage-2 budgets
