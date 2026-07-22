@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "schema_id": "factcard_v1",
+  "instruction": "Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.",
+  "word_target": [120, 180],
+  "model_input": {
+    "description": "Concatenate topic, numbered facts, then instruction. Used for SFT input and eval generation for all systems.",
+    "template": "Topic: {topic}\n\nFacts:\n{numbered_facts}\n\nInstruction: {instruction}\n"
+  },
+  "include_in_model_context": {
+    "topic": true,
+    "facts": true,
+    "instruction": true,
+    "false_claims": false,
+    "notes": false,
+    "source": false,
+    "domain": false
+  },
+  "sft_target": "story_text_only"
+}

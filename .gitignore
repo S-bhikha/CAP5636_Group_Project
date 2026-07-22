@@ -1,1 +1,33 @@
 .DS_Store
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Large / regenerated local data (keep manifests + README)
+data/raw/
+data/processed/
+*.parquet
+*.arrow
+tinystories_corpus.txt
+bpe_tokenizer/
+
+# Training artifacts (Lane B)
+results/
+checkpoints/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Secrets / local env
+.env
+.env.*
+
+# IDEs
+.vscode/
+.cursor/

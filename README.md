@@ -632,13 +632,27 @@ Use this as the final “are we done?” list.
 
 
 
+## Data corpora & licenses
+
+Local download/packaging: [`data/README.md`](./data/README.md) · rebuild: `python scripts/download_data.py`
+
+| Corpus | Role | License (declared) | Acknowledgment |
+| --- | --- | --- | --- |
+| **TinyStories** (`roneneldan/TinyStories`) | Stage 1 / B0 | **[CDLA-Sharing-1.0](https://cdla.dev/sharing-1-0/)** | Cite Eldan & Li (2023); share-alike + attribution if *publishing* data; raw dumps not in git |
+| **Simple English Wikipedia** (`wikimedia/wikipedia`, `20231101.simple`) | Stage 2 B1 CPT | **CC BY-SA** + **GFDL** | Attribute Wikipedia/Wikimedia contributors; link license; note processing changes |
+
+**Full obligations, paper copy-paste block, and hand-in checklist:** [`data/LICENSES.md`](./data/LICENSES.md) (machine-readable: [`data/licenses.json`](./data/licenses.json)).
+
+---
+
 ## References
 
 1. CAP 5636 Final Project Guidelines (Webcourses)
 2. CAP 5636 Week 6 LLM lab notebook (this repo)
-3. [roneneldan/TinyStories]([https://huggingface.co/datasets/roneneldan/TinyStories](https://huggingface.co/datasets/roneneldan/TinyStories))
-4. [karpathy/nanochat]([https://github.com/karpathy/nanochat](https://github.com/karpathy/nanochat))
-5. Vaswani et al., *Attention Is All You Need*
-6. Gunasekar et al., *Textbooks Are All You Need*
-7. Continued pretraining, instruction tuning, and factuality evaluation literature (expand in paper Related Work)
+3. Eldan & Li, *TinyStories* ([arXiv:2305.07759](https://arxiv.org/abs/2305.07759)); dataset [`roneneldan/TinyStories`](https://huggingface.co/datasets/roneneldan/TinyStories) under [CDLA-Sharing-1.0](https://cdla.dev/sharing-1-0/)
+4. Wikimedia Wikipedia dumps ([dumps.wikimedia.org](https://dumps.wikimedia.org)); packaged as [`wikimedia/wikipedia`](https://huggingface.co/datasets/wikimedia/wikipedia) (CC BY-SA + GFDL; see [dumps legal](https://dumps.wikimedia.org/legal.html))
+5. [karpathy/nanochat](https://github.com/karpathy/nanochat)
+6. Vaswani et al., *Attention Is All You Need*
+7. Gunasekar et al., *Textbooks Are All You Need*
+8. Continued pretraining, instruction tuning, and factuality evaluation literature (expand in paper Related Work)
 
