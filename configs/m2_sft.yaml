@@ -1,0 +1,24 @@
+# Stage 2 (M2): SFT on (fact card + prompt) -> story pairs from the B0 checkpoint.
+# Keep batch_size + max_steps identical to configs/b1_cpt.yaml -- matched
+# Stage-2 token budget is a course/README requirement, not optional.
+mode: sft
+system_id: M2
+run_id: m2_sft_full
+
+init_ckpt: results/b0_full/checkpoint.pt
+
+fact_cards: data/fact_cards/train.jsonl
+eval_cards: data/fact_cards/eval.jsonl
+sft_pairs: data/sft_pairs/train.jsonl
+templates: data/prompts/templates.json
+
+batch_size: 16
+max_steps: 1000
+lr: 0.0001
+warmup_steps: 50
+weight_decay: 0.1
+
+eval_every: 50
+gen_every: 200
+ckpt_every: 250
+seed: 0

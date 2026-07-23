@@ -1,0 +1,23 @@
+# Stage 1 (B0) -- fast sanity check. Needs: python scripts/download_data.py --smoke-only
+run_id: b0_smoke
+data: data/raw/tinystories/train_smoke.jsonl
+val_data: data/raw/tinystories/validation_smoke.jsonl
+
+vocab_size: 8000
+block_size: 256
+n_layer: 6
+n_head: 8
+n_embd: 256
+dropout: 0.10
+pos_encoding: learned
+
+batch_size: 32
+max_steps: 200
+lr: 0.0003
+warmup_steps: 20
+weight_decay: 0.1
+
+eval_every: 20
+gen_every: 100
+ckpt_every: 0
+seed: 0

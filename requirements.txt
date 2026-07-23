@@ -1,3 +1,11 @@
 datasets>=2.19
 huggingface_hub>=0.23
 tqdm>=4.66
+
+# Lane B (training)
+# Install torch yourself first with the right CUDA build for your GPU, per
+# https://pytorch.org/get-started/locally/ -- e.g. for an RTX 5090 on CUDA 12.x:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu124
+torch>=2.3
+tokenizers>=0.15
+pyyaml>=6.0
