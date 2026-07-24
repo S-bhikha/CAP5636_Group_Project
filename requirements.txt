@@ -9,3 +9,6 @@ tqdm>=4.66
 torch>=2.3
 tokenizers>=0.15
 pyyaml>=6.0
+
+# Lane C (eval)
+streamlit>=1.35
