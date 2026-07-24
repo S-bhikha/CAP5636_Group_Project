@@ -236,6 +236,8 @@ Stage 2 may include classic **SFT** (fact card + prompt → story), not only con
 
 **Locked decision:** Stage 1 = pretrain from scratch on TinyStories (lab-scale GPT). Do not start from a public pretrained model (e.g. SmolLM2) unless Stage 1 fails after smoke.
 
+**Lane B training code + commands:** [`TRAINING.md`](./TRAINING.md).
+
 ## Why this project
 
 TinyStories yields fluent simple narrative but freely invents world knowledge. Pure encyclopedic continued pretraining may improve “fact-ish” language while **eroding story form**. Task-specific adaptation may improve checklist faithfulness with a different quality cost. Under a single-GPU budget we measure that tradeoff with fixed protocols—not vibes and not perplexity alone.

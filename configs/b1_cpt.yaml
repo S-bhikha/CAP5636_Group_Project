@@ -1,0 +1,24 @@
+# Stage 2 (B1): Wikipedia continued pretraining from the B0 checkpoint.
+# Keep batch_size + max_steps identical to configs/m2_sft.yaml -- matched
+# Stage-2 token budget is a course/README requirement, not optional.
+mode: cpt
+system_id: B1
+run_id: b1_cpt_full
+
+init_ckpt: results/b0_full/checkpoint.pt
+
+data: data/raw/wikipedia/20231101_simple.jsonl
+
+batch_size: 16
+max_steps: 1000
+lr: 0.0001
+warmup_steps: 50
+weight_decay: 0.1
+
+# Cap tokenization time on the ~242k-article full file.
+max_tokenize_tokens: 5000000
+
+eval_every: 50
+gen_every: 200
+ckpt_every: 250
+seed: 0
