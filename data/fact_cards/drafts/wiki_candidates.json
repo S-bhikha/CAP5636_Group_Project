@@ -5,12 +5,14 @@
     "topic": "Aquaculture",
     "domain": "nature",
     "facts": [
-      "Aquaculture is the farming of fish, shrimp, abalones, algae, and other seafood.",
-      "Aquaculture supplies fish, such as catfish, salmon, and trout.",
-      "It was developed a few thousand years ago in China.",
-      "Aquaculture supplies over 20% of all the seafood harvested."
+      "Aquaculture is the farming of fish, shrimp, abalone, algae, and other seafood.",
+      "Farmers raise species such as catfish, salmon, and trout.",
+      "Aquaculture began in China a few thousand years ago.",
+      "Aquaculture supplies over 20% of all seafood harvested worldwide."
     ],
-    "false_claims": [],
+    "false_claims": [
+      "Aquaculture means catching wild fish in the ocean."
+    ],
     "source": {
       "type": "wikipedia_simple",
       "hf_dataset": "wikimedia/wikipedia",
@@ -21,8 +23,8 @@
       "extract_method": "lead_sentences_v1",
       "extracted_at": "2026-07-22T03:37:32Z"
     },
-    "review_status": "draft",
-    "notes": "Auto-draft via lead_sentences_v1. Edit or paraphrase facts for clarity and story-coverability; set split=eval only when reserving held-out ids; then set review_status=approved.",
+    "review_status": "approved",
+    "notes": "Reviewed: removed overlap and vague pronouns; paraphrased from wiki lead.",
     "word_target": [
       120,
       180
@@ -36,13 +38,17 @@
     "domain": "other",
     "facts": [
       "An abbreviation is a shorter way to write a word or phrase.",
-      "People use abbreviations for words that they write a lot.",
-      "The English language occasionally uses the apostrophe mark ' to show that a word is written in a shorter way, but some abbreviations do not use this mark.",
-      "More often, they use periods, especially the ones that come from the Latin language.",
-      "Common Latin abbreviations include i.e.",
-      "[exempli gratia] for example, and et al."
+      "People use abbreviations for words they write often.",
+      "Some abbreviations use an apostrophe, but many use periods instead.",
+      "Many English abbreviations come from Latin words.",
+      "The abbreviation i.e. stands for id est and means that is.",
+      "The abbreviation e.g. stands for exempli gratia and means for example.",
+      "The abbreviation et al. stands for et alii and means and others."
     ],
-    "false_claims": [],
+    "false_claims": [
+      "i.e. means for example.",
+      "e.g. means that is."
+    ],
     "source": {
       "type": "wikipedia_simple",
       "hf_dataset": "wikimedia/wikipedia",
@@ -53,8 +59,8 @@
       "extract_method": "lead_sentences_v1",
       "extracted_at": "2026-07-22T03:37:32Z"
     },
-    "review_status": "draft",
-    "notes": "Auto-draft via lead_sentences_v1. Edit or paraphrase facts for clarity and story-coverability; set split=eval only when reserving held-out ids; then set review_status=approved.",
+    "review_status": "approved",
+    "notes": "Reviewed: split Latin abbreviations into separate scorable facts (i.e./e.g./et al.).",
     "word_target": [
       120,
       180
@@ -67,13 +73,15 @@
     "topic": "Abrahamic religions",
     "domain": "other",
     "facts": [
-      "An Abrahamic Religion is a religion whose followers believe in the prophet Abraham.",
-      "They believe Abraham and his sons/grandsons hold an important role in human spiritual development.",
-      "The best known Abrahamic religions are Judaism, Christianity and Islam.",
-      "Smaller religious traditions sometimes included as Abrahamic religions are Samaritanism, Druze, Rastafari, Babism and Bahá'í Faith.",
-      "Mandaeism (a religion that holds many Abrahamic beliefs) is not called Abrahamic because its followers think Abraham was a false prophet."
+      "An Abrahamic religion is a religion whose followers honor the prophet Abraham.",
+      "Followers believe Abraham and his descendants play an important role in spiritual history.",
+      "The best-known Abrahamic religions are Judaism, Christianity, and Islam.",
+      "Smaller traditions sometimes grouped with them include Samaritanism, Druze, Rastafari, and the Bahá'í Faith.",
+      "Mandaeism is usually not called Abrahamic because its followers reject Abraham as a prophet."
     ],
-    "false_claims": [],
+    "false_claims": [
+      "All religions that mention Abraham are Abrahamic religions."
+    ],
     "source": {
       "type": "wikipedia_simple",
       "hf_dataset": "wikimedia/wikipedia",
@@ -84,8 +92,8 @@
       "extract_method": "lead_sentences_v1",
       "extracted_at": "2026-07-22T03:37:32Z"
     },
-    "review_status": "draft",
-    "notes": "Auto-draft via lead_sentences_v1. Edit or paraphrase facts for clarity and story-coverability; set split=eval only when reserving held-out ids; then set review_status=approved.",
+    "review_status": "approved",
+    "notes": "Reviewed: softened wording; split long Mandaeism bullet.",
     "word_target": [
       120,
       180
@@ -96,14 +104,16 @@
     "id": "fc_anatomy_04",
     "split": "train",
     "topic": "Anatomy",
-    "domain": "nature",
+    "domain": "body",
     "facts": [
-      "Anatomy is the study of the bodies of people and other animals.",
-      "Anatomy is the study of the inside of the body and outside the body.",
-      "Anatomy notes the position and structure of organs such as muscles, glands and bones.",
-      "A person who studies anatomy is an anatomist."
+      "Anatomy is the study of the bodies of people and other animals, inside and out.",
+      "Anatomists study the position and structure of body parts such as bones, muscles, and organs.",
+      "A person who studies anatomy is called an anatomist.",
+      "Anatomy helps doctors and scientists understand how living bodies work."
     ],
-    "false_claims": [],
+    "false_claims": [
+      "Anatomy only studies the outside of the body."
+    ],
     "source": {
       "type": "wikipedia_simple",
       "hf_dataset": "wikimedia/wikipedia",
@@ -114,8 +124,8 @@
       "extract_method": "lead_sentences_v1",
       "extracted_at": "2026-07-22T03:37:32Z"
     },
-    "review_status": "draft",
-    "notes": "Auto-draft via lead_sentences_v1. Edit or paraphrase facts for clarity and story-coverability; set split=eval only when reserving held-out ids; then set review_status=approved.",
+    "review_status": "approved",
+    "notes": "Reviewed: merged redundant bullets; fixed imprecise organ examples; domain=body.",
     "word_target": [
       120,
       180
@@ -128,12 +138,14 @@
     "topic": "Asteroid",
     "domain": "science",
     "facts": [
-      "An asteroid is a minor planet that orbits within the inner solar system.",
-      "It is a small object in the Solar System that travels around the Sun.",
-      "It is like a planet but smaller.",
-      "A few asteroids have asteroid moon."
+      "An asteroid is a small rocky body that orbits the Sun in the inner solar system.",
+      "Asteroids are like planets but much smaller.",
+      "Most asteroids orbit in a belt between Mars and Jupiter.",
+      "A few asteroids have smaller moons called asteroid moons."
     ],
-    "false_claims": [],
+    "false_claims": [
+      "Asteroids are stars that orbit the Sun."
+    ],
     "source": {
       "type": "wikipedia_simple",
       "hf_dataset": "wikimedia/wikipedia",
@@ -144,8 +156,8 @@
       "extract_method": "lead_sentences_v1",
       "extracted_at": "2026-07-22T03:37:32Z"
     },
-    "review_status": "draft",
-    "notes": "Auto-draft via lead_sentences_v1. Edit or paraphrase facts for clarity and story-coverability; set split=eval only when reserving held-out ids; then set review_status=approved.",
+    "review_status": "approved",
+    "notes": "Reviewed: deduplicated overlapping bullets; fixed grammar on asteroid moons.",
     "word_target": [
       120,
       180
@@ -156,17 +168,17 @@
     "id": "fc_angola_06",
     "split": "train",
     "topic": "Angola",
-    "domain": "nature",
+    "domain": "geography",
     "facts": [
       "Angola, officially the Republic of Angola, is a country in southern Africa.",
-      "It shares borders with Namibia in the south, the Democratic Republic of the Congo in the north, and Zambia in the east.",
-      "Its west border touches the Atlantic Ocean.",
-      "Angola's capital is Luanda.",
-      "The country has many natural resources.",
-      "Angola is the seventh largest country in Africa.",
-      "The capital and most populated city of Angola is Luanda."
+      "It borders Namibia, the Democratic Republic of the Congo, and Zambia.",
+      "Its western border touches the Atlantic Ocean.",
+      "Angola is the seventh-largest country in Africa.",
+      "Luanda is the capital and largest city of Angola."
     ],
-    "false_claims": [],
+    "false_claims": [
+      "Angola is a country in South America."
+    ],
     "source": {
       "type": "wikipedia_simple",
       "hf_dataset": "wikimedia/wikipedia",
@@ -177,8 +189,8 @@
       "extract_method": "lead_sentences_v1",
       "extracted_at": "2026-07-22T03:37:32Z"
     },
-    "review_status": "draft",
-    "notes": "Auto-draft via lead_sentences_v1. Edit or paraphrase facts for clarity and story-coverability; set split=eval only when reserving held-out ids; then set review_status=approved.",
+    "review_status": "approved",
+    "notes": "Reviewed: removed duplicate Luanda bullet; domain=geography; shortened borders fact.",
     "word_target": [
       120,
       180
@@ -189,14 +201,13 @@
     "id": "fc_boot_07",
     "split": "train",
     "topic": "Boot",
-    "domain": "other",
+    "domain": "everyday",
     "facts": [
-      "A boot is a type of footwear that protects the foot and ankle.",
+      "A boot is footwear that protects the foot and ankle.",
       "Boots are higher and larger than shoes and sandals.",
-      "Some boots are high enough to protect the calves (lower part of the leg) as well.",
-      "Some boots are held on with bootstraps or bootlaces.",
-      "Some also have spats or gaiters to keep water out.",
-      "Most have a very strong boot sole, the bottom part of a boot."
+      "Some boots are high enough to protect the calves as well.",
+      "Boots may be held on with laces or straps.",
+      "Many boots have a strong sole to protect the bottom of the foot."
     ],
     "false_claims": [],
     "source": {
@@ -209,8 +220,8 @@
       "extract_method": "lead_sentences_v1",
       "extracted_at": "2026-07-22T03:37:32Z"
     },
-    "review_status": "draft",
-    "notes": "Auto-draft via lead_sentences_v1. Edit or paraphrase facts for clarity and story-coverability; set split=eval only when reserving held-out ids; then set review_status=approved.",
+    "review_status": "approved",
+    "notes": "Reviewed: light paraphrase for story-coverability.",
     "word_target": [
       120,
       180
@@ -223,12 +234,14 @@
     "topic": "Black",
     "domain": "other",
     "facts": [
-      "In light, black is lack of all color.",
-      "In painting, however, the black pigment is the combination of all colors.",
-      "In heraldry, black is called \"sable\".",
-      "It is the opposite of white."
+      "In light, black is the absence of all color.",
+      "In painting, black pigment can be made by mixing other colors.",
+      "In heraldry, black is called sable.",
+      "Black is the opposite of white."
     ],
-    "false_claims": [],
+    "false_claims": [
+      "Black is a color of light, like red or blue."
+    ],
     "source": {
       "type": "wikipedia_simple",
       "hf_dataset": "wikimedia/wikipedia",
@@ -239,8 +252,8 @@
       "extract_method": "lead_sentences_v1",
       "extracted_at": "2026-07-22T03:37:32Z"
     },
-    "review_status": "draft",
-    "notes": "Auto-draft via lead_sentences_v1. Edit or paraphrase facts for clarity and story-coverability; set split=eval only when reserving held-out ids; then set review_status=approved.",
+    "review_status": "approved",
+    "notes": "Reviewed: removed vague pronouns; clarified painting fact.",
     "word_target": [
       120,
       180
@@ -251,15 +264,16 @@
     "id": "fc_chat_09",
     "split": "train",
     "topic": "Chat",
-    "domain": "other",
+    "domain": "everyday",
     "facts": [
       "To chat is to talk about ordinary things that are not very important.",
-      "A person can chat with another person, or to many people.",
-      "People also use this word now for parts of the Internet where we can talk with many different people at the same time.",
-      "Usually, people chat on the Internet in a chat room or messaging service like AOL Instant Messenger (AIM), Yahoo Messenger Windows Live Messenger or Tencent QQ.",
-      "There are also programs which let people use different messaging services from one program, such as Pidgin."
+      "A person can chat with one other person or with a group.",
+      "Online chat lets many people send messages at the same time on the Internet.",
+      "People chat in chat rooms or messaging apps on phones and computers."
     ],
-    "false_claims": [],
+    "false_claims": [
+      "Chat only happens face to face, never online."
+    ],
     "source": {
       "type": "wikipedia_simple",
       "hf_dataset": "wikimedia/wikipedia",
@@ -270,8 +284,8 @@
       "extract_method": "lead_sentences_v1",
       "extracted_at": "2026-07-22T03:37:32Z"
     },
-    "review_status": "draft",
-    "notes": "Auto-draft via lead_sentences_v1. Edit or paraphrase facts for clarity and story-coverability; set split=eval only when reserving held-out ids; then set review_status=approved.",
+    "review_status": "approved",
+    "notes": "Reviewed: replaced dated messenger names; shortened long bullets; domain=everyday.",
     "word_target": [
       120,
       180
@@ -282,15 +296,18 @@
     "id": "fc_time_cube_10",
     "split": "train",
     "topic": "Time Cube",
-    "domain": "science",
+    "domain": "other",
     "facts": [
-      "Time Cube was a personal website created on 1997 by Otis Eugene Ray.",
-      "On that website, Ray explained his theory of everything, known as \"Time Cube\".",
-      "It described the planet Earth as having a cubic symmetry, and time as rotating four \"corners\".",
-      "He also said that all of modern physics is wrong.",
-      "Scientists reject these ideas, saying that they make no sense and cannot be tested."
+      "Time Cube was a personal website created in 1997 by Otis Eugene Ray.",
+      "On the site, Ray described a theory he called Time Cube.",
+      "He claimed Earth has cubic symmetry and that time rotates through four corners.",
+      "He also claimed that modern physics is wrong.",
+      "Scientists rejected these ideas because they cannot be tested."
     ],
-    "false_claims": [],
+    "false_claims": [
+      "Scientists confirmed Ray's Time Cube theory.",
+      "Time Cube is accepted modern physics."
+    ],
     "source": {
       "type": "wikipedia_simple",
       "hf_dataset": "wikimedia/wikipedia",
@@ -301,8 +318,8 @@
       "extract_method": "lead_sentences_v1",
       "extracted_at": "2026-07-22T03:37:32Z"
     },
-    "review_status": "draft",
-    "notes": "Auto-draft via lead_sentences_v1. Edit or paraphrase facts for clarity and story-coverability; set split=eval only when reserving held-out ids; then set review_status=approved.",
+    "review_status": "approved",
+    "notes": "Reviewed: framed as Ray's claims vs. scientific rejection; domain=other; fixed grammar.",
     "word_target": [
       120,
       180
@@ -315,10 +332,10 @@
     "topic": "Census of Marine Life",
     "domain": "nature",
     "facts": [
-      "The Census of Marine Life was a ten-year survey of life in the oceans, starting in 2000.",
-      "Its head was Ron O'Dor of Dalhousie University in Halifax, Nova Scotia, Canada.",
-      "It used data from researchers all over the world.",
-      "More than 70 nations were involved and over a billion US dollars were spent on it."
+      "The Census of Marine Life was a ten-year survey of ocean life that began in 2000.",
+      "Researchers from more than 70 countries contributed data to the project.",
+      "The project cost over one billion U.S. dollars.",
+      "Ron O'Dor of Dalhousie University in Canada led the effort."
     ],
     "false_claims": [],
     "source": {
@@ -331,8 +348,8 @@
       "extract_method": "lead_sentences_v1",
       "extracted_at": "2026-07-22T03:37:32Z"
     },
-    "review_status": "draft",
-    "notes": "Auto-draft via lead_sentences_v1. Edit or paraphrase facts for clarity and story-coverability; set split=eval only when reserving held-out ids; then set review_status=approved.",
+    "review_status": "approved",
+    "notes": "Reviewed: reordered for clearer narrative flow; light paraphrase.",
     "word_target": [
       120,
       180
@@ -345,13 +362,14 @@
     "topic": "Maize",
     "domain": "nature",
     "facts": [
-      "Maize or Indian corn (called corn in some countries) is Zea mays, a member of the grass family Poaceae.",
-      "It is a cereal grain which was first grown by people in ancient Central America.",
-      "Approximately 1 billion tonnes are harvested every year.",
-      "However, little of this maize is eaten directly by humans.",
-      "Most is used to make corn ethanol, animal feed and other maize products, such as corn starch and corn syrup."
+      "Maize, also called corn in some countries, is a cereal grain in the grass family.",
+      "People first grew maize in ancient Central America.",
+      "About 1 billion tonnes of maize are harvested every year.",
+      "Most maize is used for animal feed, ethanol, starch, and syrup rather than direct human food."
     ],
-    "false_claims": [],
+    "false_claims": [
+      "Most maize is eaten directly by people as table corn."
+    ],
     "source": {
       "type": "wikipedia_simple",
       "hf_dataset": "wikimedia/wikipedia",
@@ -362,8 +380,8 @@
       "extract_method": "lead_sentences_v1",
       "extracted_at": "2026-07-22T03:37:32Z"
     },
-    "review_status": "draft",
-    "notes": "Auto-draft via lead_sentences_v1. Edit or paraphrase facts for clarity and story-coverability; set split=eval only when reserving held-out ids; then set review_status=approved.",
+    "review_status": "approved",
+    "notes": "Reviewed: removed vague pronouns; consolidated usage facts.",
     "word_target": [
       120,
       180
@@ -392,8 +410,8 @@
       "extract_method": "lead_sentences_v1",
       "extracted_at": "2026-07-22T03:37:32Z"
     },
-    "review_status": "draft",
-    "notes": "Auto-draft via lead_sentences_v1. Edit or paraphrase facts for clarity and story-coverability; set split=eval only when reserving held-out ids; then set review_status=approved.",
+    "review_status": "approved",
+    "notes": "Reviewed: no substantive changes needed.",
     "word_target": [
       120,
       180
@@ -407,9 +425,9 @@
     "domain": "other",
     "facts": [
       "Distance is how far one thing is from another thing.",
-      "It is also a measure of the space between two things.",
-      "It can be measured along any path.",
-      "Thus, someone who goes around in a circle has traveled a distance, even though his position has not changed."
+      "Distance is also a measure of the space between two things.",
+      "Distance can be measured along any path.",
+      "Someone who walks in a circle travels a distance even if their ending position is unchanged."
     ],
     "false_claims": [],
     "source": {
@@ -422,8 +440,8 @@
       "extract_method": "lead_sentences_v1",
       "extracted_at": "2026-07-22T03:37:32Z"
     },
-    "review_status": "draft",
-    "notes": "Auto-draft via lead_sentences_v1. Edit or paraphrase facts for clarity and story-coverability; set split=eval only when reserving held-out ids; then set review_status=approved.",
+    "review_status": "approved",
+    "notes": "Reviewed: inclusive pronoun; removed vague opener on last fact.",
     "word_target": [
       120,
       180
@@ -441,7 +459,9 @@
       "Its efficiency is higher than when an engine drives a shaft through gears.",
       "Most locomotives and many ships use diesel-electric drive."
     ],
-    "false_claims": [],
+    "false_claims": [
+      "A diesel-electric engine burns fuel to turn wheels directly with no generator."
+    ],
     "source": {
       "type": "wikipedia_simple",
       "hf_dataset": "wikimedia/wikipedia",
@@ -452,8 +472,8 @@
       "extract_method": "lead_sentences_v1",
       "extracted_at": "2026-07-22T03:37:32Z"
     },
-    "review_status": "draft",
-    "notes": "Auto-draft via lead_sentences_v1. Edit or paraphrase facts for clarity and story-coverability; set split=eval only when reserving held-out ids; then set review_status=approved.",
+    "review_status": "approved",
+    "notes": "Reviewed: added rater trap; facts unchanged.",
     "word_target": [
       120,
       180
@@ -466,13 +486,15 @@
     "topic": "Et cetera",
     "domain": "other",
     "facts": [
-      "Et cetera means \"and the rest\" in Latin.",
-      "It is often used in English to continue a list that is longer than what can be normally written.",
-      "People most often write \"et cetera\" as etc..",
-      "It is also the symbol for \"and\".",
-      "Some people write it as \"ect\", but that is wrong since it incorrectly abbreviates \"et cetera\"."
+      "Et cetera means and the rest in Latin.",
+      "It is often used in English to shorten a longer list.",
+      "People usually write et cetera as etc.",
+      "Writing ect is incorrect because it does not abbreviate et cetera properly."
     ],
-    "false_claims": [],
+    "false_claims": [
+      "Etc. is the symbol for the word and.",
+      "Ect. is a correct spelling of et cetera."
+    ],
     "source": {
       "type": "wikipedia_simple",
       "hf_dataset": "wikimedia/wikipedia",
@@ -483,8 +505,8 @@
       "extract_method": "lead_sentences_v1",
       "extracted_at": "2026-07-22T03:37:32Z"
     },
-    "review_status": "draft",
-    "notes": "Auto-draft via lead_sentences_v1. Edit or paraphrase facts for clarity and story-coverability; set split=eval only when reserving held-out ids; then set review_status=approved.",
+    "review_status": "approved",
+    "notes": "Reviewed: removed incorrect symbol-for-and fact; added false_claims.",
     "word_target": [
       120,
       180
@@ -497,12 +519,14 @@
     "topic": "Editor",
     "domain": "other",
     "facts": [
-      "An Editor is a person who makes changes to documents.",
-      "More specifically the word editor can mean: a person who edits texts; see copy editing.",
-      "A newspaper or magazine editor is a person who prepares articles for printing and sometimes chooses which articles to put in the newspaper.",
-      "The main editor of a newspaper or magazine is called the \"editor-in chief\"."
+      "An editor is a person who makes changes to documents or texts.",
+      "A newspaper or magazine editor prepares articles and may choose which ones to publish.",
+      "The lead editor of a publication is called the editor-in-chief.",
+      "Copy editors check spelling, grammar, and clarity before printing."
     ],
-    "false_claims": [],
+    "false_claims": [
+      "An editor never changes the words in a document."
+    ],
     "source": {
       "type": "wikipedia_simple",
       "hf_dataset": "wikimedia/wikipedia",
@@ -513,8 +537,8 @@
       "extract_method": "lead_sentences_v1",
       "extracted_at": "2026-07-22T03:37:32Z"
     },
-    "review_status": "draft",
-    "notes": "Auto-draft via lead_sentences_v1. Edit or paraphrase facts for clarity and story-coverability; set split=eval only when reserving held-out ids; then set review_status=approved.",
+    "review_status": "approved",
+    "notes": "Reviewed: removed disambiguation stub; fixed editor-in-chief typo.",
     "word_target": [
       120,
       180
@@ -525,15 +549,16 @@
     "id": "fc_financial_capital_18",
     "split": "train",
     "topic": "Financial capital",
-    "domain": "geography",
+    "domain": "other",
     "facts": [
-      "Financial capital is a form of capital.",
-      "It is things that have value, but do not do anything by themselves.",
-      "They are only valuable because people value (want) them.",
-      "For example, money is a form of financial capital.",
-      "You cannot do anything with money but it still has value."
+      "Financial capital is money and other assets used in business and trade.",
+      "It has value because people agree it can be exchanged for goods or services.",
+      "Money, stocks, and bonds are examples of financial capital.",
+      "Financial capital does not produce goods by itself; it represents stored value."
     ],
-    "false_claims": [],
+    "false_claims": [
+      "Financial capital is the same thing as factory machines."
+    ],
     "source": {
       "type": "wikipedia_simple",
       "hf_dataset": "wikimedia/wikipedia",
@@ -544,8 +569,8 @@
       "extract_method": "lead_sentences_v1",
       "extracted_at": "2026-07-22T03:37:32Z"
     },
-    "review_status": "draft",
-    "notes": "Auto-draft via lead_sentences_v1. Edit or paraphrase facts for clarity and story-coverability; set split=eval only when reserving held-out ids; then set review_status=approved.",
+    "review_status": "approved",
+    "notes": "Reviewed: domain=other; replaced oversimplified money bullet.",
     "word_target": [
       120,
       180
@@ -556,15 +581,16 @@
     "id": "fc_harbor_19",
     "split": "train",
     "topic": "Harbor",
-    "domain": "nature",
+    "domain": "geography",
     "facts": [
-      "A harbor (American English) or harbour (British English) is a place where ships may shelter.",
-      "Some harbours are used as ports to load and unload ships.",
-      "The port will have quays or piers where the ships may be moored or tied up and a transport system for taking goods inland.",
-      "Often railway and road transport will be used.",
-      "Goods also move by pipeline transport and by smaller ships on rivers."
+      "A harbor is a sheltered place where ships can anchor safely.",
+      "Many harbors are also ports where ships load and unload cargo.",
+      "Ports have piers or quays where ships tie up.",
+      "Goods from ports move inland by road, rail, pipeline, or smaller river ships."
     ],
-    "false_claims": [],
+    "false_claims": [
+      "A harbor is always far inland with no access to water."
+    ],
     "source": {
       "type": "wikipedia_simple",
       "hf_dataset": "wikimedia/wikipedia",
@@ -575,8 +601,8 @@
       "extract_method": "lead_sentences_v1",
       "extracted_at": "2026-07-22T03:37:32Z"
     },
-    "review_status": "draft",
-    "notes": "Auto-draft via lead_sentences_v1. Edit or paraphrase facts for clarity and story-coverability; set split=eval only when reserving held-out ids; then set review_status=approved.",
+    "review_status": "approved",
+    "notes": "Reviewed: domain=geography; shortened and merged transport facts.",
     "word_target": [
       120,
       180
@@ -589,13 +615,14 @@
     "topic": "Hawaii (island)",
     "domain": "geography",
     "facts": [
-      "The Island of Hawaiʻi is the largest U.S.",
-      "Hawaiian Island, and it is the farthest south.",
+      "The Island of Hawaiʻi is the largest Hawaiian island and the southernmost one.",
       "The widest part of the island is 93 miles (150 km) across.",
-      "The Big Island has more than half (~62%) of the total land area of State of Hawaii.",
-      "It is part of County of Hawaii."
+      "The Big Island has more than half of the land area of the State of Hawaii.",
+      "The island is part of the County of Hawaii."
     ],
-    "false_claims": [],
+    "false_claims": [
+      "The Island of Hawaiʻi is the smallest Hawaiian island."
+    ],
     "source": {
       "type": "wikipedia_simple",
       "hf_dataset": "wikimedia/wikipedia",
@@ -606,8 +633,8 @@
       "extract_method": "lead_sentences_v1",
       "extracted_at": "2026-07-22T03:37:32Z"
     },
-    "review_status": "draft",
-    "notes": "Auto-draft via lead_sentences_v1. Edit or paraphrase facts for clarity and story-coverability; set split=eval only when reserving held-out ids; then set review_status=approved.",
+    "review_status": "approved",
+    "notes": "Reviewed: fixed broken U.S. sentence split; grammar on State/County.",
     "word_target": [
       120,
       180
@@ -616,16 +643,18 @@
   },
   {
     "id": "fc_healing_21",
-    "split": "train",
+    "split": "eval",
     "topic": "Healing",
     "domain": "body",
     "facts": [
-      "Healing is a process that happens in the body.",
-      "Through healing, cells are able to repair damaged tissue.",
-      "There are two different ways healing can happen: The damaged tissue is replaced with tissue of the same kind.",
-      "The damaged tissue is replaced with scar tissue."
+      "Healing is a process by which the body repairs damaged tissue.",
+      "Cells work together to fix injuries over time.",
+      "Sometimes damaged tissue is replaced with healthy tissue of the same kind.",
+      "Sometimes damaged tissue is replaced with scar tissue instead."
     ],
-    "false_claims": [],
+    "false_claims": [
+      "Healing means damaged tissue never changes."
+    ],
     "source": {
       "type": "wikipedia_simple",
       "hf_dataset": "wikimedia/wikipedia",
@@ -636,8 +665,8 @@
       "extract_method": "lead_sentences_v1",
       "extracted_at": "2026-07-22T03:37:32Z"
     },
-    "review_status": "draft",
-    "notes": "Auto-draft via lead_sentences_v1. Edit or paraphrase facts for clarity and story-coverability; set split=eval only when reserving held-out ids; then set review_status=approved.",
+    "review_status": "approved",
+    "notes": "Reviewed: split colon-style bullet into two scorable facts.",
     "word_target": [
       120,
       180
@@ -646,17 +675,18 @@
   },
   {
     "id": "fc_ielts_22",
-    "split": "train",
+    "split": "eval",
     "topic": "IELTS",
-    "domain": "nature",
+    "domain": "other",
     "facts": [
-      "The International English Language Testing System (IELTS) tests how fluent you are in the English language.",
-      "People who take the test take the Academic Module or the General Training Module.",
-      "The academic one is for people who want to go to university.",
-      "The general one is for people who want to do other training or want to get work experience.",
-      "People who want to emigrate to a country that uses English also take the general one."
+      "The International English Language Testing System (IELTS) measures English fluency.",
+      "Test takers choose the Academic Module or the General Training Module.",
+      "The Academic Module is for people applying to university.",
+      "The General Training Module is for work, training, or immigration."
     ],
-    "false_claims": [],
+    "false_claims": [
+      "IELTS tests only mathematics skills."
+    ],
     "source": {
       "type": "wikipedia_simple",
       "hf_dataset": "wikimedia/wikipedia",
@@ -667,8 +697,8 @@
       "extract_method": "lead_sentences_v1",
       "extracted_at": "2026-07-22T03:37:32Z"
     },
-    "review_status": "draft",
-    "notes": "Auto-draft via lead_sentences_v1. Edit or paraphrase facts for clarity and story-coverability; set split=eval only when reserving held-out ids; then set review_status=approved.",
+    "review_status": "approved",
+    "notes": "Reviewed: domain=other; consolidated redundant module facts.",
     "word_target": [
       120,
       180
@@ -677,7 +707,7 @@
   },
   {
     "id": "fc_ink_23",
-    "split": "train",
+    "split": "eval",
     "topic": "Ink",
     "domain": "other",
     "facts": [
@@ -687,7 +717,9 @@
       "People usually write or print using black ink, but ink can be any color.",
       "The first ink was used in Egypt about 2600 BC."
     ],
-    "false_claims": [],
+    "false_claims": [
+      "Ink is a solid metal used only in factories."
+    ],
     "source": {
       "type": "wikipedia_simple",
       "hf_dataset": "wikimedia/wikipedia",
@@ -698,8 +730,8 @@
       "extract_method": "lead_sentences_v1",
       "extracted_at": "2026-07-22T03:37:32Z"
     },
-    "review_status": "draft",
-    "notes": "Auto-draft via lead_sentences_v1. Edit or paraphrase facts for clarity and story-coverability; set split=eval only when reserving held-out ids; then set review_status=approved.",
+    "review_status": "approved",
+    "notes": "Reviewed: added rater trap; facts unchanged.",
     "word_target": [
       120,
       180
@@ -708,16 +740,18 @@
   },
   {
     "id": "fc_inch_24",
-    "split": "train",
+    "split": "eval",
     "topic": "Inch",
     "domain": "other",
     "facts": [
-      "The inch is a unit of length in the Imperial system and the United States customary system.",
-      "The abbreviation for inches is in or \".",
-      "There are 12 inches in a foot.",
-      "One inch is equal to 2.54 centimetres."
+      "The inch is a unit of length in the Imperial and U.S. customary systems.",
+      "Inches are written as in or with the double-prime symbol.",
+      "There are 12 inches in one foot.",
+      "One inch equals 2.54 centimeters."
     ],
-    "false_claims": [],
+    "false_claims": [
+      "One foot equals 12 centimeters."
+    ],
     "source": {
       "type": "wikipedia_simple",
       "hf_dataset": "wikimedia/wikipedia",
@@ -728,8 +762,8 @@
       "extract_method": "lead_sentences_v1",
       "extracted_at": "2026-07-22T03:37:32Z"
     },
-    "review_status": "draft",
-    "notes": "Auto-draft via lead_sentences_v1. Edit or paraphrase facts for clarity and story-coverability; set split=eval only when reserving held-out ids; then set review_status=approved.",
+    "review_status": "approved",
+    "notes": "Reviewed: clarified abbreviation wording after broken extraction.",
     "word_target": [
       120,
       180
@@ -738,16 +772,18 @@
   },
   {
     "id": "fc_insult_25",
-    "split": "train",
+    "split": "eval",
     "topic": "Insult",
-    "domain": "other",
+    "domain": "everyday",
     "facts": [
-      "An insult is a description of someone that will offend them.",
-      "It may or may not be true.",
-      "It is called derogatory language.",
-      "Terms like foolish, stupid, idiot and moron are insults, because they say that a person's mind is not quick or smart."
+      "An insult is words that offend or hurt someone.",
+      "An insult may or may not be true.",
+      "Insults are a form of derogatory language.",
+      "Words like foolish or stupid insult a person's intelligence."
     ],
-    "false_claims": [],
+    "false_claims": [
+      "An insult is always a true statement of fact."
+    ],
     "source": {
       "type": "wikipedia_simple",
       "hf_dataset": "wikimedia/wikipedia",
@@ -758,8 +794,8 @@
       "extract_method": "lead_sentences_v1",
       "extracted_at": "2026-07-22T03:37:32Z"
     },
-    "review_status": "draft",
-    "notes": "Auto-draft via lead_sentences_v1. Edit or paraphrase facts for clarity and story-coverability; set split=eval only when reserving held-out ids; then set review_status=approved.",
+    "review_status": "approved",
+    "notes": "Reviewed: shortened long bullet; domain=everyday.",
     "word_target": [
       120,
       180

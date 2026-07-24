@@ -142,7 +142,9 @@ python scripts/promote_fact_cards.py             # write JSONL
 
 ## Lane A next
 
-- [ ] Grow to ≥10 approved seed cards; reserve eval ids early  
+**Living checklist:** [`LANE_A_TRACKER.md`](./LANE_A_TRACKER.md) (review → promote → SFT → handoff).
+
+- [ ] Grow approved train/eval cards; reserve eval ids early  
 - [ ] Review/edit wiki drafts; promote approved ones  
 - [ ] More SFT pairs for M2 (`sft_pairs/train.jsonl`)  
 - [ ] Token estimates for matched Stage-2 budgets
