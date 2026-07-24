@@ -40,7 +40,11 @@ Examples
 
   python scripts/extract_fact_card_drafts.py \\
       --input data/raw/wikipedia/20231101_simple.jsonl \\
-      --max-drafts 200
+      --output data/fact_cards/drafts/wiki_candidates_batch2.json \\
+      --max-drafts 50 \\
+      --seed-seq 26 \\
+      --exclude-from data/fact_cards/train.jsonl \\
+      --exclude-from data/fact_cards/eval.jsonl
 """
 
 from __future__ import annotations
@@ -373,6 +377,39 @@ def extract_from_article(
     return facts or None
 
 
+def load_excluded_wiki_ids(paths: Sequence[Path]) -> Set[str]:
+    """
+    Collect wiki_id values already used in draft / approved card files.
+
+    Supports JSON arrays (drafts/*.json) and JSONL (train/eval). Skips missing
+    paths. Used to avoid re-extracting articles from a prior batch.
+    """
+    excluded: Set[str] = set()
+    for path in paths:
+        if not path.is_file():
+            continue
+        if path.suffix == ".jsonl":
+            with path.open("r", encoding="utf-8") as f:
+                for line in f:
+                    line = line.strip()
+                    if not line:
+                        continue
+                    obj = json.loads(line)
+                    wid = (obj.get("source") or {}).get("wiki_id")
+                    if wid is not None:
+                        excluded.add(str(wid))
+        else:
+            with path.open("r", encoding="utf-8") as f:
+                data = json.load(f)
+            if not isinstance(data, list):
+                continue
+            for obj in data:
+                wid = (obj.get("source") or {}).get("wiki_id")
+                if wid is not None:
+                    excluded.add(str(wid))
+    return excluded
+
+
 def parse_args(argv: Optional[List[str]] = None) -> argparse.Namespace:
     p = argparse.ArgumentParser(
         description=__doc__,
@@ -413,6 +450,17 @@ def parse_args(argv: Optional[List[str]] = None) -> argparse.Namespace:
         default=1,
         help="Starting nn suffix for fc_<slug>_<nn> ids",
     )
+    p.add_argument(
+        "--exclude-from",
+        type=Path,
+        action="append",
+        default=[],
+        metavar="PATH",
+        help=(
+            "Skip articles whose wiki_id appears in this drafts JSON or JSONL "
+            "(repeatable; e.g. train.jsonl, eval.jsonl, prior drafts)"
+        ),
+    )
     return p.parse_args(argv)
 
 
@@ -431,17 +479,26 @@ def main(argv: Optional[List[str]] = None) -> int:
 
     drafts: List[Dict[str, Any]] = []
     scanned = 0
+    skipped_used = 0
     seq = args.seed_seq
+    excluded_ids = load_excluded_wiki_ids(args.exclude_from)
 
     print(f"Input     : {in_path}")
     print(f"Output    : {out_path}")
     print(f"Method    : {EXTRACT_METHOD} ({SCHEMA_ID})")
     print(f"Max drafts: {args.max_drafts}")
+    print(f"Seed seq  : {args.seed_seq}")
+    if excluded_ids:
+        print(f"Excluding : {len(excluded_ids)} wiki_id(s) from prior cards")
     print("-" * 60)
 
     # Stream articles so full dumps do not need to sit in memory.
     for article in iter_jsonl(in_path):
         scanned += 1
+        wid = article.get("id")
+        if wid is not None and str(wid) in excluded_ids:
+            skipped_used += 1
+            continue
         facts = extract_from_article(
             article,
             min_chars_article=args.min_article_chars,
@@ -471,8 +528,14 @@ def main(argv: Optional[List[str]] = None) -> int:
         f.write("\n")
 
     print(f"Scanned articles : {scanned:,}")
+    if excluded_ids:
+        print(f"Skipped (used)   : {skipped_used:,}")
     print(f"Draft cards      : {len(drafts):,}")
-    print(f"Wrote            : {out_path.relative_to(REPO_ROOT)}  (JSON array)")
+    try:
+        rel_out = out_path.relative_to(REPO_ROOT)
+    except ValueError:
+        rel_out = out_path
+    print(f"Wrote            : {rel_out}  (JSON array)")
     if drafts:
         print("-" * 60)
         print("First draft preview:")
