@@ -1,6 +1,6 @@
 {
-  "created_at": "2026-07-23T19:08:16Z",
-  "smoke_only": true,
+  "created_at": "2026-07-25T02:00:40Z",
+  "smoke_only": false,
   "license_doc": "data/LICENSES.md",
   "license_metadata": "data/licenses.json",
   "corpora": {
@@ -19,14 +19,14 @@
       "license_doc": "data/LICENSES.md",
       "files": {
         "train": {
-          "path": "data\\raw\\tinystories\\train_smoke.jsonl",
-          "rows": 10000,
-          "size_mb": 8.96
+          "path": "data\\raw\\tinystories\\train.jsonl",
+          "rows": 2119719,
+          "size_mb": 1961.07
         },
         "validation": {
-          "path": "data\\raw\\tinystories\\validation_smoke.jsonl",
-          "rows": 1000,
-          "size_mb": 0.82
+          "path": "data\\raw\\tinystories\\validation.jsonl",
+          "rows": 21990,
+          "size_mb": 19.8
         }
       }
     },
@@ -56,13 +56,19 @@
       },
       "license_doc": "data/LICENSES.md",
       "files": {
-        "articles": {
+        "smoke": {
           "path": "data\\raw\\wikipedia\\20231101_simple_smoke.jsonl",
           "rows": 5000,
-          "size_mb": 22.21,
-          "row_cap": 5000
+          "size_mb": 22.21
+        },
+        "articles": {
+          "path": "data\\raw\\wikipedia\\20231101_simple.jsonl",
+          "rows": 241787,
+          "size_mb": 303.95,
+          "row_cap": null
         }
-      }
+      },
+      "elapsed_s": 12.8
     }
   }
 }

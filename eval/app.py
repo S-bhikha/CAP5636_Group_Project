@@ -90,7 +90,7 @@ def shuffled_order(prompt_id: str, system_ids: List[str]) -> List[str]:
 
 
 def append_scores(rows: List[Dict[str, Any]]) -> None:
-    is_new = not SCORES_CSV.exists()
+    is_new = not SCORES_CSV.exists() or SCORES_CSV.stat().st_size == 0
     SCORES_CSV.parent.mkdir(parents=True, exist_ok=True)
     with SCORES_CSV.open("a", encoding="utf-8", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=SCORE_FIELDS)
