@@ -3,22 +3,22 @@
 # Stage-2 token budget is a course/README requirement, not optional.
 mode: cpt
 system_id: B1
-run_id: b1_cpt_full
+run_id: b1_cpt_full_768
 
-init_ckpt: results/b0_full/checkpoint.pt
+init_ckpt: results/b0_full_768/checkpoint.pt
 
 data: data/raw/wikipedia/20231101_simple.jsonl
 
-batch_size: 16
-max_steps: 1000
-lr: 0.0001
-warmup_steps: 50
+batch_size: 8
+max_steps: 3000
+lr: 0.00005
+warmup_steps: 150
 weight_decay: 0.1
 
 # Cap tokenization time on the ~242k-article full file.
-max_tokenize_tokens: 5000000
+max_tokenize_tokens: 40000000
 
-eval_every: 50
-gen_every: 200
+eval_every: 100
+gen_every: 250
 ckpt_every: 250
 seed: 0

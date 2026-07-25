@@ -3,22 +3,22 @@
 # Stage-2 token budget is a course/README requirement, not optional.
 mode: sft
 system_id: M2
-run_id: m2_sft_full
+run_id: m2_sft_full_768
 
-init_ckpt: results/b0_full/checkpoint.pt
+init_ckpt: results/b0_full_768/checkpoint.pt
 
 fact_cards: data/fact_cards/train.jsonl
 eval_cards: data/fact_cards/eval.jsonl
 sft_pairs: data/sft_pairs/train.jsonl
 templates: data/prompts/templates.json
 
-batch_size: 16
-max_steps: 1000
-lr: 0.0001
-warmup_steps: 50
+batch_size: 8
+max_steps: 3000
+lr: 0.00005
+warmup_steps: 150
 weight_decay: 0.1
 
-eval_every: 50
-gen_every: 200
+eval_every: 100
+gen_every: 250
 ckpt_every: 250
 seed: 0

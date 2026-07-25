@@ -1,24 +1,26 @@
 # Stage 1 (B0) -- full pretrain. Needs: python scripts/download_data.py (no --smoke-only)
-run_id: b0_full
+# ~2x lab scale: 10L / 768d / 12H (~78M). If vocab_size differs from existing
+# bpe_tokenizer/, retrain with --retrain-tokenizer.
+run_id: b0_full_768
 data: data/raw/tinystories/train.jsonl
 val_data: data/raw/tinystories/validation.jsonl
 
-vocab_size: 8000
+vocab_size: 10000
 block_size: 256
-n_layer: 6
-n_head: 8
-n_embd: 256
+n_layer: 10
+n_head: 12
+n_embd: 768
 dropout: 0.10
 pos_encoding: learned
 
-batch_size: 32
-max_steps: 8000
+batch_size: 16
+max_steps: 10000
 lr: 0.0003
-warmup_steps: 200
+warmup_steps: 250
 weight_decay: 0.1
 
 # Cap tokenization time on the ~2M-row full file; raise/remove for a bigger budget.
-max_tokenize_tokens: 20000000
+max_tokenize_tokens: 80000000
 
 eval_every: 200
 gen_every: 1000
