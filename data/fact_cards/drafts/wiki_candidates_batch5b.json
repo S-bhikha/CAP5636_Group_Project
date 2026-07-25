@@ -1,0 +1,2671 @@
+[
+  {
+    "id": "fc_wikispecies_1326",
+    "split": "train",
+    "topic": "Wikispecies",
+    "domain": "other",
+    "facts": [
+      "Wikispecies is a sister project of Wikipedia, and so it is a wiki supported by the Wikimedia Foundation.",
+      "It is a free directory of species that wants to make a full catalog of all living things.",
+      "It tells of how species are classified into groups (taxonomy), and how those groups are similar to one another.",
+      "It calls itself the \"directory of life\"."
+    ],
+    "false_claims": [],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "27627",
+      "title": "Wikispecies",
+      "url": "https://simple.wikipedia.org/wiki/Wikispecies",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "rejected",
+    "notes": "Rejected: Meta Wikimedia sister-project blurb, not a teachable story topic.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_audiolingual_method_1327",
+    "split": "train",
+    "topic": "Audiolingual method",
+    "domain": "other",
+    "facts": [
+      "The Audiolingual Method is a way to teach foreign languages.",
+      "Linguists at the University of Michigan developed it in the late 1950s.",
+      "Students first hear the language, then speak it, then read and write.",
+      "Teachers avoid using the students' native language in class.",
+      "The method is similar to the Direct Method of language teaching."
+    ],
+    "false_claims": [
+      "The Audiolingual Method teaches only by silent reading.",
+      "Teachers must always speak the students' native language first."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "27713",
+      "title": "Audiolingual method",
+      "url": "https://simple.wikipedia.org/wiki/Audiolingual%20method",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_montenegro_1328",
+    "split": "eval",
+    "topic": "Montenegro",
+    "domain": "geography",
+    "facts": [
+      "Montenegro is a country in Southeastern Europe.",
+      "Its name means Black Mountain.",
+      "Montenegro lies on the Adriatic Sea near Albania and Croatia.",
+      "It also borders Serbia and Bosnia and Herzegovina.",
+      "For much of the 20th century it was part of Yugoslavia.",
+      "Before World War I, Montenegro existed as an independent kingdom."
+    ],
+    "false_claims": [
+      "Montenegro is a landlocked country in Central Asia.",
+      "Montenegro has never been part of Yugoslavia."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "27716",
+      "title": "Montenegro",
+      "url": "https://simple.wikipedia.org/wiki/Montenegro",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_st_louis_1329",
+    "split": "train",
+    "topic": "St. Louis",
+    "domain": "geography",
+    "facts": [
+      "St. Louis is a major city in the United States.",
+      "The city sits beside the Mississippi River.",
+      "French settlers founded St. Louis.",
+      "It was named after King Louis IX of France, who is also a saint.",
+      "People call it the Gateway City because settlers traveled west from there.",
+      "Its most famous landmark is the Gateway Arch."
+    ],
+    "false_claims": [
+      "St. Louis is a small village on the Pacific Ocean.",
+      "The Gateway Arch is in New York City."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "27737",
+      "title": "St. Louis",
+      "url": "https://simple.wikipedia.org/wiki/St.%20Louis",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_sarasota_florida_1330",
+    "split": "train",
+    "topic": "Sarasota, Florida",
+    "domain": "geography",
+    "facts": [
+      "Sarasota is a city on the west coast of Florida in the United States.",
+      "The Ringling Bros. and Barnum & Bailey Circus long made its winter home there.",
+      "Sarasota sits along the Gulf of Mexico.",
+      "The city is known for beaches, arts, and circus history."
+    ],
+    "false_claims": [
+      "Sarasota is a mountain town in Colorado.",
+      "The Ringling circus never had any connection to Sarasota."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "27740",
+      "title": "Sarasota, Florida",
+      "url": "https://simple.wikipedia.org/wiki/Sarasota%2C%20Florida",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_paul_reubens_1331",
+    "split": "train",
+    "topic": "Paul Reubens",
+    "domain": "other",
+    "facts": [
+      "He was of Jewish descent.",
+      "He appeared in many movies and television series in the late 1970s and early 1980s and worked with a group called \"The Groundlings\".",
+      "Around this time, Reubens created Pee-Wee for a stage show, which was a parody of old kids programs.",
+      "In 1985, he starred in a movie called Pee-wee's Big Adventure, which was very successful.",
+      "The next year, he got his own television program, Pee-wee's Playhouse."
+    ],
+    "false_claims": [],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "27742",
+      "title": "Paul Reubens",
+      "url": "https://simple.wikipedia.org/wiki/Paul%20Reubens",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "rejected",
+    "notes": "Rejected: Celebrity actor and Pee-wee Herman trivia, not teachable.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_john_c_calhoun_1332",
+    "split": "train",
+    "topic": "John C. Calhoun",
+    "domain": "history",
+    "facts": [
+      "John C. Calhoun was a U.S. vice president in the 1800s.",
+      "He served as vice president under John Quincy Adams and Andrew Jackson.",
+      "Calhoun is one of the few people to be vice president under two presidents.",
+      "He was born in 1782 and died in 1850.",
+      "His father was an Irish immigrant."
+    ],
+    "false_claims": [
+      "John C. Calhoun was never vice president of the United States.",
+      "Calhoun served only under Abraham Lincoln."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "27754",
+      "title": "John C. Calhoun",
+      "url": "https://simple.wikipedia.org/wiki/John%20C.%20Calhoun",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_collision_1333",
+    "split": "train",
+    "topic": "Collision",
+    "domain": "science",
+    "facts": [
+      "A collision happens when two objects bump into each other.",
+      "Car crashes, bouncing balls, and pool shots are examples of collisions.",
+      "Scientists group collisions as elastic or inelastic.",
+      "In an elastic collision, objects bounce apart and keep more motion energy.",
+      "In an inelastic collision, objects may stick or lose more motion energy."
+    ],
+    "false_claims": [
+      "A collision only happens when objects never touch.",
+      "There is only one kind of collision in science."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "27761",
+      "title": "Collision",
+      "url": "https://simple.wikipedia.org/wiki/Collision",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_international_organization_1334",
+    "split": "train",
+    "topic": "International organization",
+    "domain": "other",
+    "facts": [
+      "An international organization works in more than one country.",
+      "These groups usually cannot rule countries the way a government can.",
+      "Many are intergovernmental, so countries themselves are the members.",
+      "Member governments may agree to follow the organization's rules.",
+      "The United Nations is one well-known international organization."
+    ],
+    "false_claims": [
+      "An international organization can exist in only one city and one country.",
+      "The United Nations is a private sports club, not an organization of countries."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "27789",
+      "title": "International organization",
+      "url": "https://simple.wikipedia.org/wiki/International%20organization",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_odysseus_1335",
+    "split": "train",
+    "topic": "Odysseus",
+    "domain": "other",
+    "facts": [
+      "In Greek mythology, Odysseus was a famous hero and king.",
+      "He was the king of the island of Ithaca.",
+      "Odysseus was married to Penelope.",
+      "Odysseus and Penelope had a son named Telemachus.",
+      "He is a major character in Homer's Iliad and Odyssey.",
+      "Stories say he was a great-grandson of the god Hermes."
+    ],
+    "false_claims": [
+      "Odysseus was a Roman emperor who ruled France.",
+      "Odysseus never appears in Homer's Odyssey."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "27859",
+      "title": "Odysseus",
+      "url": "https://simple.wikipedia.org/wiki/Odysseus",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_cast_iron_1336",
+    "split": "train",
+    "topic": "Cast iron",
+    "domain": "science",
+    "facts": [
+      "Cast iron is a hard metal made mostly of iron.",
+      "It is an alloy, which means iron mixed with other elements.",
+      "Two main types are grey cast iron and white cast iron.",
+      "Cast iron usually contains a lot of iron plus some carbon and silicon.",
+      "Grey and white cast iron differ mainly in how much silicon they contain.",
+      "People cast the metal in molds to shape tools and parts."
+    ],
+    "false_claims": [
+      "Cast iron is a soft plastic with no metal in it.",
+      "There is only one kind of cast iron in the world."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "27860",
+      "title": "Cast iron",
+      "url": "https://simple.wikipedia.org/wiki/Cast%20iron",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_spleen_1337",
+    "split": "eval",
+    "topic": "Spleen",
+    "domain": "body",
+    "facts": [
+      "The spleen is an organ found in vertebrates.",
+      "It is part of the lymphatic system.",
+      "In people, the spleen sits on the left side of the body under the ribs.",
+      "The spleen helps the body fight infections.",
+      "It also helps keep blood cells healthy."
+    ],
+    "false_claims": [
+      "The spleen is a bone in the foot.",
+      "People have no spleen and do not need one for fighting infections."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "27966",
+      "title": "Spleen",
+      "url": "https://simple.wikipedia.org/wiki/Spleen",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_administrator_1338",
+    "split": "train",
+    "topic": "Administrator",
+    "domain": "everyday",
+    "facts": [
+      "Administrators or admins are people who organize things like businesses.",
+      "They make decisions, organize the people who work there and make sure that things are working alright and there are no problems.",
+      "Their work is called \"administration\".",
+      "The administrators are part of the \"management\"."
+    ],
+    "false_claims": [],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28038",
+      "title": "Administrator",
+      "url": "https://simple.wikipedia.org/wiki/Administrator",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "rejected",
+    "notes": "Rejected: Thin abstract job definition with few checkable story facts.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_international_law_1339",
+    "split": "train",
+    "topic": "International law",
+    "domain": "other",
+    "facts": [
+      "International law is the law that is used when there is a conflict between countries.",
+      "There are two different types of international law: Public International Law applies to all countries but is not enforceable.",
+      "Private International Law is when there is a conflict between two or more countries that broke a certain law based on the countries' law.",
+      "It is composed of a set of treaties."
+    ],
+    "false_claims": [],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28041",
+      "title": "International law",
+      "url": "https://simple.wikipedia.org/wiki/International%20law",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "rejected",
+    "notes": "Rejected: Abstract legal mush with broken, hard-to-check claims.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_the_hague_1340",
+    "split": "train",
+    "topic": "The Hague",
+    "domain": "geography",
+    "facts": [
+      "The Hague is a large city in the Netherlands.",
+      "It is the third-largest city after Amsterdam and Rotterdam.",
+      "The Hague is in the west of the country in the province of South Holland.",
+      "It is the capital of the province of South Holland.",
+      "About one million people live in its wider urban area."
+    ],
+    "false_claims": [
+      "The Hague is the capital city of Belgium.",
+      "The Hague is a tiny village with no urban area."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28046",
+      "title": "The Hague",
+      "url": "https://simple.wikipedia.org/wiki/The%20Hague",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_s_a_s_1341",
+    "split": "train",
+    "topic": "S.A.S.",
+    "domain": "history",
+    "facts": [
+      "The S.A.S., or Special Air Service, is a special forces unit of the British Army.",
+      "It was founded in 1941 during World War II.",
+      "Early SAS missions attacked behind German lines in North Africa.",
+      "SAS soldiers receive very hard training.",
+      "Only a few hundred soldiers serve in active SAS units."
+    ],
+    "false_claims": [
+      "The S.A.S. is a cooking school in France.",
+      "The S.A.S. was founded in the year 2000."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28049",
+      "title": "S.A.S.",
+      "url": "https://simple.wikipedia.org/wiki/S.A.S.",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_church_of_england_1342",
+    "split": "train",
+    "topic": "Church of England",
+    "domain": "history",
+    "facts": [
+      "The Church of England is the main Christian church in England.",
+      "It is established by law as England's official church.",
+      "The English monarch is its formal head.",
+      "It is the mother church of the Anglican Communion.",
+      "Its headquarters are at Church House in Westminster, London."
+    ],
+    "false_claims": [
+      "The Church of England is a Buddhist temple in Japan.",
+      "The Church of England has no connection to the English monarch."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28053",
+      "title": "Church of England",
+      "url": "https://simple.wikipedia.org/wiki/Church%20of%20England",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_poll_tax_1343",
+    "split": "train",
+    "topic": "Poll tax",
+    "domain": "history",
+    "facts": [
+      "A poll tax is a tax that charges each person the same amount.",
+      "It is also called a head tax.",
+      "Everyone pays the same, no matter how much they earn.",
+      "In Britain, a modern poll tax was once called the Community Charge.",
+      "Poll taxes have been used in different countries at different times."
+    ],
+    "false_claims": [
+      "A poll tax charges only the richest people a higher rate.",
+      "Poll tax means a tax paid only with postage stamps."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28063",
+      "title": "Poll tax",
+      "url": "https://simple.wikipedia.org/wiki/Poll%20tax",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_copa_libertadores_1344",
+    "split": "train",
+    "topic": "Copa Libertadores",
+    "domain": "other",
+    "facts": [
+      "CONMEBOL Libertadores or Copa Libertadores (Libertadores Cup) is a football competition between the best club teams in South America.",
+      "The teams are qualified based on how well they did in the national tournament.",
+      "The last year winner has assured participation.",
+      "The tournament is run by Confederación Sudamericana de Fútbol (CONMEBOL)."
+    ],
+    "false_claims": [],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28088",
+      "title": "Copa Libertadores",
+      "url": "https://simple.wikipedia.org/wiki/Copa%20Libertadores",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "rejected",
+    "notes": "Rejected: Sports tournament trivia, not a TinyStories teaching topic.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_the_freecycle_network_1345",
+    "split": "train",
+    "topic": "The Freecycle Network",
+    "domain": "everyday",
+    "facts": [
+      "The Freecycle Network is a worldwide group of people who give away items for free.",
+      "Members organize local groups through the Internet.",
+      "People offer things they no longer need instead of throwing them away.",
+      "Other people can take those free items for reuse.",
+      "The goal is to keep useful things out of the trash."
+    ],
+    "false_claims": [
+      "Freecycle is a bank that only sells gold coins.",
+      "Freecycle members must always pay high prices for every item."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28096",
+      "title": "The Freecycle Network",
+      "url": "https://simple.wikipedia.org/wiki/The%20Freecycle%20Network",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_railfan_1346",
+    "split": "train",
+    "topic": "Railfan",
+    "domain": "everyday",
+    "facts": [
+      "A railfan is a person who likes railways and trains.",
+      "Railfans often take pictures of trains.",
+      "Many railfans also like to watch trains pass by.",
+      "Some railfans build model railways at home.",
+      "Model railways are small toy versions of real train systems."
+    ],
+    "false_claims": [
+      "A railfan is someone who hates all trains.",
+      "Railfans never take photos or watch trains."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28100",
+      "title": "Railfan",
+      "url": "https://simple.wikipedia.org/wiki/Railfan",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_time_magazine_1347",
+    "split": "train",
+    "topic": "Time (magazine)",
+    "domain": "other",
+    "facts": [
+      "Time is an American news magazine.",
+      "It is published every week in the United States.",
+      "Time Inc. has published the magazine.",
+      "Its articles cover politics and current events.",
+      "Time became one of the best-known news magazines in the world."
+    ],
+    "false_claims": [
+      "Time magazine is only a cookbook about desserts.",
+      "Time magazine never covers politics or current events."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28101",
+      "title": "Time (magazine)",
+      "url": "https://simple.wikipedia.org/wiki/Time%20%28magazine%29",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_cable_television_1348",
+    "split": "train",
+    "topic": "Cable television",
+    "domain": "everyday",
+    "facts": [
+      "Cable television lets people watch TV without an outdoor antenna.",
+      "TV signals travel to the set through a cable or optical fiber.",
+      "People usually pay a fee to subscribe to cable TV.",
+      "Cable systems carry many channels and shows.",
+      "Some channels are regular TV stations, and others are made for cable."
+    ],
+    "false_claims": [
+      "Cable television works only by shouting into a megaphone.",
+      "Cable TV can never carry more than one channel."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28102",
+      "title": "Cable television",
+      "url": "https://simple.wikipedia.org/wiki/Cable%20television",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_jerk_1349",
+    "split": "train",
+    "topic": "Jerk",
+    "domain": "science",
+    "facts": [
+      "In physics, jerk is how quickly acceleration changes.",
+      "Jerk is the rate of change of acceleration over time.",
+      "People also call jerk jolt, surge, or lurch.",
+      "Jerk is a vector quantity with both size and direction.",
+      "Feeling a sudden jolt in a car is a real-world example of jerk."
+    ],
+    "false_claims": [
+      "Jerk in physics means the color of an object.",
+      "Acceleration never changes, so jerk does not exist."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28111",
+      "title": "Jerk",
+      "url": "https://simple.wikipedia.org/wiki/Jerk",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_gravitational_energy_1350",
+    "split": "eval",
+    "topic": "Gravitational energy",
+    "domain": "science",
+    "facts": [
+      "Gravitational energy is energy an object has because of its height.",
+      "It is a form of potential energy linked to gravity.",
+      "A pen held above a table has more gravitational energy than a pen on the table.",
+      "When the pen falls, some of that energy turns into motion.",
+      "Gravitational potential energy is measured in joules."
+    ],
+    "false_claims": [
+      "An object has more gravitational energy the lower it sits.",
+      "Gravitational energy has nothing to do with height or gravity."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28144",
+      "title": "Gravitational energy",
+      "url": "https://simple.wikipedia.org/wiki/Gravitational%20energy",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_michael_hayden_1351",
+    "split": "train",
+    "topic": "Michael Hayden",
+    "domain": "history",
+    "facts": [
+      "Michael Hayden (born March 17, 1945) is an American politician, writer and military personnel.",
+      "On 24 May 2006, he was voted as the new head of the CIA by the United States Senate.",
+      "The NSA and CIA are both spy agencies.",
+      "He has worked as a spy since 1970."
+    ],
+    "false_claims": [],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28183",
+      "title": "Michael Hayden",
+      "url": "https://simple.wikipedia.org/wiki/Michael%20Hayden",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "rejected",
+    "notes": "Rejected: Celebrity/political spy-agency bio trivia.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_lutherstadt_wittenberg_1352",
+    "split": "train",
+    "topic": "Lutherstadt Wittenberg",
+    "domain": "history",
+    "facts": [
+      "Lutherstadt Wittenberg is a town in the German state of Saxony-Anhalt.",
+      "In the 1500s it became an important center of culture and religion.",
+      "Martin Luther lived and worked in Wittenberg.",
+      "The town is famous for places linked to the Protestant Reformation.",
+      "Many visitors travel there to see its historic Reformation sites."
+    ],
+    "false_claims": [
+      "Wittenberg is a modern beach resort in Australia.",
+      "Martin Luther never had any connection to Wittenberg."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28184",
+      "title": "Lutherstadt Wittenberg",
+      "url": "https://simple.wikipedia.org/wiki/Lutherstadt%20Wittenberg",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_macrosociology_1353",
+    "split": "train",
+    "topic": "Macrosociology",
+    "domain": "other",
+    "facts": [
+      "Macro-sociology is a way of looking at the world of people in a broad way.",
+      "It studies mass of many peoples.",
+      "It is about \"concerned with human societies\".",
+      "Macrosociology is considered one of the main foundations of sociology (contrast with micro-sociology)."
+    ],
+    "false_claims": [],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28273",
+      "title": "Macrosociology",
+      "url": "https://simple.wikipedia.org/wiki/Macrosociology",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "rejected",
+    "notes": "Rejected: Philosophical sociology mush, not story-teachable.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_moldovan_language_1354",
+    "split": "train",
+    "topic": "Moldovan language",
+    "domain": "other",
+    "facts": [
+      "Moldovan is a name used for the official language of Moldova.",
+      "Moldovan is almost the same as Romanian.",
+      "Under Soviet rule, Moldovan was often written with the Cyrillic alphabet.",
+      "In 1989, Moldova began using the Latin alphabet like Romania.",
+      "In 2013, Moldova's government recognized Romanian as the official language."
+    ],
+    "false_claims": [
+      "Moldovan is completely unrelated to Romanian.",
+      "Moldova has always used only the Chinese writing system."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28313",
+      "title": "Moldovan language",
+      "url": "https://simple.wikipedia.org/wiki/Moldovan%20language",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_electrical_resistance_1355",
+    "split": "eval",
+    "topic": "Electrical resistance",
+    "domain": "science",
+    "facts": [
+      "Electrical resistance measures how hard it is for electric current to pass through something.",
+      "Higher resistance means less current flows for the same voltage.",
+      "Resistance helps explain the link between voltage and current.",
+      "The opposite of resistance is called conductance.",
+      "Almost all ordinary objects have some resistance.",
+      "Superconductors are special materials with nearly zero resistance."
+    ],
+    "false_claims": [
+      "Higher resistance always makes more current flow.",
+      "No object can ever resist an electric current."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28328",
+      "title": "Electrical resistance",
+      "url": "https://simple.wikipedia.org/wiki/Electrical%20resistance",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_mount_merapi_1356",
+    "split": "train",
+    "topic": "Mount Merapi",
+    "domain": "geography",
+    "facts": [
+      "Mount Merapi is a volcano in Indonesia.",
+      "It stands on the island of Java.",
+      "Merapi is one of Indonesia's most active volcanoes.",
+      "In Indonesian, its name means mountain of fire.",
+      "The volcano has erupted many times and is closely watched."
+    ],
+    "false_claims": [
+      "Mount Merapi is a quiet lake in Canada.",
+      "Merapi means mountain of ice in Indonesian."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28338",
+      "title": "Mount Merapi",
+      "url": "https://simple.wikipedia.org/wiki/Mount%20Merapi",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_janus_1357",
+    "split": "train",
+    "topic": "Janus",
+    "domain": "history",
+    "facts": [
+      "Janus was a god in Roman mythology.",
+      "He was the god of beginnings, endings, gates, and doorways.",
+      "Artists usually show Janus with two faces.",
+      "One face looks to the past and the other looks to the future.",
+      "The Romans named the month of January after Janus."
+    ],
+    "false_claims": [
+      "Janus was a one-faced Greek sea monster.",
+      "January was named after a Roman cooking pot, not Janus."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28352",
+      "title": "Janus",
+      "url": "https://simple.wikipedia.org/wiki/Janus",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_osnabr_ck_1358",
+    "split": "train",
+    "topic": "Osnabrück",
+    "domain": "geography",
+    "facts": [
+      "Osnabrück is a city in Germany.",
+      "It is in the state of Lower Saxony.",
+      "Stories say Charlemagne founded the city.",
+      "Osnabrück is twinned with Derby in the United Kingdom.",
+      "The city also has sister cities in other parts of Europe."
+    ],
+    "false_claims": [
+      "Osnabrück is a desert town in Egypt.",
+      "Osnabrück has never been linked to any other European city."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28372",
+      "title": "Osnabrück",
+      "url": "https://simple.wikipedia.org/wiki/Osnabr%C3%BCck",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_satoshi_tajiri_1359",
+    "split": "train",
+    "topic": "Satoshi Tajiri",
+    "domain": "other",
+    "facts": [
+      "Satoshi Tajiri created the world of Pokémon.",
+      "As a child in Tokyo, he loved collecting insects in the forest.",
+      "Pokémon collecting was inspired by that childhood hobby.",
+      "He first wanted to become a scientist who studied insects.",
+      "Tajiri started a magazine called Game Freak, then a game company with the same name.",
+      "He first thought of the Pokémon idea around 1990."
+    ],
+    "false_claims": [
+      "Satoshi Tajiri invented Pokémon after hating all insects.",
+      "Pokémon was created by a sports team in Canada in 2015."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28383",
+      "title": "Satoshi Tajiri",
+      "url": "https://simple.wikipedia.org/wiki/Satoshi%20Tajiri",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_ilkley_1360",
+    "split": "train",
+    "topic": "Ilkley",
+    "domain": "geography",
+    "facts": [
+      "Ilkley is a town in West Yorkshire, England.",
+      "It lies in the City of Bradford area.",
+      "Ilkley Moor is a large grassy moor near the town.",
+      "Walkers visit the Cow and Calf Rocks on the moor.",
+      "A pub called the Cow and Calf stands near those rocks.",
+      "Many tourists visit Ilkley for walks on the moor."
+    ],
+    "false_claims": [
+      "Ilkley is a port city on the coast of Florida.",
+      "Ilkley Moor is a busy underground subway station."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28385",
+      "title": "Ilkley",
+      "url": "https://simple.wikipedia.org/wiki/Ilkley",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_king_of_arms_1361",
+    "split": "train",
+    "topic": "King of Arms",
+    "domain": "history",
+    "facts": [
+      "A King of Arms is a high government officer of heraldry.",
+      "Countries such as England, Scotland, and Wales have had this office.",
+      "A King of Arms can grant coats of arms to people.",
+      "King of Arms is the highest rank among officers of arms.",
+      "Some countries use a different official to grant coats of arms."
+    ],
+    "false_claims": [
+      "A King of Arms is a chef who only cooks soup.",
+      "No country has ever had an officer who grants coats of arms."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28391",
+      "title": "King of Arms",
+      "url": "https://simple.wikipedia.org/wiki/King%20of%20Arms",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_strategy_1362",
+    "split": "train",
+    "topic": "Strategy",
+    "domain": "other",
+    "facts": [
+      "Strategy is a word which was first used by the military.",
+      "It comes from an ancient Greek word for the general officer commanding all the armed forces of a state.",
+      "A strategy is a long term plan on what to do to achieve a certain goal.",
+      "When talking about the near future, people often use the word tactics.",
+      "Military theorist Carl von Clausewitz said \"tactics is the art of using troops in battle; strategy is the art of using battles to win the war\".",
+      "Today, the word \"strategy\" is in common use; people might talk about \"business strategy\", for example."
+    ],
+    "false_claims": [],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28411",
+      "title": "Strategy",
+      "url": "https://simple.wikipedia.org/wiki/Strategy",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "rejected",
+    "notes": "Rejected: Abstract definitional mush about strategy vs tactics.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_round_music_1363",
+    "split": "train",
+    "topic": "Round (music)",
+    "domain": "other",
+    "facts": [
+      "A round is a song that two or more groups can sing together.",
+      "One group starts singing, then the next group begins the same song a little later.",
+      "The overlapping parts are meant to sound pleasant together.",
+      "When a group finishes the song, it can start again from the beginning.",
+      "Groups may sing the same round several times in a loop."
+    ],
+    "false_claims": [
+      "A round in music can be sung by only one silent person.",
+      "In a round, later groups must sing a completely different song."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28430",
+      "title": "Round (music)",
+      "url": "https://simple.wikipedia.org/wiki/Round%20%28music%29",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_addenbrooke_s_hospital_1364",
+    "split": "train",
+    "topic": "Addenbrooke's Hospital",
+    "domain": "everyday",
+    "facts": [
+      "Addenbrooke's Hospital is a large hospital in Cambridge, England.",
+      "A newer hospital building was begun in 1962.",
+      "The old hospital building closed in 1984.",
+      "Cambridge University Hospitals NHS Foundation Trust runs the hospital.",
+      "On special open days, visitors can tour parts of the hospital."
+    ],
+    "false_claims": [
+      "Addenbrooke's Hospital is a tiny clinic in the Sahara Desert.",
+      "The hospital has never had any connection to Cambridge."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28435",
+      "title": "Addenbrooke's Hospital",
+      "url": "https://simple.wikipedia.org/wiki/Addenbrooke%27s%20Hospital",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_john_adams_composer_1365",
+    "split": "train",
+    "topic": "John Adams (composer)",
+    "domain": "other",
+    "facts": [
+      "John Coolidge Adams is an American composer.",
+      "He was born in Worcester, Massachusetts.",
+      "His music often uses a style called minimalism.",
+      "He writes for large orchestras and many different sounds.",
+      "He was named after John Adams, the second U.S. president."
+    ],
+    "false_claims": [
+      "John Adams the composer was born in ancient Rome.",
+      "His music never uses orchestras or minimalism."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28440",
+      "title": "John Adams (composer)",
+      "url": "https://simple.wikipedia.org/wiki/John%20Adams%20%28composer%29",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_april_fools_day_1366",
+    "split": "train",
+    "topic": "April Fools' Day",
+    "domain": "everyday",
+    "facts": [
+      "April Fools' Day is celebrated in many countries on April 1.",
+      "People play practical jokes on friends and family that day.",
+      "The jokes are meant to surprise or embarrass someone.",
+      "In some countries, April Fools jokes are only allowed until noon.",
+      "Someone who plays a joke after noon may be called an April Fool."
+    ],
+    "false_claims": [
+      "April Fools' Day is celebrated on December 25.",
+      "Practical jokes are banned on April Fools' Day."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28592",
+      "title": "April Fools' Day",
+      "url": "https://simple.wikipedia.org/wiki/April%20Fools%27%20Day",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_mutual_assured_destruction_1367",
+    "split": "train",
+    "topic": "Mutual assured destruction",
+    "domain": "history",
+    "facts": [
+      "Mutual assured destruction is a military idea about nuclear weapons.",
+      "It says two sides can destroy each other if either starts a nuclear war.",
+      "Both sides must have enough nuclear weapons to strike back.",
+      "If one side attacks with nuclear weapons, the other can attack back.",
+      "The idea is that neither side will start an attack that would also destroy itself."
+    ],
+    "false_claims": [
+      "Mutual assured destruction means only one side has nuclear weapons.",
+      "The idea encourages countries to start nuclear wars."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28716",
+      "title": "Mutual assured destruction",
+      "url": "https://simple.wikipedia.org/wiki/Mutual%20assured%20destruction",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_pontiac_silverdome_1368",
+    "split": "train",
+    "topic": "Pontiac Silverdome",
+    "domain": "other",
+    "facts": [
+      "The Pontiac Silverdome is a domed stadium in the town of Pontiac, Michigan, near Detroit.",
+      "The largest crowds to come to the stadium were for WrestleMania III on March 29, 1987, where the main event was a match between Hulk Hogan and André the Giant.",
+      "The crowd attendance for that night reached 93,173, which is also the record for indoor attendance.",
+      "The Detroit Lions NFL team played at the stadium from 1975 until 2001."
+    ],
+    "false_claims": [],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28784",
+      "title": "Pontiac Silverdome",
+      "url": "https://simple.wikipedia.org/wiki/Pontiac%20Silverdome",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "rejected",
+    "notes": "Batch 5 QA pass: rejected — sports stadium trivia",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_fran_ois_couperin_1369",
+    "split": "train",
+    "topic": "François Couperin",
+    "domain": "history",
+    "facts": [
+      "François Couperin was a French composer in the Baroque period.",
+      "He was born in Paris in 1668 and died there in 1733.",
+      "He is sometimes called Couperin the Great because he was the most famous Couperin.",
+      "He is best known today for his harpsichord music.",
+      "He wrote suites of dance pieces that he called Ordres."
+    ],
+    "false_claims": [
+      "François Couperin was a famous Spanish painter.",
+      "Couperin is best known for writing heavy metal songs."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28810",
+      "title": "François Couperin",
+      "url": "https://simple.wikipedia.org/wiki/Fran%C3%A7ois%20Couperin",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_christoph_willibald_von_gluck_1370",
+    "split": "train",
+    "topic": "Christoph Willibald von Gluck",
+    "domain": "history",
+    "facts": [
+      "Christoph Willibald von Gluck was a German composer.",
+      "He was born in 1714 and died in Vienna in 1787.",
+      "He is famous for writing operas in a new dramatic style.",
+      "He wanted operas to tell a strong story, not only show off singers.",
+      "He wrote both Italian operas and French operas.",
+      "Later composers such as Mozart were influenced by his operas."
+    ],
+    "false_claims": [
+      "Gluck was a German painter of landscapes.",
+      "Gluck refused to write any French operas."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28811",
+      "title": "Christoph Willibald von Gluck",
+      "url": "https://simple.wikipedia.org/wiki/Christoph%20Willibald%20von%20Gluck",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_frederick_delius_1371",
+    "split": "train",
+    "topic": "Frederick Delius",
+    "domain": "history",
+    "facts": [
+      "Frederick Delius was an English composer.",
+      "At first his parents did not let him study music.",
+      "He went to Florida to work on an orange plantation.",
+      "He later studied music and settled in France.",
+      "One of his best known works is On Hearing the First Cuckoo in Spring."
+    ],
+    "false_claims": [
+      "Frederick Delius was a French explorer.",
+      "Delius never left England and never wrote orchestral music."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28817",
+      "title": "Frederick Delius",
+      "url": "https://simple.wikipedia.org/wiki/Frederick%20Delius",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_oxbow_lake_1372",
+    "split": "eval",
+    "topic": "Oxbow lake",
+    "domain": "nature",
+    "facts": [
+      "An oxbow lake is a U-shaped lake near a river.",
+      "It forms from a bend in a river called a meander.",
+      "The meander can become cut off from the main river.",
+      "After that, the river flows straighter and the old bend becomes a lake.",
+      "This can happen during floods or when a meander neck grows very thin."
+    ],
+    "false_claims": [
+      "An oxbow lake is always shaped like a perfect circle.",
+      "Oxbow lakes form only on the tops of mountains."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28841",
+      "title": "Oxbow lake",
+      "url": "https://simple.wikipedia.org/wiki/Oxbow%20lake",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_major_league_soccer_1373",
+    "split": "train",
+    "topic": "Major League Soccer",
+    "domain": "science",
+    "facts": [
+      "Major League Soccer (MLS) is an American soccer league that started in 1996.",
+      "As of the current 2023 season, 29 teams play in the league.",
+      "One other team plans to join in 2025.",
+      "The commissioner of the league (the person in charge) is Don Garber."
+    ],
+    "false_claims": [],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28858",
+      "title": "Major League Soccer",
+      "url": "https://simple.wikipedia.org/wiki/Major%20League%20Soccer",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "rejected",
+    "notes": "Batch 5 QA pass: rejected — sports league trivia",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_new_york_red_bulls_1374",
+    "split": "train",
+    "topic": "New York Red Bulls",
+    "domain": "science",
+    "facts": [
+      "The New York Red Bulls are an American soccer team.",
+      "They play in Major League Soccer in Harrison, New Jersey.",
+      "Until 2006, they were known as the MetroStars.",
+      "Their homeground is the Red Bull Arena in Harrison."
+    ],
+    "false_claims": [],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28863",
+      "title": "New York Red Bulls",
+      "url": "https://simple.wikipedia.org/wiki/New%20York%20Red%20Bulls",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "rejected",
+    "notes": "Batch 5 QA pass: rejected — sports team trivia",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_san_jose_earthquakes_1375",
+    "split": "train",
+    "topic": "San Jose Earthquakes",
+    "domain": "history",
+    "facts": [
+      "The San Jose Earthquakes are an American soccer team that plays in Major League Soccer in San Jose, California.",
+      "In December 2005, they moved to Houston, Texas to become the Houston Dynamo.",
+      "Failure to secure funding for a new stadium caused the team to move.",
+      "In July 2007, they were granted an expansion team, which would bring them back in 2008.",
+      "By agreement between MLS, the Dynamo, and the Earthquakes, the history of the original San Jose franchise belongs to the current Earthquakes."
+    ],
+    "false_claims": [],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28868",
+      "title": "San Jose Earthquakes",
+      "url": "https://simple.wikipedia.org/wiki/San%20Jose%20Earthquakes",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "rejected",
+    "notes": "Batch 5 QA pass: rejected — sports team trivia",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_real_salt_lake_1376",
+    "split": "train",
+    "topic": "Real Salt Lake",
+    "domain": "geography",
+    "facts": [
+      "Real Salt Lake is an American soccer team.",
+      "They play in Major League Soccer in Salt Lake City, Utah.",
+      "Their head coach is Jason Kreis.",
+      "They play at Rio Tinto Stadium in Sandy, Utah.",
+      "Their rival is the Colorado Rapids."
+    ],
+    "false_claims": [],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28870",
+      "title": "Real Salt Lake",
+      "url": "https://simple.wikipedia.org/wiki/Real%20Salt%20Lake",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "rejected",
+    "notes": "Batch 5 QA pass: rejected — sports team trivia",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_toronto_fc_1377",
+    "split": "train",
+    "topic": "Toronto FC",
+    "domain": "geography",
+    "facts": [
+      "Toronto Football Club, usually known as Toronto FC, is a soccer club based in Toronto, Ontario.",
+      "They have played in the Eastern Conference of Major League Soccer (MLS) since the 2007 season.",
+      "They were the first Canadian soccer team to join MLS.",
+      "They play their home games at BMO Field in Downtown Toronto.",
+      "The team is coached by Greg Vanney and operated by Maple Leaf Sports & Entertainment."
+    ],
+    "false_claims": [],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28871",
+      "title": "Toronto FC",
+      "url": "https://simple.wikipedia.org/wiki/Toronto%20FC",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "rejected",
+    "notes": "Batch 5 QA pass: rejected — sports team trivia",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_heinrich_sch_tz_1378",
+    "split": "train",
+    "topic": "Heinrich Schütz",
+    "domain": "history",
+    "facts": [
+      "Heinrich Schütz was a German Baroque composer.",
+      "He was born in 1585 and died in Dresden in 1672.",
+      "As a young man he traveled to Italy to study composition.",
+      "He studied with the Italian composer Giovanni Gabrieli.",
+      "For much of his life he was a court composer in Dresden.",
+      "Most of his music was written for choirs, such as motets."
+    ],
+    "false_claims": [
+      "Heinrich Schütz was an Italian sculptor.",
+      "Schütz never left Germany and wrote only piano music."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28891",
+      "title": "Heinrich Schütz",
+      "url": "https://simple.wikipedia.org/wiki/Heinrich%20Sch%C3%BCtz",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_domenico_scarlatti_1379",
+    "split": "train",
+    "topic": "Domenico Scarlatti",
+    "domain": "history",
+    "facts": [
+      "Domenico Scarlatti was an Italian Baroque composer.",
+      "He was born in Naples in 1685 and died in Madrid in 1757.",
+      "His father Alessandro Scarlatti was also a famous composer.",
+      "Domenico became famous for short harpsichord sonatas.",
+      "Many of his sonatas are one-movement pieces.",
+      "Some pieces use unusual keyboard effects such as crossing the hands."
+    ],
+    "false_claims": [
+      "Domenico Scarlatti was a Dutch sea captain.",
+      "Scarlatti wrote only long operas and never played the harpsichord."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28894",
+      "title": "Domenico Scarlatti",
+      "url": "https://simple.wikipedia.org/wiki/Domenico%20Scarlatti",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_materialism_1380",
+    "split": "train",
+    "topic": "Materialism",
+    "domain": "other",
+    "facts": [
+      "Materialism is the philosophical belief that the world is made of material, and that there are no other types of entity (things).",
+      "Everything is composed of material.",
+      "Things that are not made of material, such as consciousness, are the result of actions by material.",
+      "In other words, matter is the only real substance.",
+      "Physicalism is a related term."
+    ],
+    "false_claims": [],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28910",
+      "title": "Materialism",
+      "url": "https://simple.wikipedia.org/wiki/Materialism",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "rejected",
+    "notes": "Batch 5 QA pass: rejected — philosophical mush, not checkable story facts",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_northern_cyprus_1381",
+    "split": "train",
+    "topic": "Northern Cyprus",
+    "domain": "geography",
+    "facts": [
+      "Northern Cyprus is in the northern part of the island of Cyprus.",
+      "Most countries treat it as part of the Republic of Cyprus.",
+      "Only Turkey recognizes it as a separate country.",
+      "About three hundred thousand Turkish Cypriots live there.",
+      "Its land area is about 3,335 square kilometers."
+    ],
+    "false_claims": [
+      "Northern Cyprus is an island in the Caribbean Sea.",
+      "Every country in the world recognizes Northern Cyprus as independent."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28917",
+      "title": "Northern Cyprus",
+      "url": "https://simple.wikipedia.org/wiki/Northern%20Cyprus",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_new_caledonia_1382",
+    "split": "train",
+    "topic": "New Caledonia",
+    "domain": "geography",
+    "facts": [
+      "New Caledonia is a territory in Melanesia in the southwest Pacific.",
+      "Its capital and largest city is Nouméa.",
+      "Its currency is the CFP franc.",
+      "Its internet country code is .nc."
+    ],
+    "false_claims": [
+      "New Caledonia is a large city in Canada.",
+      "The capital of New Caledonia is Paris."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28929",
+      "title": "New Caledonia",
+      "url": "https://simple.wikipedia.org/wiki/New%20Caledonia",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_dam_1383",
+    "split": "train",
+    "topic": "Dam",
+    "domain": "science",
+    "facts": [
+      "A dam is a large wall that blocks the flow of a river.",
+      "Water held behind a dam forms a reservoir or lake.",
+      "Many dams have a spillway where extra water can flow out.",
+      "Dams are often built to store water for people and farms.",
+      "Nurek Dam in Tajikistan is about 300 meters tall."
+    ],
+    "false_claims": [
+      "A dam is a small bridge used only by trains.",
+      "Dams are built to make rivers flow faster downhill."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28944",
+      "title": "Dam",
+      "url": "https://simple.wikipedia.org/wiki/Dam",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_aria_1384",
+    "split": "train",
+    "topic": "Aria",
+    "domain": "everyday",
+    "facts": [
+      "An aria is a long song for a solo singer.",
+      "Arias are often sung in an opera.",
+      "The Italian word aria means air.",
+      "An aria usually uses only a small amount of text.",
+      "Arias often repeat words and use long melodic runs."
+    ],
+    "false_claims": [
+      "An aria is a type of drum used in marching bands.",
+      "Arias are never sung by only one person."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28956",
+      "title": "Aria",
+      "url": "https://simple.wikipedia.org/wiki/Aria",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_luigi_boccherini_1385",
+    "split": "train",
+    "topic": "Luigi Boccherini",
+    "domain": "history",
+    "facts": [
+      "Luigi Boccherini was an Italian composer and cellist.",
+      "As a boy he was sent to Rome to study music.",
+      "He later played in the theatre orchestra in Lucca.",
+      "He traveled to France, Spain, and Germany for work.",
+      "In Berlin he became chamber composer to the King of Prussia.",
+      "After the king died he returned to Madrid and was often poor."
+    ],
+    "false_claims": [
+      "Luigi Boccherini was a Chinese emperor.",
+      "Boccherini never left Italy and refused to write music."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28973",
+      "title": "Luigi Boccherini",
+      "url": "https://simple.wikipedia.org/wiki/Luigi%20Boccherini",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_juno_mythology_1386",
+    "split": "train",
+    "topic": "Juno (mythology)",
+    "domain": "history",
+    "facts": [
+      "Juno is the queen of the gods in Roman mythology.",
+      "She is the wife of Jupiter.",
+      "She was linked with the Greek goddess Hera.",
+      "She was the goddess of marriage and childbirth.",
+      "She was a patron goddess and protector of Rome.",
+      "With Jupiter and Minerva, she was part of the Capitoline triad."
+    ],
+    "false_claims": [
+      "Juno is the king of the Roman gods.",
+      "Juno was never linked with any Greek goddess."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28988",
+      "title": "Juno (mythology)",
+      "url": "https://simple.wikipedia.org/wiki/Juno%20%28mythology%29",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_excalibur_1387",
+    "split": "train",
+    "topic": "Excalibur",
+    "domain": "history",
+    "facts": [
+      "Excalibur is a legendary sword from British mythology.",
+      "In the stories, King Arthur owned Excalibur.",
+      "The sword is a symbol of royal power.",
+      "Excalibur appears in many later books and films."
+    ],
+    "false_claims": [
+      "Excalibur was a real sword found in modern London.",
+      "Excalibur belonged to Julius Caesar in Roman history."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28991",
+      "title": "Excalibur",
+      "url": "https://simple.wikipedia.org/wiki/Excalibur",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_giovanni_da_palestrina_1388",
+    "split": "train",
+    "topic": "Giovanni da Palestrina",
+    "domain": "history",
+    "facts": [
+      "Giovanni da Palestrina was an Italian composer of church music.",
+      "He lived during the Renaissance and died in Rome in 1594.",
+      "Most of his music was written for choirs.",
+      "In his music, different voice parts often sing different lines at once.",
+      "Later composers studied his style to learn counterpoint writing."
+    ],
+    "false_claims": [
+      "Palestrina was a French king in the Middle Ages.",
+      "Palestrina wrote music only for solo trumpet."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "28995",
+      "title": "Giovanni da Palestrina",
+      "url": "https://simple.wikipedia.org/wiki/Giovanni%20da%20Palestrina",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_tripoli_greece_1389",
+    "split": "train",
+    "topic": "Tripoli, Greece",
+    "domain": "geography",
+    "facts": [
+      "Tripoli is a city in Greece.",
+      "It lies in the center of the Peloponnese.",
+      "It sits about 600 meters above sea level near Mount Mainalo.",
+      "Tripoli is the capital of the Arcadia region."
+    ],
+    "false_claims": [
+      "Tripoli, Greece is the capital city of Egypt.",
+      "Tripoli is a harbor city on the island of Crete."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "29024",
+      "title": "Tripoli, Greece",
+      "url": "https://simple.wikipedia.org/wiki/Tripoli%2C%20Greece",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_2006_fifa_world_cup_1390",
+    "split": "train",
+    "topic": "2006 FIFA World Cup",
+    "domain": "everyday",
+    "facts": [
+      "The 2006 FIFA World Cup was a football (soccer) sporting event that was held in Portugal from June 9 to July 9, 2006.",
+      "32 teams took part from many countries.",
+      "Italy won the trophy after beating Portugal in the final on penalties.",
+      "Portugal got second place at home."
+    ],
+    "false_claims": [],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "29026",
+      "title": "2006 FIFA World Cup",
+      "url": "https://simple.wikipedia.org/wiki/2006%20FIFA%20World%20Cup",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "rejected",
+    "notes": "Batch 5 QA pass: rejected — sports event trivia (also factually broken)",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_viola_1391",
+    "split": "train",
+    "topic": "Viola",
+    "domain": "everyday",
+    "facts": [
+      "A viola is a string instrument related to the violin and cello.",
+      "It sounds lower than a violin but higher than a cello.",
+      "It has four strings tuned to C, G, D, and A.",
+      "The highest string on a viola is the A string.",
+      "Players usually use a bow held in the right hand.",
+      "Playing with a bow is called arco, and plucking is called pizzicato."
+    ],
+    "false_claims": [
+      "A viola has only one string and no bow.",
+      "A viola always sounds higher than a violin."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "29032",
+      "title": "Viola",
+      "url": "https://simple.wikipedia.org/wiki/Viola",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_windsor_castle_1392",
+    "split": "eval",
+    "topic": "Windsor Castle",
+    "domain": "history",
+    "facts": [
+      "Windsor Castle is a castle in Windsor, Berkshire, in England.",
+      "It is the largest inhabited castle in the world.",
+      "British monarchs have used it as a royal home.",
+      "It was a military headquarters during the English Civil War.",
+      "A major fire damaged the castle in 1992."
+    ],
+    "false_claims": [
+      "Windsor Castle is a small hut in northern Scotland.",
+      "Windsor Castle has never been used by British royalty."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "29036",
+      "title": "Windsor Castle",
+      "url": "https://simple.wikipedia.org/wiki/Windsor%20Castle",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_trojan_horse_1393",
+    "split": "train",
+    "topic": "Trojan Horse",
+    "domain": "history",
+    "facts": [
+      "The Trojan Horse is a large wooden horse from Greek mythology.",
+      "In the story, the Greeks fought the city of Troy in the Trojan War.",
+      "The war began after Paris of Troy took Helen from Sparta.",
+      "The Greeks fought Troy to bring Helen back.",
+      "In the legend, Greek soldiers hid inside the wooden horse."
+    ],
+    "false_claims": [
+      "The Trojan Horse was a real metal tank used in World War II.",
+      "The Trojan Horse was built by the people of Troy to attack Greece."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "29040",
+      "title": "Trojan Horse",
+      "url": "https://simple.wikipedia.org/wiki/Trojan%20Horse",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_tesco_1394",
+    "split": "train",
+    "topic": "Tesco",
+    "domain": "everyday",
+    "facts": [
+      "Tesco is a large retail company from the United Kingdom.",
+      "Jack Cohen started the business and opened a Tesco grocery store near London in 1931.",
+      "By 1939 there were about 100 Tesco stores.",
+      "At first Tesco stores sold mainly food.",
+      "Later Tesco also sold clothing, electronics, and other goods.",
+      "Tesco also runs petrol stations and banking services in the UK."
+    ],
+    "false_claims": [
+      "Tesco is a small farm found only in Japan.",
+      "Tesco has never sold food in its stores."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "29041",
+      "title": "Tesco",
+      "url": "https://simple.wikipedia.org/wiki/Tesco",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_fiat_panda_1395",
+    "split": "train",
+    "topic": "Fiat Panda",
+    "domain": "everyday",
+    "facts": [
+      "The Fiat Panda is a small car made by the Italian company Fiat.",
+      "The first Fiat Panda went on sale in 1980.",
+      "It is often chosen because it is small and relatively cheap to run.",
+      "A second generation Panda began in 2003 and was built in Poland.",
+      "That second generation was named European Car of the Year in 2004."
+    ],
+    "false_claims": [
+      "The Fiat Panda is a large cargo ship.",
+      "Fiat never made a small car called the Panda."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "29044",
+      "title": "Fiat Panda",
+      "url": "https://simple.wikipedia.org/wiki/Fiat%20Panda",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_volkswagen_polo_1396",
+    "split": "train",
+    "topic": "Volkswagen Polo",
+    "domain": "everyday",
+    "facts": [
+      "The Volkswagen Polo is a small car made by Volkswagen.",
+      "Volkswagen is a German car company.",
+      "The Polo has been made since 1975.",
+      "Newer Polo models are often sold as five-door hatchbacks.",
+      "The car has been updated through several generations over the years."
+    ],
+    "false_claims": [
+      "The Volkswagen Polo is a type of bicycle only.",
+      "Volkswagen has never made a small car."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "29048",
+      "title": "Volkswagen Polo",
+      "url": "https://simple.wikipedia.org/wiki/Volkswagen%20Polo",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_peugeot_107_1397",
+    "split": "train",
+    "topic": "Peugeot 107",
+    "domain": "everyday",
+    "facts": [
+      "The Peugeot 107 is a small car made by the French company Peugeot.",
+      "It has been built in the Czech Republic since 2005.",
+      "The car can be made with two doors or four doors.",
+      "It is related to the Toyota Aygo and the Citroën C1.",
+      "Peugeot later introduced a newer small car called the Peugeot 108."
+    ],
+    "false_claims": [
+      "The Peugeot 107 is a French passenger airplane.",
+      "The Peugeot 107 is unrelated to any other small car."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "29051",
+      "title": "Peugeot 107",
+      "url": "https://simple.wikipedia.org/wiki/Peugeot%20107",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_rsa_algorithm_1398",
+    "split": "eval",
+    "topic": "RSA algorithm",
+    "domain": "science",
+    "facts": [
+      "RSA is an algorithm used to encrypt and decrypt messages.",
+      "It is named after Rivest, Shamir, and Adleman.",
+      "RSA uses two different keys, so it is called asymmetric cryptography.",
+      "One key is a public key that can be shared with anyone.",
+      "The other key is a private key that must be kept secret.",
+      "A message locked with the public key can be unlocked only with the private key."
+    ],
+    "false_claims": [
+      "RSA uses the same single key for locking and unlocking every message.",
+      "RSA is a cooking method for baking bread."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "29060",
+      "title": "RSA algorithm",
+      "url": "https://simple.wikipedia.org/wiki/RSA%20algorithm",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_seveso_disaster_1399",
+    "split": "train",
+    "topic": "Seveso disaster",
+    "domain": "history",
+    "facts": [
+      "The Seveso disaster was a chemical accident in Italy on 10 July 1976.",
+      "It happened near the town of Meda, not far from Milan.",
+      "A factory leak released toxic dioxin into the air.",
+      "The poison cloud covered an area about 6 kilometers long and 1 kilometer wide.",
+      "The disaster was named after the nearby town of Seveso.",
+      "European safety rules about chemical plants were later named after Seveso."
+    ],
+    "false_claims": [
+      "The Seveso disaster was a flood caused by a broken dam in Canada.",
+      "No toxic chemicals were released during the Seveso disaster."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "29090",
+      "title": "Seveso disaster",
+      "url": "https://simple.wikipedia.org/wiki/Seveso%20disaster",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_majulah_singapura_1400",
+    "split": "train",
+    "topic": "Majulah Singapura",
+    "domain": "geography",
+    "facts": [
+      "Majulah Singapura is the national anthem of Singapore.",
+      "The title means Onward Singapore.",
+      "It was written and composed by Zubir Said in 1958.",
+      "It was later adopted as the national anthem.",
+      "The anthem must be sung in Malay.",
+      "Translations exist in English, Mandarin Chinese, and Tamil."
+    ],
+    "false_claims": [
+      "Majulah Singapura is the national anthem of France.",
+      "The Singapore anthem must be sung only in English."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "29099",
+      "title": "Majulah Singapura",
+      "url": "https://simple.wikipedia.org/wiki/Majulah%20Singapura",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_aegean_sea_1401",
+    "split": "eval",
+    "topic": "Aegean Sea",
+    "domain": "geography",
+    "facts": [
+      "The Aegean Sea is part of the Mediterranean Sea.",
+      "It lies between Greece and Anatolia.",
+      "In the north it connects toward the Sea of Marmara and the Black Sea.",
+      "Those northern links include the Dardanelles and the Bosporus.",
+      "Islands such as Rhodes, Karpathos, and Crete mark its southern end."
+    ],
+    "false_claims": [
+      "The Aegean Sea is a lake in central Africa.",
+      "The Aegean Sea is between Canada and Greenland."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "29103",
+      "title": "Aegean Sea",
+      "url": "https://simple.wikipedia.org/wiki/Aegean%20Sea",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_given_name_1402",
+    "split": "train",
+    "topic": "Given name",
+    "domain": "everyday",
+    "facts": [
+      "A given name is a name given to a person at birth or baptism.",
+      "Given names are referred as first names.",
+      "It is different from a surname.",
+      "A surname is the last name or family name."
+    ],
+    "false_claims": [],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "29122",
+      "title": "Given name",
+      "url": "https://simple.wikipedia.org/wiki/Given%20name",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "rejected",
+    "notes": "Batch 5 QA pass: rejected — thin dictionary definition, weak story topic",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_family_name_1403",
+    "split": "train",
+    "topic": "Family name",
+    "domain": "everyday",
+    "facts": [
+      "A family name is a name shared by people in the same family.",
+      "It is also called a last name or surname in English.",
+      "In English, the family name usually comes at the end of a person's full name.",
+      "Different cultures place family names in different orders.",
+      "Children often share a family name with a parent."
+    ],
+    "false_claims": [
+      "A family name is a secret code used only by banks.",
+      "In English, the family name always comes first."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "29123",
+      "title": "Family name",
+      "url": "https://simple.wikipedia.org/wiki/Family%20name",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_dandelion_1404",
+    "split": "train",
+    "topic": "Dandelion",
+    "domain": "nature",
+    "facts": [
+      "Dandelions are flowering plants in the genus Taraxacum.",
+      "They belong to the plant family Asteraceae.",
+      "They are native to Eurasia.",
+      "People have introduced them to North and South America and other places.",
+      "In some areas they grow as invasive weeds.",
+      "All parts of common dandelion plants are edible."
+    ],
+    "false_claims": [
+      "Dandelions are a kind of fish that live only in the deep ocean.",
+      "No part of a dandelion plant can be eaten."
+    ],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "29143",
+      "title": "Dandelion",
+      "url": "https://simple.wikipedia.org/wiki/Dandelion",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "approved",
+    "notes": "Batch 5 QA pass: subject-first bullets, fixed domains/claims, added false_claims; approved for promote.",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  },
+  {
+    "id": "fc_john_carmack_1405",
+    "split": "train",
+    "topic": "John Carmack",
+    "domain": "history",
+    "facts": [
+      "Carmack II (born August 20 1970) is a well known video game creator.",
+      "He was one of the creators of id Software, a video game company, in 1991.",
+      "Carmack was the main programmer of the first-person shooter games Wolfenstein 3D, Doom, Quake, and their sequels.",
+      "In 1999, Carmack appeared as number 10 in TIME's list of the 50 most influential people in technology."
+    ],
+    "false_claims": [],
+    "source": {
+      "type": "wikipedia_simple",
+      "hf_dataset": "wikimedia/wikipedia",
+      "hf_config": "20231101.simple",
+      "wiki_id": "29150",
+      "title": "John Carmack",
+      "url": "https://simple.wikipedia.org/wiki/John%20Carmack",
+      "extract_method": "lead_sentences_v1",
+      "extracted_at": "2026-07-25T01:25:36Z"
+    },
+    "review_status": "rejected",
+    "notes": "Batch 5 QA pass: rejected — celebrity trivia",
+    "word_target": [
+      120,
+      180
+    ],
+    "schema_id": "factcard_v1"
+  }
+]
