@@ -46,7 +46,7 @@ from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Set, Tuple
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
-DEFAULT_DRAFTS = REPO_ROOT / "data" / "fact_cards" / "drafts" / "wiki_candidates_batch3.json"
+DEFAULT_DRAFTS = REPO_ROOT / "data" / "fact_cards" / "drafts" / "wiki_candidates_batch5.json"
 TRAIN_JSONL = REPO_ROOT / "data" / "fact_cards" / "train.jsonl"
 EVAL_JSONL = REPO_ROOT / "data" / "fact_cards" / "eval.jsonl"
 
