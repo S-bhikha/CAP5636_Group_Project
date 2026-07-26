@@ -5,6 +5,10 @@ mode: sft
 system_id: M2
 run_id: m2_sft_full_768
 
+# block_size is inherited from this checkpoint. It must fit the rendered fact
+# card plus the whole gold story (461 tokens worst case, measured) or examples
+# are truncated mid-story -- see configs/b0_full.yaml. Watch the startup log for
+# a "[sft-data] WARNING: ... truncated" line; it should not appear.
 init_ckpt: results/b0_full_768/checkpoint.pt
 
 fact_cards: data/fact_cards/train.jsonl

@@ -107,6 +107,8 @@ class FactCardSFTDataset(Dataset):
         self.examples: List[Tuple[torch.Tensor, torch.Tensor]] = []
         n_skipped_no_card = 0
         n_skipped_no_room = 0
+        n_truncated = 0
+        worst_len = 0
 
         for pair in _load_jsonl(sft_pairs_path):
             if pair.get("review_status") != "approved":
@@ -122,6 +124,11 @@ class FactCardSFTDataset(Dataset):
             if len(prompt_ids) >= seq_len:
                 n_skipped_no_room += 1
                 continue
+
+            needed = len(prompt_ids) + len(story_ids)
+            worst_len = max(worst_len, needed)
+            if needed > seq_len:
+                n_truncated += 1
 
             full_ids = (prompt_ids + story_ids)[:seq_len]
             is_target = ([False] * len(prompt_ids) + [True] * len(story_ids))[:seq_len]
@@ -141,6 +148,14 @@ class FactCardSFTDataset(Dataset):
             print(f"[sft-data] skipped {n_skipped_no_card} pair(s) with no matching approved train card")
         if n_skipped_no_room:
             print(f"[sft-data] skipped {n_skipped_no_room} pair(s) where the rendered prompt alone exceeds block_size")
+        if n_truncated:
+            # A truncated story loses its ending and its <eos>, so M2 never learns
+            # to stop -- and at eval the fact card scrolls out of the window.
+            print(
+                f"[sft-data] WARNING: {n_truncated}/{len(self.examples)} example(s) truncated at "
+                f"block_size={block_size}; longest prompt+story needs {worst_len} tokens "
+                f"(have {seq_len}). Retrain Stage 1 with a larger block_size."
+            )
 
     def __len__(self) -> int:
         return len(self.examples)

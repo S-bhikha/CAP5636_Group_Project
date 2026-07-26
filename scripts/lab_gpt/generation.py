@@ -7,7 +7,7 @@ harness should import it rather than redefining its own settings.
 from __future__ import annotations
 
 from dataclasses import dataclass
-from typing import Optional
+from typing import List, Optional, Tuple
 
 import torch
 import torch.nn.functional as F
@@ -22,15 +22,29 @@ class DecodingConfig:
     max_new_tokens: int = 200
 
 
-FIXED_EVAL_DECODING = DecodingConfig(temperature=0.85, top_p=0.9, max_new_tokens=200)
+# max_new_tokens must exceed the gold story length (~200-260 tokens for the
+# 120-180 word target in data/prompts/templates.json), otherwise M2 is cut off
+# before it can emit <eos> and every system looks truncated.
+FIXED_EVAL_DECODING = DecodingConfig(temperature=0.85, top_p=0.9, max_new_tokens=300)
 
 
 @torch.no_grad()
-def generate(model, tokenizer, prompt: str, config: DecodingConfig, device) -> str:
+def generate_ids(
+    model, tokenizer, prompt: str, config: DecodingConfig, device
+) -> Tuple[List[int], int]:
+    """Sample a continuation; return (prompt_ids + new_ids, n_prompt_tokens).
+
+    Callers that need the prompt/continuation boundary should use this rather
+    than string-slicing `generate()`'s output: BPE decode(encode(x)) is not
+    guaranteed to reproduce `x` byte-for-byte, and with a long rendered fact
+    card a few characters of slippage would silently leak card text into the
+    scored story (and into the perplexity mask).
+    """
     was_training = model.training
     model.eval()
     eos_id = tokenizer.token_to_id("<eos>")
-    ids = torch.tensor([tokenizer.encode(prompt).ids], dtype=torch.long, device=device)
+    prompt_ids = tokenizer.encode(prompt).ids
+    ids = torch.tensor([prompt_ids], dtype=torch.long, device=device)
 
     for _ in range(config.max_new_tokens):
         ids_cond = ids[:, -model.config.block_size:]
@@ -60,4 +74,10 @@ def generate(model, tokenizer, prompt: str, config: DecodingConfig, device) -> s
 
     if was_training:
         model.train()
-    return tokenizer.decode(ids[0].tolist())
+    return ids[0].tolist(), len(prompt_ids)
+
+
+def generate(model, tokenizer, prompt: str, config: DecodingConfig, device) -> str:
+    """Full decoded sequence (prompt + continuation)."""
+    all_ids, _ = generate_ids(model, tokenizer, prompt, config, device)
+    return tokenizer.decode(all_ids)

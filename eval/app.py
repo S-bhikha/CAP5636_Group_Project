@@ -37,9 +37,9 @@ ERROR_TAGS = [
     "Story domination",
 ]
 SCORE_FIELDS = [
-    "timestamp", "prompt_id", "prompt_text", "shown_label", "system_id",
-    "story_text", "grammar", "factual_correctness", "storytelling_creativity",
-    "coherence", "error_tags", "perplexity", "num_tokens",
+    "timestamp", "prompt_id", "card_id", "condition", "prompt_text", "shown_label",
+    "system_id", "story_text", "grammar", "factual_correctness",
+    "storytelling_creativity", "coherence", "error_tags", "perplexity", "num_tokens",
 ]
 
 st.set_page_config(page_title="LLM Story Eval", layout="wide")
@@ -89,6 +89,15 @@ def shuffled_order(prompt_id: str, system_ids: List[str]) -> List[str]:
     return order
 
 
+def stale_score_header() -> List[str] | None:
+    """Return the on-disk header if it predates the current SCORE_FIELDS schema."""
+    if not SCORES_CSV.exists() or SCORES_CSV.stat().st_size == 0:
+        return None
+    with SCORES_CSV.open("r", encoding="utf-8", newline="") as f:
+        header = next(csv.reader(f), [])
+    return header if header != SCORE_FIELDS else None
+
+
 def append_scores(rows: List[Dict[str, Any]]) -> None:
     is_new = not SCORES_CSV.exists() or SCORES_CSV.stat().st_size == 0
     SCORES_CSV.parent.mkdir(parents=True, exist_ok=True)
@@ -116,6 +125,15 @@ def main() -> None:
         st.warning(
             "No generations file found. Run `python eval/generate_samples.py ...` to generate real "
             "stories, or point this at `eval/generations/placeholder.jsonl` to try the UI first."
+        )
+        return
+
+    stale = stale_score_header()
+    if stale is not None:
+        st.error(
+            f"`{SCORES_CSV.name}` has an old column layout, so new rows would be misaligned.\n\n"
+            f"On disk: `{','.join(stale)}`\n\nExpected: `{','.join(SCORE_FIELDS)}`\n\n"
+            "Move the old file aside (e.g. `eval/scores_nocard_ablation.csv`) and reload."
         )
         return
 
@@ -153,7 +171,15 @@ def main() -> None:
     labels = [f"Model {chr(ord('A') + i)}" for i in range(len(order))]
 
     st.subheader(f"Prompt `{prompt_id}`")
-    st.write(prompt_text)
+    facts = rows[0].get("facts") or []
+    if facts:
+        # Faithfulness / Omission can only be judged against the card's facts.
+        st.caption(f"Topic: **{rows[0].get('topic', '?')}** · condition: `{rows[0].get('condition', '?')}`")
+        st.markdown("\n".join(f"{i + 1}. {fact}" for i, fact in enumerate(facts)))
+        with st.expander("Exact model input"):
+            st.text(prompt_text)
+    else:
+        st.write(prompt_text)
 
     is_scored = prompt_id in done_ids
     if is_scored:
@@ -199,6 +225,8 @@ def main() -> None:
                 to_save.append({
                     "timestamp": now,
                     "prompt_id": prompt_id,
+                    "card_id": r.get("card_id", ""),
+                    "condition": r.get("condition", ""),
                     "prompt_text": prompt_text,
                     "shown_label": label,
                     "system_id": system_id,

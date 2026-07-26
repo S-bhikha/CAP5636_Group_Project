@@ -4,7 +4,8 @@ data: data/raw/tinystories/train_smoke.jsonl
 val_data: data/raw/tinystories/validation_smoke.jsonl
 
 vocab_size: 8000
-block_size: 256
+# Match b0_full so the smoke run exercises real M2 prompt+story lengths.
+block_size: 640
 n_layer: 6
 n_head: 8
 n_embd: 256
