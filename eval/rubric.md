@@ -64,6 +64,13 @@ not a correctness or quality measure — per the project README, "not vibes and
 not perplexity alone." It is hidden during scoring and only revealed after a
 prompt's human scores are saved, so it cannot anchor the rating.
 
+**Known limitation:** self-perplexity rewards low-entropy degeneration. A
+system that loops "They are happy. They are happy." scores *well*. In the
+pre-fix ablation ratings, B1 had the lowest mean perplexity (17.1) and the
+worst human score on all four axes. Do not present it as a quality metric;
+a held-out cross-entropy on a common reference set would be the defensible
+version of this column.
+
 ## Blind-scoring protocol
 
 - For each prompt, system order is shuffled deterministically (seeded by

@@ -6,7 +6,21 @@ data: data/raw/tinystories/train.jsonl
 val_data: data/raw/tinystories/validation.jsonl
 
 vocab_size: 10000
-block_size: 256
+# block_size is set by Stage 2, not Stage 1: the learned positional table is
+# sized here and M2 cannot exceed it. M2 packs a rendered fact card + the whole
+# gold story into ONE window. Measured on data/ (866 pairs, 100 eval prompts):
+#   rendered prompt  median 161  max 223 tokens
+#   gold story       median 194  max 254 tokens
+#   worst prompt+story                461 tokens
+# At 256 all 866 SFT examples were truncated mid-story (never seeing <eos>) and
+# at eval the fact card scrolled out of the window mid-generation, so M2 was
+# graded on facts it could no longer see. 640 fits the worst case and leaves
+# 340 prompt tokens under FIXED_EVAL_DECODING.max_new_tokens=300, i.e. ~50%
+# headroom over the measured max in case the real tokenizer splits
+# encyclopedic terms more aggressively than the sample used to measure.
+# Cost: 2.5x tokens/step vs 256 (16 x 640 = 10240). Halve batch_size to 8 to
+# keep the original Stage-1 token budget.
+block_size: 640
 n_layer: 10
 n_head: 12
 n_embd: 768
