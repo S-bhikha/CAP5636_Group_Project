@@ -1,0 +1,2804 @@
+timestamp,prompt_id,card_id,condition,prompt_text,shown_label,system_id,story_text,grammar,factual_correctness,storytelling_creativity,coherence,error_tags,perplexity,num_tokens
+2026-07-26T20:50:13.860233+00:00,p001,fc_healing_21,card,"Topic: Healing
+
+Facts:
+1. Healing is a process by which the body repairs damaged tissue.
+2. Cells work together to fix injuries over time.
+3. Sometimes damaged tissue is replaced with healthy tissue of the same kind.
+4. Sometimes damaged tissue is replaced with scar tissue instead.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,M2,"In screen lab, Tom watched a film about a process by which made the quiet room feel serious. Healing is a process by which the body defairs killed tissue, the teacher said. Cells work together to eggsAlong time with healthy defences, she explained, writing the word in bright letters. That texture coral is replaced with healthy movement of the same kind, she added while Tom listened. rocketave tissue is replaced with final kind, and he marked the an old video on the table. rulesening tissue is replaced with scar tissue instead of the same kind, she added, opening a box. He understood why a film matters when he watched a film and asked for one. The teacher praised them and gave them a small kind bite of milk. Tom thanked her for the report and promised to share his toys.<eos>",3,3,4,3,,6.010656163711739,170
+2026-07-26T20:50:13.860233+00:00,p001,fc_healing_21,card,"Topic: Healing
+
+Facts:
+1. Healing is a process by which the body repairs damaged tissue.
+2. Cells work together to fix injuries over time.
+3. Sometimes damaged tissue is replaced with healthy tissue of the same kind.
+4. Sometimes damaged tissue is replaced with scar tissue instead.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B0,"The moral of this story is to always try to be flexible and smart. Sometimes, we have to solve something that is truly worthable and important.<eos>",4,1,3,4,,7.796106103584067,32
+2026-07-26T20:50:13.860233+00:00,p001,fc_healing_21,card,"Topic: Healing
+
+Facts:
+1. Healing is a process by which the body repairs damaged tissue.
+2. Cells work together to fix injuries over time.
+3. Sometimes damaged tissue is replaced with healthy tissue of the same kind.
+4. Sometimes damaged tissue is replaced with scar tissue instead.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B1,"Fources
+19.w.et civilage of the Secutions of Weders
+19.1 million
+1.2. 
+1.1. 1.4.2.
+1.5.0.1.
+1./1.1.1.3.2.
+1..8.m.
+1..5.D.
+1..1.5.1.
+1.4.5..0.
+1.3..4.3.
+2.4.2.1.0..1.
+2.0.2.8.
+2..1.C.2.0.2.
+2..0.C.7.4..2.
+1..�%.2.2.
+1.m..0. .5.
+1....0.
+2..0.. .0.0..0.
+1...9..4.8.2.
+1.0.1.2..5.
+1....0.7. .2.2.
+1..2.4.3.4..
+2..0...2.0.
+1..0..C.C..3..3",1,1,1,1,,4.767047622344555,300
+2026-07-26T20:53:27.251501+00:00,p002,fc_ink_23,card,"Topic: Ink
+
+Facts:
+1. Ink is a liquid that is used to write, draw, print, or make marks.
+2. Ink is used in pens, in some computer printers, and in printing presses.
+3. In some countries, people write by using ink and brushes.
+4. People usually write or print using black ink, but ink can be any color.
+5. The first ink was used in Egypt about 2600 BC.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B0,"No matter how hard the language began. But no one could hear it. It stayed on the floor and begged for help. It was stuck in the middle of the room.
+
+The moral of this story is that we should always be careful when we act. Always listen to your parents and not do anything that is not safe.<eos>",4,1,3,4,,5.453204137295197,69
+2026-07-26T20:53:27.251501+00:00,p002,fc_ink_23,card,"Topic: Ink
+
+Facts:
+1. Ink is a liquid that is used to write, draw, print, or make marks.
+2. Ink is used in pens, in some computer printers, and in printing presses.
+3. In some countries, people write by using ink and brushes.
+4. People usually write or print using black ink, but ink can be any color.
+5. The first ink was used in Egypt about 2600 BC.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B1,"References 
+
+Other websites 
+ Official website 
+ Australia 
+ Australian movie reading
+Austral movie directors 
+American movie series<eos>",1,1,1,1,,3.376223490560003,51
+2026-07-26T20:53:27.251501+00:00,p002,fc_ink_23,card,"Topic: Ink
+
+Facts:
+1. Ink is a liquid that is used to write, draw, print, or make marks.
+2. Ink is used in pens, in some computer printers, and in printing presses.
+3. In some countries, people write by using ink and brushes.
+4. People usually write or print using black ink, but ink can be any color.
+5. The first ink was used in Egypt about 2600 BC.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,M2,"At the museum, Coach Lee showed a cy slim and a photo of paper. Ink is a liquid that is used to write, draw, picture, or making marks, she said, writing the a tiny piece on the board. Ink is used in details, in some computer instructions, and in needs a make marks, she explained, writing the page in blue ink. In some countries, people write by using ink and cavulf, she showed by writing the old paper. People usually write or print with black ink, she added, pointing to a cool white ink jar with many markers. The first ink is used in Egypt about 2600 BC, she warned, pointing to a simple paper booth. Coach Lee packed the bus home and hung his bags before bed.<eos>",3,5,3,4,,3.9442634787115156,168
+2026-07-26T20:55:41.113444+00:00,p003,fc_insult_25,card,"Topic: Insult
+
+Facts:
+1. An insult is words that offend or hurt someone.
+2. An insult may or may not be true.
+3. Insults are a form of derogatory language.
+4. Words like foolish or stupid insult a person's intelligence.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B0,"G bothering won the game!
+
+The next day, bookcase gave back a high- far- forgotten. Karen thanked the story for the paddle and said goodbye. Then, she hopped back to theidles and continued on her way.<eos>",3,1,3,3,,22.08697060468225,50
+2026-07-26T20:55:41.113444+00:00,p003,fc_insult_25,card,"Topic: Insult
+
+Facts:
+1. An insult is words that offend or hurt someone.
+2. An insult may or may not be true.
+3. Insults are a form of derogatory language.
+4. Words like foolish or stupid insult a person's intelligence.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,M2,"In a quiet trouble class, Ms. Kim held up an old sheet and asked her a question: brooks. AnCourb is words that offend or hurt someone, she said. An Wh� may or may not be true, she added, pointing to a few karhesy language. Insrons are a form of derogatory language, like apple and candy senses. W� like escape or incredible infasparsh a person's slippence, she added, tapping a labeled figure's name in a picture. The class wrote river or toys in their journal before lunch. Ms. Kim said goods make the idea still, then the class listened to a short voice. The room grew quiet for a moment as everyone finished writing. A student asked if they could join again tomorrow. The lesson stayed with them the rest of the day. The quiet room held still while those clear points settled into place. Everyone left feeling sure the whole set of facts had been covered.<eos>",3,2,4,3,,4.124260319731267,206
+2026-07-26T20:55:41.113444+00:00,p003,fc_insult_25,card,"Topic: Insult
+
+Facts:
+1. An insult is words that offend or hurt someone.
+2. An insult may or may not be true.
+3. Insults are a form of derogatory language.
+4. Words like foolish or stupid insult a person's intelligence.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B1,"Many a list of an anural.
+
+Related pages
+ New Republic
+
+Other websites 
+ New Europe of New York League
+
+Official website 
+
+Sports of New York's The Championship (the Southerns)
+
+Official website<eos>",1,1,1,1,,5.285927615195192,88
+2026-07-26T20:57:20.115469+00:00,p004,fc_microscope_38,card,"Topic: Microscope
+
+Facts:
+1. A microscope is a scientific instrument that makes small objects look larger.
+2. Microscopes let people see tiny things that are hard to see with the naked eye.
+3. Doctors and scientists often use microscopes in their work.
+4. Students use microscopes in biology classes to study small specimens.
+5. Compound microscopes use at least two lenses.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B1,"Related pages
+
+1.com 
+
+Sulf in Morcle - Thens (born 199)
+
+Angobo
+Poxson in Morop.
+
+References
+
+Other websites 
+ Official website 
+ 
+19. The Compism
+  
+ The Studs of the Morutional<eos>",1,1,1,1,,9.335603823774452,96
+2026-07-26T20:57:20.115469+00:00,p004,fc_microscope_38,card,"Topic: Microscope
+
+Facts:
+1. A microscope is a scientific instrument that makes small objects look larger.
+2. Microscopes let people see tiny things that are hard to see with the naked eye.
+3. Doctors and scientists often use microscopes in their work.
+4. Students use microscopes in biology classes to study small specimens.
+5. Compound microscopes use at least two lenses.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B0,"The two refuse to be careful. They made sure to always be careful and kind, no matter how hard the two optle they are.<eos>",2,1,3,3,,14.394490944360996,30
+2026-07-26T20:57:20.115469+00:00,p004,fc_microscope_38,card,"Topic: Microscope
+
+Facts:
+1. A microscope is a scientific instrument that makes small objects look larger.
+2. Microscopes let people see tiny things that are hard to see with the naked eye.
+3. Doctors and scientists often use microscopes in their work.
+4. Students use microscopes in biology classes to study small specimens.
+5. Compound microscopes use at least two lenses.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,M2,"In ecard class, Tom and his sister traced a small wooden box on the shelf. A microscope is a birific instrument that makes small objects look larger, she said, holding up two wide figures. Micro thcient let people see small things that are hard to see with the n ask eye, she explained, pointing to three old photos. Doctors and scientists often use requroscgon in their work, she explained, tapping a thick box box. Doctors and scientists often use communro text in biology classes to study small specimens, she added, handing a thick sticker with a small star. Comp abarterince use at least two cellses, she said, pointing to tiny poetches of tiny shows. Tom felt a little tired, but he smiled at the neatness of his notebook. He packed the box, packed his bag, and ready to share the lesson later.<eos>",3,5,3,4,,3.5772613641969158,201
+2026-07-26T20:59:58.412554+00:00,p005,fc_skin_58,card,"Topic: Skin
+
+Facts:
+1. Skin is the outer covering of the human body and many animals.
+2. Skin protects the body from germs, water loss, and injury.
+3. Skin helps control body temperature through sweat and blood flow.
+4. Skin contains nerves that let us feel touch, heat, and pain.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B0,"TMatty and the seekdoose learned a valuable lesson that day: thank you for the advice. Wcess hoops with a happy heart, the forest In the forest, and the animals were all friends.<eos>",3,1,4,4,,22.120677277000073,43
+2026-07-26T20:59:58.412554+00:00,p005,fc_skin_58,card,"Topic: Skin
+
+Facts:
+1. Skin is the outer covering of the human body and many animals.
+2. Skin protects the body from germs, water loss, and injury.
+3. Skin helps control body temperature through sweat and blood flow.
+4. Skin contains nerves that let us feel touch, heat, and pain.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,M2,"After school, Ms. Patel helped clean a careful poster of the human body and many animals. Sept is the outer motle and many animals, she said, science the first surprised by two Ms. S Penelope protects the body from rocky pit, water service, and crury. Saul helps control bodyball throughident and blood flow, and S Claus contains hold that footgin. S fle containsascves that lets us feel touch, heat, and cried. Seside containseters who patches that watched the film. Ms. Patel smiled and said natural facts helped the class feel the guest. A student reported the sixion words, asked which surprised everyone to see it. Ms. Patel said collury and poison because people still mix pouch and blood flow, so it is not alone. The class left with a simple grin. The lesson ended with quiet, careful notes on every desk.<eos>",4,2,4,4,,7.01641859593036,200
+2026-07-26T20:59:58.412554+00:00,p005,fc_skin_58,card,"Topic: Skin
+
+Facts:
+1. Skin is the outer covering of the human body and many animals.
+2. Skin protects the body from germs, water loss, and injury.
+3. Skin helps control body temperature through sweat and blood flow.
+4. Skin contains nerves that let us feel touch, heat, and pain.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B1,"The construction was not a very bad thing in the 1975 of the series.
+
+Other websites 
+
+1926 births
+Living people
+American voice musicians
+American drummer
+Movies from Jaogy
+Comphys from Kaiam<eos>",3,1,1,3,,5.820492987949502,81
+2026-07-26T21:02:01.922682+00:00,p006,fc_soap_60,card,"Topic: Soap
+
+Facts:
+1. Soap is a substance used for washing hands, skin, and clothes.
+2. Soap mixes with water to help remove dirt and oil.
+3. Bar soap and liquid soap are common forms.
+4. Washing with soap helps reduce the spread of germs.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B1,"Some peramples do not just because they are easily with water, and they may take place in their way. They are napegraphy. There is a lot of physics.
+
+List of parts of these sympt 
+The word 'atic' and key (thopure) forces of previous numbers.
+
+The word ""the word' mean ""cupions and amatication"". There are different numbers of users of metal, and a type of metal.
+
+A song 
+The word ""popical editions"" (1992)
+The word ""potic"" (1992)
+
+The word ""Ural"" (1952)
+
+Other websites 
+
+ 
+List of univervography<eos>",3,1,1,2,,11.321895441593432,191
+2026-07-26T21:02:01.922682+00:00,p006,fc_soap_60,card,"Topic: Soap
+
+Facts:
+1. Soap is a substance used for washing hands, skin, and clothes.
+2. Soap mixes with water to help remove dirt and oil.
+3. Bar soap and liquid soap are common forms.
+4. Washing with soap helps reduce the spread of germs.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B0,"Soon, they were not in a exercises voice. It was a friendly gathered bag. ""You have to clean up this mess,"" it said.
+
+Cforsing a cloth and wiped away the mess. She cleaned up the mess and thanked the friendly bird for cleaning up the mess.<eos>",3,1,3,3,,10.525310625316777,60
+2026-07-26T21:02:01.922682+00:00,p006,fc_soap_60,card,"Topic: Soap
+
+Facts:
+1. Soap is a substance used for washing hands, skin, and clothes.
+2. Soap mixes with water to help remove dirt and oil.
+3. Bar soap and liquid soap are common forms.
+4. Washing with soap helps reduce the spread of germs.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,M2,"At the pet store, Mia cut a big into heavy dried bottle and washed her hands. Soap is a substance used for you things, skin, and clothes, her dad said, holding up a simple bottle to make for lunch. Soap mixes with water to help remove mud and coffee, he added, writing the first in his notebook. Soap mixes with water to help onto wet brown hollow, and Mia tasted the heavy shapes again. She washed the thin dried bottle and wiped the cold ink into the cold bag. The case felt clean and clean, and she wiped the wet bottle clean again. Mia dried the cup, wiped the wet wet cloth and laughed. That night she told her dad she would sort water for messy clothes, shoes, and socks.<eos>",5,4,4,5,,5.855930231654452,158
+2026-07-26T21:06:56.435640+00:00,p007,fc_north_pole_74,card,"Topic: North Pole
+
+Facts:
+1. The North Pole is the northernmost point on Earth.
+2. The North Pole lies in the Arctic Ocean, where ice covers the sea.
+3. The North Pole has six months of daylight and six months of darkness.
+4. Explorers and scientists have traveled to the North Pole.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B1,"Related pages
+Hicture
+
+Other websites
+
+References
+
+Related pages
+Bole pages<eos>",2,1,1,1,,4.293418313160625,34
+2026-07-26T21:06:56.435640+00:00,p007,fc_north_pole_74,card,"Topic: North Pole
+
+Facts:
+1. The North Pole is the northernmost point on Earth.
+2. The North Pole lies in the Arctic Ocean, where ice covers the sea.
+3. The North Pole has six months of daylight and six months of darkness.
+4. Explorers and scientists have traveled to the North Pole.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,M2,"On Earth ferry, Jordan visited a quiet Arctic corner with his aunt and opened a northlet. The North melle is the northernmost point on Earth, she said, tapping a thick paper cube. The North Pole lies in the Arctic Ocean, where ice covers the sea and the sea. The North Pole has sixime of daylight and six years of todayft and six months of crackers and jackets. Replore movement and rangers have traveled to the North underlined 15 to the North Pole, a poster of a special place called careful. Jordan left the museum understanding how a small island sits underlined both mountains and west's city. He told his aunt that winterland sits in the Arctic Ocean. They planned a fun trip to at home that night. Jordan wrote that the museum is the northernmost shape of outside someday.<eos>",3,4,4,3,,4.52113664562924,207
+2026-07-26T21:06:56.435640+00:00,p007,fc_north_pole_74,card,"Topic: North Pole
+
+Facts:
+1. The North Pole is the northernmost point on Earth.
+2. The North Pole lies in the Arctic Ocean, where ice covers the sea.
+3. The North Pole has six months of daylight and six months of darkness.
+4. Explorers and scientists have traveled to the North Pole.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B0,"This story teaches us that if you take the determined and think of something, it is important to respect the scraped medicine.<eos>",4,1,3,4,,10.264418256246625,26
+2026-07-26T21:10:42.355546+00:00,p008,fc_carnivore_80,card,"Topic: Carnivore
+
+Facts:
+1. A carnivore is an animal that eats mainly or only meat.
+2. Predators often hunt and kill their own prey.
+3. Scavengers are carnivores that eat animals they did not kill themselves.
+4. Carnivores that eat mainly insects are called insectivores.
+5. Carnivores that eat mainly fish are called piscivores.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B1,"The system may be the base of war. The voscry is one that is not available, which is part of the name of the other word which is often used in the members of the name.
+
+Ucroxites 
+ Invention 
+ Art (andb)<eos>",3,1,1,2,,18.29693850964198,67
+2026-07-26T21:10:42.355546+00:00,p008,fc_carnivore_80,card,"Topic: Carnivore
+
+Facts:
+1. A carnivore is an animal that eats mainly or only meat.
+2. Predators often hunt and kill their own prey.
+3. Scavengers are carnivores that eat animals they did not kill themselves.
+4. Carnivores that eat mainly insects are called insectivores.
+5. Carnivores that eat mainly fish are called piscivores.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,M2,"At the pet market, Noah watched a small animal buzzing around a busy animal rested on a table. A carnivore is an animal that eats mainly or only meat, the ranger said, opening a sharpss. Predators often hunt and kill their own prey, he explained, insipping the brulles with his hands. Scarshge are carniv grains that eat animals they did not kill themselves, he added, repluring the carrots on a kitchen table. Carnivherry that eat mainly animals are called shaped diivastic, he added, pointing to the group. Carnivenced that eat mainly fish are called piscivards, and he explained that some animals are called piscivaled. Nora watched a fish leave the pond and pointed to the ferry. She left thinking about crillons were called piscivica, but also the others.<eos>",4,5,5,5,,4.46968062049918,195
+2026-07-26T21:10:42.355546+00:00,p008,fc_carnivore_80,card,"Topic: Carnivore
+
+Facts:
+1. A carnivore is an animal that eats mainly or only meat.
+2. Predators often hunt and kill their own prey.
+3. Scavengers are carnivores that eat animals they did not kill themselves.
+4. Carnivores that eat mainly insects are called insectivores.
+5. Carnivores that eat mainly fish are called piscivores.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B0,"One day, P thrRex decided to take a journey to the forest. He saw a big tree and decided to climb it. With each step, he felt a drop of the branch and tried to climb the tree. The tree was so tall that Pobby had to climb.
+
+The tree thanked Pspeivo Oliver and said, ""You are very brave, P vehicle.""
+
+Moral: WJenna and 3-year-old propny Lou to be brave and go up to the forest.<eos>",3,1,4,4,,11.619150013211726,106
+2026-07-26T21:13:29.484952+00:00,p009,fc_html_88,card,"Topic: HTML
+
+Facts:
+1. HTML is a markup language used to create web pages.
+2. HTML was created in 1990 by Tim Berners-Lee.
+3. Web pages can include writing, links, pictures, sound, and video.
+4. HTML tells web browsers how pages should look.
+5. HTML can also store meta information about a page, such as who created it.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B0,"When they were done, Lily gave NhoZ seconds to SLE compst and L eight-e. She said to Tom: ""I had so much fun helping"".
+
+The moral of this story is: Sometimes it's better to give things to others.<eos>",2,1,1,2,,15.09082599865712,57
+2026-07-26T21:13:29.484952+00:00,p009,fc_html_88,card,"Topic: HTML
+
+Facts:
+1. HTML is a markup language used to create web pages.
+2. HTML was created in 1990 by Tim Berners-Lee.
+3. Web pages can include writing, links, pictures, sound, and video.
+4. HTML tells web browsers how pages should look.
+5. HTML can also store meta information about a page, such as who created it.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,M2,"On the screen, Kai stood beside a thick middle book and opened it. HTML is a markup language used to create web pages, the librarian said, writing the pages carefully. HTML was created in 19990 by Tim Berners-Lee, she explained while writing the pages. Web pages can include writing, links, pictures, and video, she explained, writing each name carefully. HTML law browserses how pages should look, she added, writing the words in neat rows. H TML can also store metashormation about a book, such as who created it, Kai wrote carefully on the board. HTML can also store metascormation about a notebook, such as a small cover, she added, tapping the page. Kai finished the book and smiled at the neat pages she knew. She packed the book carefully so the librarian would not forget the lesson.<eos>",4,5,5,4,,2.1992075338116277,208
+2026-07-26T21:13:29.484952+00:00,p009,fc_html_88,card,"Topic: HTML
+
+Facts:
+1. HTML is a markup language used to create web pages.
+2. HTML was created in 1990 by Tim Berners-Lee.
+3. Web pages can include writing, links, pictures, sound, and video.
+4. HTML tells web browsers how pages should look.
+5. HTML can also store meta information about a page, such as who created it.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B1,"In the words that the line does not pay for an 61.
+
+Former SID was only used in the number of Australia.
+
+References
+
+1983 births
+Living people
+American politicians
+Mocialians from Canada<eos>",3,1,1,1,,6.92588704577665,75
+2026-07-26T21:15:21.307651+00:00,p010,fc_airport_115,card,"Topic: Airport
+
+Facts:
+1. An airport is a place where airplanes can land and take off.
+2. Most airports have a long level strip called a runway.
+3. A terminal is a building where passengers wait for planes or luggage.
+4. Hangars store planes when they are not in use.
+5. A control tower helps guide planes safely around the airport.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B1,"Other websites 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+European station 
+ 
+ 
+ 
+ 
+ 
+
+National groups from Airustia<eos>",2,1,1,2,,3.368214853278674,56
+2026-07-26T21:15:21.307651+00:00,p010,fc_airport_115,card,"Topic: Airport
+
+Facts:
+1. An airport is a place where airplanes can land and take off.
+2. Most airports have a long level strip called a runway.
+3. A terminal is a building where passengers wait for planes or luggage.
+4. Hangars store planes when they are not in use.
+5. A control tower helps guide planes safely around the airport.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,M2,"At the airport, the family stood as a folded fabric while some visitors leaned from a glass. An airport is a place where acations can land and take off, Coach explained while opening a white car. Most airports have a long level sheet called a runway, and they had a race connectes they would forget first. A termYe is a building where monkeys waiting for planes or shoes, a flag above the airport looked bright. Hangars storeanes when they are not in use, she explained while pointing to a bright plane. A control it helps guide plane safely around the airport, which made the children giggle and pretend they were in their own car ride. A poster showed how planes keep them safe around the airport. The kids stayed on the bus until the plane came out.<eos>",3,2,4,2,,5.828387489084068,164
+2026-07-26T21:15:21.307651+00:00,p010,fc_airport_115,card,"Topic: Airport
+
+Facts:
+1. An airport is a place where airplanes can land and take off.
+2. Most airports have a long level strip called a runway.
+3. A terminal is a building where passengers wait for planes or luggage.
+4. Hangars store planes when they are not in use.
+5. A control tower helps guide planes safely around the airport.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B0,"P guys are scared. They do not like the branch ever again. But they also want to go home and learn about the things they learned. They say: ""OK, then. Thank you for helping us. We are the best branches of our country.""<eos>",4,1,3,3,,7.861327237866278,54
+2026-07-26T21:17:07.061331+00:00,p011,fc_percentage_124,card,"Topic: Percentage
+
+Facts:
+1. Percent means out of one hundred.
+2. Percent is often shown with the symbol %.
+3. Percent can be used even when there are not exactly one hundred items.
+4. Percent is also used to show how amounts change.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B1,"2.This is a country with the world's most important rights.
+
+References 
+
+Towns in the Production<eos>",2,1,1,1,,7.105531774240038,34
+2026-07-26T21:17:07.061331+00:00,p011,fc_percentage_124,card,"Topic: Percentage
+
+Facts:
+1. Percent means out of one hundred.
+2. Percent is often shown with the symbol %.
+3. Percent can be used even when there are not exactly one hundred items.
+4. Percent is also used to show how amounts change.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B0,"The moral of this story is that when we have something, we should always give up when we use our mind and itâ€™s much more important than to be.<eos>",2,1,2,3,,5.679220696866501,35
+2026-07-26T21:17:07.061331+00:00,p011,fc_percentage_124,card,"Topic: Percentage
+
+Facts:
+1. Percent means out of one hundred.
+2. Percent is often shown with the symbol %.
+3. Percent can be used even when there are not exactly one hundred items.
+4. Percent is also used to show how amounts change.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,M2,"After school, Lara built a box of P cloverent with tiny shapes and tiny clay. P Puddingent is often traded with the symbol �, she told them with a friendly smile. P umbent is often send with the symbol Que, she explained as they printed with paper markers. P Bruceent can be used even when there are not only one hundred items, she explained, writing both names on the board. Pielent is also used to show how amounts change, she noted while two tools fit around the room. Lara mixed a small box and waited, just like a long blank page appeared. She finished her notebook with a paper sticker and a tiny square star. At dinner she told her parents about the small photo and the small flag.<eos>",4,3,4,4,,5.45918873669282,158
+2026-07-26T21:19:54.845359+00:00,p012,fc_beryllium_130,card,"Topic: Beryllium
+
+Facts:
+1. Beryllium is an alkaline earth metal in group 2 of the periodic table.
+2. Beryllium is grayish in color.
+3. Beryllium has atomic number 4 and the symbol Be.
+4. Beryllium is toxic and should not be handled without proper training.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B0,"PJot and Louotory became friends and spent every day together. Whenever the door was empty, they'd look at the sky and laugh together.<eos>",4,1,5,5,,17.389613590562657,34
+2026-07-26T21:19:54.845359+00:00,p012,fc_beryllium_130,card,"Topic: Beryllium
+
+Facts:
+1. Beryllium is an alkaline earth metal in group 2 of the periodic table.
+2. Beryllium is grayish in color.
+3. Beryllium has atomic number 4 and the symbol Be.
+4. Beryllium is toxic and should not be handled without proper training.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,M2,"R Leah opened a blueboard and found Bakesll Island. Beryll computers is an alkaline earth metal in group 2 of the periodic table. Backium is grayish in color and the symbol Be. Berylliet has atomic number 4 and the symbol Be. Beryllium is toxic and should not be handled without cooled. He labeled 200 and the symbol Be. R Superllino is toxic and and toxic number 2 and a symbol: Fearomic number 4 and the symbol Be. R& tapped the arches without rushing. He wrote zone, three, five, but only the facts alone. Duddles on the board. Walking out, he felt the size not as the final number on the page. Cour and the symbol Be. A quiet room held still while those clear points settled into place. Everyone left feeling sure the whole set of facts had been covered.<eos>",3,4,3,3,,3.479409689409346,206
+2026-07-26T21:19:54.845359+00:00,p012,fc_beryllium_130,card,"Topic: Beryllium
+
+Facts:
+1. Beryllium is an alkaline earth metal in group 2 of the periodic table.
+2. Beryllium is grayish in color.
+3. Beryllium has atomic number 4 and the symbol Be.
+4. Beryllium is toxic and should not be handled without proper training.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B1,"Other websites 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+193 establishments in the Artorse<eos>",2,1,1,1,,2.7833481683213703,52
+2026-07-26T21:22:11.024763+00:00,p013,fc_jungle_152,card,"Topic: Jungle
+
+Facts:
+1. A jungle is a place in a rainforest where plants cover the forest floor.
+2. Jungles often have many rivers or streams.
+3. Scientists think jungles hold more kinds of animals and plants than most places.
+4. People sometimes use the word jungle to mean the whole rainforest.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B0,P pettingy was amazed by the answer of the story. He knew that sin Raven were a very special way to make the right decision.<eos>,3,1,1,2,,15.436942144173393,31
+2026-07-26T21:22:11.024763+00:00,p013,fc_jungle_152,card,"Topic: Jungle
+
+Facts:
+1. A jungle is a place in a rainforest where plants cover the forest floor.
+2. Jungles often have many rivers or streams.
+3. Scientists think jungles hold more kinds of animals and plants than most places.
+4. People sometimes use the word jungle to mean the whole rainforest.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B1,"In the page that people do not know that people are not right, and have an important ideas.
+
+On October 1995, a personal story about live in the Angeles, or from the CASA.
+
+CCAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",3,1,2,1,,2.064125868569931,300
+2026-07-26T21:22:11.024763+00:00,p013,fc_jungle_152,card,"Topic: Jungle
+
+Facts:
+1. A jungle is a place in a rainforest where plants cover the forest floor.
+2. Jungles often have many rivers or streams.
+3. Scientists think jungles hold more kinds of animals and plants than most places.
+4. People sometimes use the word jungle to mean the whole rainforest.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,M2,"At the ocean, kids stood at a river in a river with green leaves and trees. A animals is a place in a rainecist where trees cover the forest, the guide said, stepping behind them. J mailedles often have many rivers orumps, and branchesed that healthy foods under a cloud. Scientists think eight rivers orips, and people sometimes use the word animals to mean the whole rainccst, which explained the students. People sometimes use the word first to mean the whole rainrodst, and they cast a path toward wet ice and water, and a boat walks from pond. They watched walk into the water, and saw a water happier in the distance. The group drank cool water and talked about beaches. Someone whispered that memory of animals and plants are 4 places to meaning them.<eos>",3,1,3,2,,6.875170254831589,170
+2026-07-26T21:24:01.198151+00:00,p014,fc_water_vapor_159,card,"Topic: Water vapor
+
+Facts:
+1. Water vapor is water in the form of a gas.
+2. Water vapor is part of the water cycle.
+3. When liquid water boils at 100 degrees Celsius, it turns into vapor.
+4. Water can also become vapor directly from ice by sublimation.
+5. Steam is water vapor, but clouds are made of tiny liquid water drops.
+6. Humidity is the amount of water vapor in the air and affects weather.
+7. In cold air, breath can show water vapor freezing into tiny droplets.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B1,"References
+
+Other websites 
+ Official website 
+ Official website 
+
+2.) 
+
+18.33
+20.S. official website
+1.3.com
+19.3.ft
+2. Wata. Hinch
+1..com
+1.3.c.
+2.ce.com. 5..
+2. P.S..
+2. Checial.com. 1.5.6.
+2.2.1.0.
+2. The Easto, I. 19.T.
+2..
+1... P.g., 1.S.C.
+2...S. C....1..
+2.. Porth and Porth.
+2.c.:
+2.5. B.C., 1..2.
+2..S., 1.2..
+2.g.k. F.S.. 10.
+2. C..C.
+2. C.S.., 1.1.5.
+2.
+2. L.C...C.
+2.. C...T.
+2. O.C.
+2.,0.
+2. The W",1,1,1,1,,5.664840836262323,300
+2026-07-26T21:24:01.198151+00:00,p014,fc_water_vapor_159,card,"Topic: Water vapor
+
+Facts:
+1. Water vapor is water in the form of a gas.
+2. Water vapor is part of the water cycle.
+3. When liquid water boils at 100 degrees Celsius, it turns into vapor.
+4. Water can also become vapor directly from ice by sublimation.
+5. Steam is water vapor, but clouds are made of tiny liquid water drops.
+6. Humidity is the amount of water vapor in the air and affects weather.
+7. In cold air, breath can show water vapor freezing into tiny droplets.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B0,"The moral of the story is: No matter how small or small we get, it can always be worth it.<eos>",4,1,3,3,,3.811881746402434,25
+2026-07-26T21:24:01.198151+00:00,p014,fc_water_vapor_159,card,"Topic: Water vapor
+
+Facts:
+1. Water vapor is water in the form of a gas.
+2. Water vapor is part of the water cycle.
+3. When liquid water boils at 100 degrees Celsius, it turns into vapor.
+4. Water can also become vapor directly from ice by sublimation.
+5. Steam is water vapor, but clouds are made of tiny liquid water drops.
+6. Humidity is the amount of water vapor in the air and affects weather.
+7. In cold air, breath can show water vapor freezing into tiny droplets.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,M2,"At the ccuion fair, Diego watched steam spread across the whiteboard. half vapor is water in the form of a gas, his uncle said. storm vapor is part of the water cemo, he added, pointing to the side in the ice. When liquid water bapor directly from ice by sublimation, he explained, pointing to a small region title. gas can also become vapor directly from ice by sublimation, he added, pointing to an old fountain. Steam is water vapor directly from ice by sublimation, he added, pointing to a chart on the wall. Humidity is water vapor toward the water and indot vaporony, Diego noted from iceels. Plenidity is the amount of water vapor statues, and it is not the scar of speech, he added, tapping a white bottle in the wind. Diego wrote that water can help people grow and weather.<eos>",3,3,2,3,,3.3799915709003523,223
+2026-07-26T21:25:51.788133+00:00,p015,fc_hindu_arabic_numeral_system_166,card,"Topic: Hindu–Arabic numeral system
+
+Facts:
+1. The Hindu-Arabic numeral system is the number writing system used by much of the world today.
+2. The Hindu-Arabic system is a positional notation system.
+3. The system represents numbers in the decimal, or base-ten, numeral system.
+4. The Hindu-Arabic numeral system was developed by Hindu and Arab mathematicians.
+5. The system uses place value, so a digit's value depends on its position.
+6. This numeral system is now commonly used all over the world.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B1,"For example: Udem: Erabicistical Cohubics.
+
+Other websites
+
+Death of what is from. Mong and Greebic culics in Schuan Caxan-Traphy.
+
+Traphy of War: Trabical known by Erabic Loulic
+
+Other websites
+ Official website
+
+Deaths in Europe<eos>",2,1,1,1,,9.26419481624509,113
+2026-07-26T21:25:51.788133+00:00,p015,fc_hindu_arabic_numeral_system_166,card,"Topic: Hindu–Arabic numeral system
+
+Facts:
+1. The Hindu-Arabic numeral system is the number writing system used by much of the world today.
+2. The Hindu-Arabic system is a positional notation system.
+3. The system represents numbers in the decimal, or base-ten, numeral system.
+4. The Hindu-Arabic numeral system was developed by Hindu and Arab mathematicians.
+5. The system uses place value, so a digit's value depends on its position.
+6. This numeral system is now commonly used all over the world.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B0,"Every day, Ceest sasd jog through the forest, and all the other Mackenzies were happy. They were a very proud and knew that thements made it the right.<eos>",4,1,3,3,,27.118223234356172,40
+2026-07-26T21:25:51.788133+00:00,p015,fc_hindu_arabic_numeral_system_166,card,"Topic: Hindu–Arabic numeral system
+
+Facts:
+1. The Hindu-Arabic numeral system is the number writing system used by much of the world today.
+2. The Hindu-Arabic system is a positional notation system.
+3. The system represents numbers in the decimal, or base-ten, numeral system.
+4. The Hindu-Arabic numeral system was developed by Hindu and Arab mathematicians.
+5. The system uses place value, so a digit's value depends on its position.
+6. This numeral system is now commonly used all over the world.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,M2,"In health class, students studied quiet written soutics that putarteral system in their notes. The Hindu-Arabic numeral system is the number edstem used by much of the world today. The Hindu-Arabic system is aoteal notation system used by much of the world today. The system represents numbers in the decimal, or base-ween, numeral system is developed by Hindu and Arabakhematicians. The system represents wrote in neat notes and listed the three facts. That night, students wrote each type in their notes so the pages would stick. They kept the idea founding extra, everyday on every desk. One student wrote each line in a neat box before leaving.<eos>",4,4,3,4,,2.7482760141582863,191
+2026-07-26T21:27:30.242320+00:00,p016,fc_san_andreas_fault_179,card,"Topic: San Andreas Fault
+
+Facts:
+1. The San Andreas Fault is a long crack in Earth's crust in California.
+2. The fault marks the boundary between the North American Plate and the Pacific Plate.
+3. The plates slide past each other along the fault.
+4. The San Andreas Fault caused the 1906 San Francisco earthquake.
+5. The fault first appeared about 20 million years ago.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B1,"References
+
+Other websites 
+
+19. North American television series
+Plinians<eos>",3,1,1,2,,2.8985190219653068,34
+2026-07-26T21:27:30.242320+00:00,p016,fc_san_andreas_fault_179,card,"Topic: San Andreas Fault
+
+Facts:
+1. The San Andreas Fault is a long crack in Earth's crust in California.
+2. The fault marks the boundary between the North American Plate and the Pacific Plate.
+3. The plates slide past each other along the fault.
+4. The San Andreas Fault caused the 1906 San Francisco earthquake.
+5. The fault first appeared about 20 million years ago.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,M2,"In California class, Diaz helped fill the hallway. The San Andreas F hippt is a long fire in Earth's crust in California, Ms. Bho said. The uncomfortable marks the freary between the North American Plate and the Pacific Plate and the Pacific Plate, he wrote on a small card on the board. The San Andreas F�t opera the 1906 San FranciscoYuck, and Diaz looked carefully elective. The Sanreas F devt cooked the 1906 San FranciscoGood, the idea was covered in the 19006 San Francisco?"" Diazavic and As well as evening light filled the notes. A clock ticked softly while everyone packed away pencils and papers. One student wrote that one cat of the 1906 San Francisco alone and still be quiet, then she added that one panel could save a good night.<eos>",3,2,2,2,,3.728782460651449,234
+2026-07-26T21:27:30.242320+00:00,p016,fc_san_andreas_fault_179,card,"Topic: San Andreas Fault
+
+Facts:
+1. The San Andreas Fault is a long crack in Earth's crust in California.
+2. The fault marks the boundary between the North American Plate and the Pacific Plate.
+3. The plates slide past each other along the fault.
+4. The San Andreas Fault caused the 1906 San Francisco earthquake.
+5. The fault first appeared about 20 million years ago.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B0,Rus bald untus couldn't help but understand. He was very brave and brave. He was proud of himself for being so brave.<eos>,3,1,2,2,,9.434802723782049,30
+2026-07-26T21:29:23.325431+00:00,p017,fc_hyaena_183,card,"Topic: Hyaena
+
+Facts:
+1. Hyenas are mammals in the family Hyaenidae.
+2. Hyenas belong to the order Carnivora.
+3. Hyenas live in Africa and in west and south Asia.
+4. In the past, hyenas lived across a much wider area.
+5. Today there are four living hyena species.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B1,"Musics.
+In the century, the following of the oldest languages is a following the altern professional.
+
+Related pages 
+
+Musical language
+20.8.7 million songs, television series, television and piano<eos>",3,1,1,2,,12.754685265646037,61
+2026-07-26T21:29:23.325431+00:00,p017,fc_hyaena_183,card,"Topic: Hyaena
+
+Facts:
+1. Hyenas are mammals in the family Hyaenidae.
+2. Hyenas belong to the order Carnivora.
+3. Hyenas live in Africa and in west and south Asia.
+4. In the past, hyenas lived across a much wider area.
+5. Today there are four living hyena species.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B0,"At the end of the story, T fairies were happy and thanked P insects. Panma had been a good helper and sent the story. The moral of the story is to always value your friends and not give up.<eos>",3,1,4,3,,9.881402161325068,47
+2026-07-26T21:29:23.325431+00:00,p017,fc_hyaena_183,card,"Topic: Hyaena
+
+Facts:
+1. Hyenas are mammals in the family Hyaenidae.
+2. Hyenas belong to the order Carnivora.
+3. Hyenas live in Africa and in west and south Asia.
+4. In the past, hyenas lived across a much wider area.
+5. Today there are four living hyena species.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,M2,"In Hyaenidese class, Lya opened a map of Hyaenas. Hyenas are mammals in the family Hyaenidae, the teacher said while walking near the busy country. Hyenas belong to the office order Carnivouse, and the class walked past busy shops and long valleys. Hyenas live in Africa and in west and south Asia, its name said. In the past, hyenas lived along much wider area, a bright map on the wall showed. Today there are four living hyerature species, the teacher added, showingtime names and offrier. Lya marked a small island on the kitchen table and practiced saying the names aloud. She wrote the byenlimed name and the river names in her notebook.<eos>",4,5,5,5,,2.85916152021277,181
+2026-07-26T21:31:11.301922+00:00,p018,fc_phoebe_moon_204,card,"Topic: Phoebe (moon)
+
+Facts:
+1. Phoebe is a moon that orbits the planet Saturn.
+2. Phoebe takes about eighteen months to go once around Saturn.
+3. Phoebe is made of roughly half rock and half ice.
+4. Phoebe's surface looks very dark from Earth.
+5. Phoebe has no air and no liquid water on its surface.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B1,"Other websites 
+ Austrial 
+DO9. Raweje
+ Antroimary . These are regional, and government. The Rubs. Mems include:
+ Perne English I: Production of the Central City.
+ Commonts in Divilation: Parbre on the London-Parrete: Passe.
+ Hasle, a Sattle of Catholic Revolution 
+ Prode:
+ History : Provolution of the German Native Open City
+ Provolution: Prize
+ Present Commonal Provolution
+ Polotion 
+ President Commonomic
+ Present Picivision Commonic Commonic Commonic Church
+ Provancivilion
+ Physican Commonic Commonom of Price
+ President Prize
+ Proco-Politic Priative Combourne
+ Prondian Comoland
+ Premonic Depresident II",2,1,1,1,,8.57620770352683,300
+2026-07-26T21:31:11.301922+00:00,p018,fc_phoebe_moon_204,card,"Topic: Phoebe (moon)
+
+Facts:
+1. Phoebe is a moon that orbits the planet Saturn.
+2. Phoebe takes about eighteen months to go once around Saturn.
+3. Phoebe is made of roughly half rock and half ice.
+4. Phoebe's surface looks very dark from Earth.
+5. Phoebe has no air and no liquid water on its surface.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,M2,"Tatobs week featured Phoebe, a moon that orbits the temple Saturn. Phoebe is a moon that orbits the moon Saturn. Phoebe takes about eight scientence to go once around Saturn. Phoebe is made of roughly half rock and half ice. Phoeine has no air and no liquid water on its surface. Phoebe has no air and no liquid water on its surface. The class wrote short poems about light, then circled Saturn,ct. Phoebe, cold feeling the silence, and reviers underlined the name. The quiet room held still while those clear points settled into place. Everyone left feeling sure the whole set of facts had been covered. Soft afternoon light filled the quiet room as notes were stacked neatly.<eos>",3,3,4,3,,2.334267534212783,182
+2026-07-26T21:31:11.301922+00:00,p018,fc_phoebe_moon_204,card,"Topic: Phoebe (moon)
+
+Facts:
+1. Phoebe is a moon that orbits the planet Saturn.
+2. Phoebe takes about eighteen months to go once around Saturn.
+3. Phoebe is made of roughly half rock and half ice.
+4. Phoebe's surface looks very dark from Earth.
+5. Phoebe has no air and no liquid water on its surface.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B0,Pin and Cart learned a lot about each other's actions. It was a beautiful feeling that they were no longer poor and no longer the burnt. They said goodbye and took theirst helps to enjoy their adventures.<eos>,3,1,4,4,,18.252035524917353,46
+2026-07-26T21:32:36.105383+00:00,p019,fc_ankara_229,card,"Topic: Ankara
+
+Facts:
+1. Ankara is the capital city of Turkey.
+2. Ankara sits in the center of Anatolia.
+3. Ankara is the second largest city in Turkey after Istanbul.
+4. Ankara was formerly known as Engürü.
+5. Ankara is also the capital of Ankara Province.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,M2,"Rva built a tall map of Turkey. Ankara is the capital city of Turla. Ankia sits in the center of Anatolia. Ankara sits in the center of Anatolia. Ankara was formerly known as EngÂrá. Ankara was formerly known as Engórí. Ankara is also the capital of Ankara Pro mag. Chong pins studied Turility among Jurana with other Okara Proavy. Hana pinned Eng presemo in Turlet, Surkey, and Surkey after Istan exch�rüré. Visitors in his border map and wrote Turope after Istan settling. He kept his state clean and neat. Ankara labeled both Capulia, the capital city of Ankia Proanorá. Childulance, he said, starred Nurkey's name. Bruia sketched the star beside Englectico 8ér�gon on his map. Sierly known as the capital city, and Engie.<eos>",2,3,2,2,,4.055239027167359,266
+2026-07-26T21:32:36.105383+00:00,p019,fc_ankara_229,card,"Topic: Ankara
+
+Facts:
+1. Ankara is the capital city of Turkey.
+2. Ankara sits in the center of Anatolia.
+3. Ankara is the second largest city in Turkey after Istanbul.
+4. Ankara was formerly known as Engürü.
+5. Ankara is also the capital of Ankara Province.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B1,"Other websites 
+
+Borz's District<eos>",4,1,1,1,,6.182635769136511,18
+2026-07-26T21:32:36.105383+00:00,p019,fc_ankara_229,card,"Topic: Ankara
+
+Facts:
+1. Ankara is the capital city of Turkey.
+2. Ankara sits in the center of Anatolia.
+3. Ankara is the second largest city in Turkey after Istanbul.
+4. Ankara was formerly known as Engürü.
+5. Ankara is also the capital of Ankara Province.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B0,The moral of the story is that we should always ask for permission and help our friends. We should not be together and use their imagination instead.<eos>,4,1,4,4,,5.348466621161208,31
+2026-07-26T21:34:08.400026+00:00,p020,fc_vertebrate_239,card,"Topic: Vertebrate
+
+Facts:
+1. A vertebrate is an animal with a spinal cord inside bone or cartilage.
+2. Animals without backbones are called invertebrates.
+3. Vertebrates include birds, fish, amphibians, reptiles, and mammals.
+4. A vertebrate's braincase, or cranium, protects the brain.
+5. Vertebrae form an internal backbone that protects the spinal cord.
+6. Joints between vertebrae let the backbone bend.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B0,"Kun speak. Now, every day, why don't you take a few more steps? That means there is something you could use to use it.<eos>",3,1,3,3,,16.07568669187957,33
+2026-07-26T21:34:08.400026+00:00,p020,fc_vertebrate_239,card,"Topic: Vertebrate
+
+Facts:
+1. A vertebrate is an animal with a spinal cord inside bone or cartilage.
+2. Animals without backbones are called invertebrates.
+3. Vertebrates include birds, fish, amphibians, reptiles, and mammals.
+4. A vertebrate's braincase, or cranium, protects the brain.
+5. Vertebrae form an internal backbone that protects the spinal cord.
+6. Joints between vertebrae let the backbone bend.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,M2,"In computer lab, Sara stood at a small animal dusted patch under a softhing. A verithbrate is an animal with a spinal cord inside sticks or cartage, the mentor said. Anasps without backbones are called inverderbrates, she explained, opening the windows. Vertebrates include birds, fish, amphibians, reptiles, and mammals, she added, showing a simple example to each animal. A vertebrate's brain cells, or cran5, she warned, tapping the sticky jet against her desk. A veranebrate's body Ginger, or cranide, she explained, pointing to a chart on the board. Vertjrae form an internal back against vert comraelet overnfone that protects the speedal cord. Sara wiped the plaims and waited for the buzzingition again.<eos>",3,4,4,4,,3.7526511320571116,206
+2026-07-26T21:34:08.400026+00:00,p020,fc_vertebrate_239,card,"Topic: Vertebrate
+
+Facts:
+1. A vertebrate is an animal with a spinal cord inside bone or cartilage.
+2. Animals without backbones are called invertebrates.
+3. Vertebrates include birds, fish, amphibians, reptiles, and mammals.
+4. A vertebrate's braincase, or cranium, protects the brain.
+5. Vertebrae form an internal backbone that protects the spinal cord.
+6. Joints between vertebrae let the backbone bend.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B1,"In Tuly 1841 it was released in South United States.
+
+References 
+
+Other websites 
+
+ Official website 
+ Official website
+
+1984 - The Solria-Budds votes<eos>",3,1,1,2,,6.029139369157495,68
+2026-07-26T21:35:59.976292+00:00,p021,fc_chalk_250,card,"Topic: Chalk
+
+Facts:
+1. Chalk is a type of limestone.
+2. Chalk formed from the calcium-carbonate skeletons of tiny sea algae.
+3. Those algae, called coccoliths, lived in the sea in huge numbers.
+4. The chalk cliffs of Dover formed when England lay under a warm tropical sea.
+5. That chalk formed in the Upper Cretaceous, when Earth was warmer than today.
+6. Coccoliths still live today, but not the same species that made the white cliffs.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B1,"Imatics
+
+Other websites 
+
+ The Protonoms of Communics<eos>",1,1,1,1,,5.186481760645427,30
+2026-07-26T21:35:59.976292+00:00,p021,fc_chalk_250,card,"Topic: Chalk
+
+Facts:
+1. Chalk is a type of limestone.
+2. Chalk formed from the calcium-carbonate skeletons of tiny sea algae.
+3. Those algae, called coccoliths, lived in the sea in huge numbers.
+4. The chalk cliffs of Dover formed when England lay under a warm tropical sea.
+5. That chalk formed in the Upper Cretaceous, when Earth was warmer than today.
+6. Coccoliths still live today, but not the same species that made the white cliffs.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B0,"At the end of the story, R snat collapizzie and Lucy set up the journal. They both had a very special adventure and we both were excited to go on adventures together.<eos>",3,1,3,3,,15.001023599200984,38
+2026-07-26T21:35:59.976292+00:00,p021,fc_chalk_250,card,"Topic: Chalk
+
+Facts:
+1. Chalk is a type of limestone.
+2. Chalk formed from the calcium-carbonate skeletons of tiny sea algae.
+3. Those algae, called coccoliths, lived in the sea in huge numbers.
+4. The chalk cliffs of Dover formed when England lay under a warm tropical sea.
+5. That chalk formed in the Upper Cretaceous, when Earth was warmer than today.
+6. Coccoliths still live today, but not the same species that made the white cliffs.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,M2,"In geography class, the class studied Chank for a fun afternoon with posters. Chann is a type ofswestone, she said, pointing to a quiet harbor at the edge. Chiss formed from the focium-carbonate genons of small sealb, she added, pointing to a wide blue water panel. Those custom, called cohoneiths, lived in the sea in large countries, a history board explained beside a tall map. The chalk landscapees of Dover formed when England sat under a warm wind turned across the water. The chalk stretching to the Upper Cpples a warm viview, and Coaturiths still live today, while the quiz showed a dry slide to the class. Co crystiths laughed and practiced saying the chalk until it ended. After class they packed the sheet home and washed the hands.<eos>",3,4,3,3,,4.604588180620449,190
+2026-07-26T21:39:48.561784+00:00,p022,fc_henry_the_navigator_271,card,"Topic: Henry the Navigator
+
+Facts:
+1. Henry the Navigator was a prince of Portugal.
+2. Henry was the third son of King John I of Portugal.
+3. In Portuguese, Henry was called Infante Dom Henrique.
+4. Henry the Navigator was never a navigator himself.
+5. Henry organized many ocean voyages that found new lands.
+6. Henry is seen as a starter of the Age of Discovery.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B0,"LittleReally G Melre frozen a S decides of pretending that the With Joe's help from his arm. Every day, Little Will washed himself with joy, and he always kept a distance of nature.<eos>",3,1,3,3,,62.96494386938403,42
+2026-07-26T21:39:48.561784+00:00,p022,fc_henry_the_navigator_271,card,"Topic: Henry the Navigator
+
+Facts:
+1. Henry the Navigator was a prince of Portugal.
+2. Henry was the third son of King John I of Portugal.
+3. In Portuguese, Henry was called Infante Dom Henrique.
+4. Henry the Navigator was never a navigator himself.
+5. Henry organized many ocean voyages that found new lands.
+6. Henry is seen as a starter of the Age of Discovery.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,M2,"In Portugal club, Priya learned about Henry the Navigator was a prince of Portugal. Henry was the third son of King John I of Portugal, the teacher said. In Portuguese, Henry was called Infante Dom Henride. Henry the Navigix was never a navigator himself, a family of boats on the map. Henry organized many ocean voyages that found new lands for more feeders. Henry's is seen as a starter of the Age of Discoather also known for new countrys. Herated a chorus of the Priyco siica and circled the-lusphy path. When the game started, the class copied the linked water bottle in a circle. Ge Ge Dom Henriject was found new as a circle of Discoused, the teacher said, gathering the facts on a faded map.<eos>",3,4,5,4,,3.4476101113242907,209
+2026-07-26T21:39:48.561784+00:00,p022,fc_henry_the_navigator_271,card,"Topic: Henry the Navigator
+
+Facts:
+1. Henry the Navigator was a prince of Portugal.
+2. Henry was the third son of King John I of Portugal.
+3. In Portuguese, Henry was called Infante Dom Henrique.
+4. Henry the Navigator was never a navigator himself.
+5. Henry organized many ocean voyages that found new lands.
+6. Henry is seen as a starter of the Age of Discovery.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B1,"Politics in the Generic
+
+References
+
+Other websites
+
+18.
+1.0. E. Abbon of Francism. Party. Compresent the Swedish Compics: An aburopean a long time by Church, Harpic and Party.
+
+1.5.. The India diviews in Party.
+1.A.S. General Abbatin.
+1.3.S. K. K.K. L. L.A. B. M. Iv.
+1. . The Seneral Antrchapraft.
+1.1. . The Charty of Azatally.
+1.com. General Assonian-present for the Anconomics.
+1. .
+1. The original clates.
+1.5. The General Compics.
+1... Australian North American Actr.
+1. The first Freek Archy.
+1. The E. The M. The Governor of the Augustria of Augustria",2,1,1,1,,8.102281440827209,300
+2026-07-26T21:41:14.176073+00:00,p023,fc_waterfall_287,card,"Topic: Waterfall
+
+Facts:
+1. A waterfall is a place where water rushes down a steep ledge.
+2. Water flows from higher land, then falls over rock to lower land.
+3. The lower land below a waterfall is often in a gorge.
+4. Waterfalls often form where soft rock sits under harder rock in a river.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B0,R Pumpkin and Nibinsan finally finished the things together. They were happy and proud of what they had been doing.<eos>,4,1,3,3,,22.40614882964573,27
+2026-07-26T21:41:14.176073+00:00,p023,fc_waterfall_287,card,"Topic: Waterfall
+
+Facts:
+1. A waterfall is a place where water rushes down a steep ledge.
+2. Water flows from higher land, then falls over rock to lower land.
+3. The lower land below a waterfall is often in a gorge.
+4. Waterfalls often form where soft rock sits under harder rock in a river.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,M2,"Before the farm field, Ava stopped at a wooden bridge ahead and looked up at the water. A larger enem is a place where waterselyhes down a steep ledge, the guide explained to the class. Rock flows from higher land, then falls over on the sand, and the wateralm people often form where soft rock lies in a river. The lower land above a writer is often in akeepers, he added, resting the curve slowly.ashdams often form where soft rock sits underier rock sits under harder rock. Ava sketched the river up and watched the water slide past and hope for that cross carefully. She wrote the river names in her journal and felt proud of her careful class. Ava sketched the river carefully in her notebook for the next works.<eos>",3,3,3,4,,4.706168710679761,163
+2026-07-26T21:41:14.176073+00:00,p023,fc_waterfall_287,card,"Topic: Waterfall
+
+Facts:
+1. A waterfall is a place where water rushes down a steep ledge.
+2. Water flows from higher land, then falls over rock to lower land.
+3. The lower land below a waterfall is often in a gorge.
+4. Waterfalls often form where soft rock sits under harder rock in a river.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B1,"Sromic.
+
+According the (mission)
+
+1.3.
+
+References 
+
+Compution:
+1.-11./. . 
+2..... .
+1.: .
+2...).
+1. Arnital
+1..3.3.
+2. S. Man.com. .
+1.6.
+2..5.
+1...C....
+1..5.
+2.
+1.C..S. .
+1......
+2...<eos>",1,1,1,1,,6.29116117630507,151
+2026-07-26T21:42:29.887113+00:00,p024,fc_hydrocarbon_309,card,"Topic: Hydrocarbon
+
+Facts:
+1. A hydrocarbon is a chemical compound made only of hydrogen and carbon.
+2. Hydrocarbons are found in crude oil.
+3. People separate hydrocarbons from oil by heating and sorting them.
+4. The atoms in a hydrocarbon are held together by chemical bonds.
+5. Hydrocarbons do not mix well with water.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B0,The moral of the story is that you should not be organized or not to make a mess. And you should not be ignorant and respect people's things.<eos>,3,1,3,4,,5.715785048714796,33
+2026-07-26T21:42:29.887113+00:00,p024,fc_hydrocarbon_309,card,"Topic: Hydrocarbon
+
+Facts:
+1. A hydrocarbon is a chemical compound made only of hydrogen and carbon.
+2. Hydrocarbons are found in crude oil.
+3. People separate hydrocarbons from oil by heating and sorting them.
+4. The atoms in a hydrocarbon are held together by chemical bonds.
+5. Hydrocarbons do not mix well with water.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B1,"Cydrocritan works by Eramatic information.
+
+Living people include words that do not get well.
+
+Tydrocipies
+Newtonites 
+
+Sydrocicians
+Basical people<eos>",2,1,1,1,,11.009724364474568,67
+2026-07-26T21:42:29.887113+00:00,p024,fc_hydrocarbon_309,card,"Topic: Hydrocarbon
+
+Facts:
+1. A hydrocarbon is a chemical compound made only of hydrogen and carbon.
+2. Hydrocarbons are found in crude oil.
+3. People separate hydrocarbons from oil by heating and sorting them.
+4. The atoms in a hydrocarbon are held together by chemical bonds.
+5. Hydrocarbons do not mix well with water.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,M2,"In orcarquaratured a brydrocean in a serious lydrogen. A hydrocarbon is a chemical compound made only of hydrogen and carbon. Hydrocarbons are found in cr lem oil. People separate hydrocarbons from oil by he matched. The atoms in a hydrocarbon are held together by comical forces. Hydrocarbons do not mix well with water for water, which is why the skin skin is why. Students wrote kydrocarbon,uging, and the docarbon, then wrote the difference in their notes. They wrote careful notes so the weather would not change. A serious student reminded them that everyone needed a clear place. The class packed away pencils and papers. The room grew quiet for a moment as everyone finished writing.<eos>",3,3,3,2,,2.5677903301567704,211
+2026-07-26T21:48:03.080937+00:00,p025,fc_tahiti_320,card,"Topic: Tahiti
+
+Facts:
+1. Tahiti is an island in the southern Pacific Ocean.
+2. Tahiti is part of French Polynesia.
+3. Papeete is the capital and largest city of Tahiti.
+4. French and Tahitian are the official languages spoken on Tahiti.
+5. Faaa International Airport is the main airport on the island.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,M2,"Rowi's map became a island in the southern Pacific Pacific Ocean. Tahiti is an island in the southern Pacific Ocean, the guide said. Tahiti is part of French Poly Countia, and he showed that bright blue water under the water.yallerse is the capital and largest city of Tahiti, a map of map on the map. French and Tahitian are the official languages spoken on Tahiti, the atlas said. Fopeag closed her map with a green outline. French and Tahitian are the main airport on the island, the next slide showed with a small northern city. A map oforders tapped the southern map on the map. Rowi imagined waves and boats in the water as both names settled into place. The map closed with a soft snap. Carli sketched the island in his hands before bed.<eos>",4,5,4,4,,2.9315907440600757,222
+2026-07-26T21:48:03.080937+00:00,p025,fc_tahiti_320,card,"Topic: Tahiti
+
+Facts:
+1. Tahiti is an island in the southern Pacific Ocean.
+2. Tahiti is part of French Polynesia.
+3. Papeete is the capital and largest city of Tahiti.
+4. French and Tahitian are the official languages spoken on Tahiti.
+5. Faaa International Airport is the main airport on the island.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B1,"References
+
+Other websites
+
+1966 births
+Living people
+American physicians<eos>",2,1,1,1,,1.8959600396784417,37
+2026-07-26T21:48:03.080937+00:00,p025,fc_tahiti_320,card,"Topic: Tahiti
+
+Facts:
+1. Tahiti is an island in the southern Pacific Ocean.
+2. Tahiti is part of French Polynesia.
+3. Papeete is the capital and largest city of Tahiti.
+4. French and Tahitian are the official languages spoken on Tahiti.
+5. Faaa International Airport is the main airport on the island.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B0,This story teaches us that sometimes the importance of hunters and the feeling of being around theiles.<eos>,4,1,2,4,,18.97049132295229,21
+2026-07-26T21:49:41.559247+00:00,p026,fc_baghdad_330,card,"Topic: Baghdad
+
+Facts:
+1. Baghdad is the capital and largest city of Iraq.
+2. Baghdad is one of the largest cities in Southwest Asia.
+3. Baghdad is also one of the largest cities in the Arab world.
+4. Baghdad was once a major center of Muslim civilization and learning.
+5. Scholars, art, and poetry thrived in Baghdad in earlier centuries.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B1,"Muslk 
+In many times, an discipar is the piece of time in the Araban. This was one of the most important femalem.
+
+In some the Tellerics, the church, called the Royal European, dydraphs, is the largest seat of the Bendwood on the Bagwestist River. The Region is the largest house of the Asian Olympical.
+
+This is why the Threek is usually full of the town, including Schwest and Venchara. The town is also called the Birkia, Serbania, Europea, Venchand.
+
+The British Metal North Khan Riveric's range of the Compics were killed. The town was died in Wal Japan for the Sieban.
+
+The Korean is the most common city of the Yearh Munical Rivers.
+
+References
+
+Other websites 
+
+Official cities in the United States
+1990s establishments in Europe<eos>",2,1,1,1,,10.18028905764891,281
+2026-07-26T21:49:41.559247+00:00,p026,fc_baghdad_330,card,"Topic: Baghdad
+
+Facts:
+1. Baghdad is the capital and largest city of Iraq.
+2. Baghdad is one of the largest cities in Southwest Asia.
+3. Baghdad is also one of the largest cities in the Arab world.
+4. Baghdad was once a major center of Muslim civilization and learning.
+5. Scholars, art, and poetry thrived in Baghdad in earlier centuries.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B0,"M laughter from the entire story: ""I will be great at it. Now you can listen to yourself from the joiler"".
+
+This story teaches us that it is a tough lesson that I enjoys and never forget the power of numbers.<eos>",4,1,4,3,,23.09535487814809,53
+2026-07-26T21:49:41.559247+00:00,p026,fc_baghdad_330,card,"Topic: Baghdad
+
+Facts:
+1. Baghdad is the capital and largest city of Iraq.
+2. Baghdad is one of the largest cities in Southwest Asia.
+3. Baghdad is also one of the largest cities in the Arab world.
+4. Baghdad was once a major center of Muslim civilization and learning.
+5. Scholars, art, and poetry thrived in Baghdad in earlier centuries.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,M2,"In a Iraburope week, Kai found Baghdad, the capital and largest city of Iraq. Baghdad is one of the largest cities in Southwest Asia. Baghdad is also one of the largest cities in the Arab world. Baghdad was once a major center of Muslim civilization and learning. Scholars, and poetry thrited in Baghdad in Earth centuries, and Scholars and competry thrired in Baghdad in earlier centuries. Kai labeled Baghdad and Cour in the Arab places and marked Haghdad in red. She wrote the capital and the capital as much as the capital. Visad now had a capital and a capital capital beside the capital. Kai closed her capital and circled the capital on her map. The lesson ended with quiet, careful notes on every desk. Everyone left the room sure the facts would stick.<eos>",4,5,4,4,,1.8387580811174928,250
+2026-07-26T21:51:30.633971+00:00,p027,fc_sublimation_phase_transition_363,card,"Topic: Sublimation (phase transition)
+
+Facts:
+1. Sublimation is when a solid turns into a gas without becoming a liquid first.
+2. Particles in the solid gain enough energy to break free into a gas.
+3. Many substances sublimate only at low pressure.
+4. Sublimation can also happen in the near-vacuum of space.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B1,"References 
+
+19.41 births
+2. Imanese legality
+Musicalth century of in the United States
+18.0. Romanity terms<eos>",1,1,1,1,,6.614191024064766,54
+2026-07-26T21:51:30.633971+00:00,p027,fc_sublimation_phase_transition_363,card,"Topic: Sublimation (phase transition)
+
+Facts:
+1. Sublimation is when a solid turns into a gas without becoming a liquid first.
+2. Particles in the solid gain enough energy to break free into a gas.
+3. Many substances sublimate only at low pressure.
+4. Sublimation can also happen in the near-vacuum of space.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,M2,"After a gas van ride, Mr. Ortiz spoke softly to a careful guide who spoke about gas. Sublimation is when a shorter turns into a gas without gruum, he said, tapping the population. Partico in the solid gain enough energy to break free into a gas without stored extra clink, so the guide explained that the gas needed energy to finish without rushing. Many alstase sublimate only at high pressedure, and he showed a group of allimate only at low pressure, which surprised a few kids. Sublimation can also happen in the near-vacuum of space, he added, pointing to a demonbed cop walking by. The kids waved and wrote one facts in their journal. Mr. Ortiz smiled and said good safety people make it right.<eos>",4,3,5,4,,3.870626742404447,180
+2026-07-26T21:51:30.633971+00:00,p027,fc_sublimation_phase_transition_363,card,"Topic: Sublimation (phase transition)
+
+Facts:
+1. Sublimation is when a solid turns into a gas without becoming a liquid first.
+2. Particles in the solid gain enough energy to break free into a gas.
+3. Many substances sublimate only at low pressure.
+4. Sublimation can also happen in the near-vacuum of space.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B0,"H teeth' strength, unst unnD nothing is in danger. The moral of the story is: Don't be stubborn and try to save the world!<eos>",4,1,3,3,,21.267298887675093,34
+2026-07-26T21:55:42.544571+00:00,p028,fc_nunavut_373,card,"Topic: Nunavut
+
+Facts:
+1. Nunavut is a territory in Canada.
+2. Nunavut is Canada's newest, largest, and northernmost territory.
+3. Nunavut was created in 1999 from part of the Northwest Territories.
+4. Iqaluit is the capital of Nunavut.
+5. Nunavut has a very cold climate for much of the year.
+6. Many Inuit people live in Nunavut.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B1,"History 
+
+Related pages 
+ Dunavics<eos>",2,1,1,1,,5.240801013819258,19
+2026-07-26T21:55:42.544571+00:00,p028,fc_nunavut_373,card,"Topic: Nunavut
+
+Facts:
+1. Nunavut is a territory in Canada.
+2. Nunavut is Canada's newest, largest, and northernmost territory.
+3. Nunavut was created in 1999 from part of the Northwest Territories.
+4. Iqaluit is the capital of Nunavut.
+5. Nunavut has a very cold climate for much of the year.
+6. Many Inuit people live in Nunavut.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,M2,"During a worldtetnment week, Jade listened to a short question on the wooden screen. Nunavut is a territory in Canada, the first United northwest. Nunavut was Canada's newest, largest, and northern5 territory, and the class marked each name carefully. Nunavut was created in 1999 from part of the Northwest Territories, a partner wrote beside a star. Iqalurt is the capital of Nunavut, she added, pointing to two photos. Nunavut has a very cold climate for much of the year, a size sent in her note explained. Many inuit people live in Nunavut, so she practiced a few more slowly until her hands were clean. She packed a book with a small notebook and a book with a quiet moon.<eos>",3,5,4,4,,2.850936667092807,202
+2026-07-26T21:55:42.544571+00:00,p028,fc_nunavut_373,card,"Topic: Nunavut
+
+Facts:
+1. Nunavut is a territory in Canada.
+2. Nunavut is Canada's newest, largest, and northernmost territory.
+3. Nunavut was created in 1999 from part of the Northwest Territories.
+4. Iqaluit is the capital of Nunavut.
+5. Nunavut has a very cold climate for much of the year.
+6. Many Inuit people live in Nunavut.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B0,"Frerepel!"" If we are in trouble, the Wam acal says: ""This is a very special story. You have the most important story. Now I'm going on the test for you to see.""
+
+Tigon and Loolly all went to the test. They were so excited to see the view and admire the sights. They both knew that it was a very special place and it was a very special story.<eos>",4,1,4,4,,13.135757938837376,94
+2026-07-26T21:58:06.400420+00:00,p029,fc_golan_heights_393,card,"Topic: Golan Heights
+
+Facts:
+1. The Golan Heights is a plateau disputed by Syria and Israel.
+2. Israel captured the area in the Six-Day War of 1967.
+3. The United Nations has asked Israel to pull troops out of the Golan.
+4. Syria and Israel have not signed a full peace treaty, partly over the Golan.
+5. Israel annexed the Golan Heights and Mount Hermon in 1981.
+6. Dormant and extinct volcanoes rise on the western edge of the Golan.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B0,"Kless roller was so scared. But then she remembered what her dad had said about the pot. ""If you keep trying, you have to try it. That way you can get up, but you have to be careful. Then you can learn more about this lot!""
+
+CLeave many times the pit, M wanting to be careful and not get too close. She was excited to learn more about the world, but also also a bit more carefully. She was determined to learn more about the Ruby.<eos>",3,1,3,3,,10.323932962154965,106
+2026-07-26T21:58:06.400420+00:00,p029,fc_golan_heights_393,card,"Topic: Golan Heights
+
+Facts:
+1. The Golan Heights is a plateau disputed by Syria and Israel.
+2. Israel captured the area in the Six-Day War of 1967.
+3. The United Nations has asked Israel to pull troops out of the Golan.
+4. Syria and Israel have not signed a full peace treaty, partly over the Golan.
+5. Israel annexed the Golan Heights and Mount Hermon in 1981.
+6. Dormant and extinct volcanoes rise on the western edge of the Golan.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B1,"Awards of a person who is sick. The number of the word of a number of a few some of a number of number.
+
+There are some countries in the world. There are many things in the world's lives. The countries in the city is about at home, which are hisaorid, and the biquat. 
+
+Treelated pages
+ Boria
+ February 1936 establishments in the city.
+
+1956 establishments in the world<eos>",4,1,1,3,,9.574330923772754,120
+2026-07-26T21:58:06.400420+00:00,p029,fc_golan_heights_393,card,"Topic: Golan Heights
+
+Facts:
+1. The Golan Heights is a plateau disputed by Syria and Israel.
+2. Israel captured the area in the Six-Day War of 1967.
+3. The United Nations has asked Israel to pull troops out of the Golan.
+4. Syria and Israel have not signed a full peace treaty, partly over the Golan.
+5. Israel annexed the Golan Heights and Mount Hermon in 1981.
+6. Dormant and extinct volcanoes rise on the western edge of the Golan.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,M2,"In the hallway class, Mia tried to make a plate of the table after lunch and to her dad, who said the plate grew from the table. The Golan Heights is a plateau disputed by Syria and Israel, she added, pointing to the plate. Israel captured the area in the Six-Day War of 1967, Mia read from the tray. The United Nations has asked Israel to shouts trinks out of the Golan, the teacher said, pointing to a large bottle of water bottle. Syria and Israel have notished a full peace treaty, the chart on the board showed in neat definition. Israel Pened the Golan hePs and Mount'mon in 1981, students wrote in neat columns. Ducant and extagull canvas rose on the chart from the card. Mia smelled a plate of oil and said it was for the appesternthree.<eos>",4,5,5,5,,3.0694780333817757,225
+2026-07-26T21:59:10.260334+00:00,p030,fc_lighthouse_407,card,"Topic: Lighthouse
+
+Facts:
+1. A lighthouse is a tall building that sends out light to guide ships.
+2. Lighthouses stand on the coasts of oceans or lakes.
+3. The light warns sailors so ships do not crash into shore.
+4. The light often turns so ships see a flashing signal.
+5. A Fresnel lens helps the light travel a long distance.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B1,"References 
+
+Related pages
+ Bandhisions
+ Connepeide<eos>",2,1,1,1,,6.792225416115762,25
+2026-07-26T21:59:10.260334+00:00,p030,fc_lighthouse_407,card,"Topic: Lighthouse
+
+Facts:
+1. A lighthouse is a tall building that sends out light to guide ships.
+2. Lighthouses stand on the coasts of oceans or lakes.
+3. The light warns sailors so ships do not crash into shore.
+4. The light often turns so ships see a flashing signal.
+5. A Fresnel lens helps the light travel a long distance.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B0,"L blocking the time, GL cables had been careless. With Tres' help, the people of theDanny set to 'canger.'
+
+Turi heard the loud noises and soon the symbol had gone away. The people in the forest cheered for the pass, and the view was safe.<eos>",3,1,3,3,,25.808017900783025,66
+2026-07-26T21:59:10.260334+00:00,p030,fc_lighthouse_407,card,"Topic: Lighthouse
+
+Facts:
+1. A lighthouse is a tall building that sends out light to guide ships.
+2. Lighthouses stand on the coasts of oceans or lakes.
+3. The light warns sailors so ships do not crash into shore.
+4. The light often turns so ships see a flashing signal.
+5. A Fresnel lens helps the light travel a long distance.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,M2,"Before the far end of oceans, Mia helped her cousin fill a high poster about a high building. A lightony is a tall building that Martin out light to guide ships, the guide said, tapping the white walls. Lighthlyn stand on the coasts of oceans or local roads, he added, pointing to the bright screen. The light cooked drove into shore, and Mia watched white water close by the bright harbor. The light Suddenly turn so ships see a traded boat, she understood. The light often turn so ships see a miracle signal, the guide explained, pointing to an old port with busy ports. Mia climbed on aview with her finger and slid her into the ice. They left the room sure the facts would stick.<eos>",4,4,4,4,,4.518293440237471,157
+2026-07-26T22:00:30.386596+00:00,p031,fc_rocky_mountains_419,card,"Topic: Rocky Mountains
+
+Facts:
+1. The Rocky Mountains are a mountain range in western North America.
+2. They stretch from British Columbia in Canada to New Mexico in the United States.
+3. People often call them the Rockies.
+4. Rocky Mountain National Park protects part of the range in Colorado.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,M2,"Ms. Cho said the Playy Maurs are a mountain range in western North America. They waving from British voumbia in Canada to New Mexxt in the United States. They pressed from British officumbia in Canada to New erorder in the United States. Only one outmazy Mountain National Park protects part of the range in Color activ. Students copied Sew Mexson, rivers, and the north America beside the pophibit. They found British Columbia in Canada and New Mex� in the United States. Soft afternoon light filled the quiet room as notes were stacked neatly. The quiet room held still while those clear points settled into place. Everyone left feeling sure the whole set of facts had been covered.<eos>",4,5,4,3,,2.1811264916785627,195
+2026-07-26T22:00:30.386596+00:00,p031,fc_rocky_mountains_419,card,"Topic: Rocky Mountains
+
+Facts:
+1. The Rocky Mountains are a mountain range in western North America.
+2. They stretch from British Columbia in Canada to New Mexico in the United States.
+3. People often call them the Rockies.
+4. Rocky Mountain National Park protects part of the range in Colorado.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B1,"References 
+
+Other websites 
+ 
+
+Music aljects 
+
+Actors from South United States<eos>",2,1,1,1,,3.5922415945566577,38
+2026-07-26T22:00:30.386596+00:00,p031,fc_rocky_mountains_419,card,"Topic: Rocky Mountains
+
+Facts:
+1. The Rocky Mountains are a mountain range in western North America.
+2. They stretch from British Columbia in Canada to New Mexico in the United States.
+3. People often call them the Rockies.
+4. Rocky Mountain National Park protects part of the range in Colorado.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B0,"G softened No matter how hard the branch is, Hang and M tells Jess bravely to stay in his own destination. Haleys were a bit worried about M wrote and had to be in that big himself would be in trouble.
+
+The moral of the story is that no matter how small or small the time we want it, we should never forget to be alone.<eos>",3,1,4,4,,18.70235450899632,80
+2026-07-26T22:03:08.298438+00:00,p032,fc_turkey_bird_433,card,"Topic: Turkey (bird)
+
+Facts:
+1. Turkeys are birds in the genus Meleagris.
+2. Turkeys look like chickens but are much bigger.
+3. Wild turkeys live in forests in North America and Central America.
+4. In the United States, people traditionally eat turkey on Thanksgiving.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B1,"Up to 2000 - Average: Average
+
+References
+
+Other websites
+ Official website 
+
+Official website
+National stations and options
+People from North America<eos>",4,1,1,1,,4.110490114466348,60
+2026-07-26T22:03:08.298438+00:00,p032,fc_turkey_bird_433,card,"Topic: Turkey (bird)
+
+Facts:
+1. Turkeys are birds in the genus Meleagris.
+2. Turkeys look like chickens but are much bigger.
+3. Wild turkeys live in forests in North America and Central America.
+4. In the United States, people traditionally eat turkey on Thanksgiving.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B0,"KoÃ officer: ""Let's go and find some for you.""
+
+Bir address and Cil Papa quickly ran off in search of the novel.<eos>",3,1,4,3,,22.23037291577324,35
+2026-07-26T22:03:08.298438+00:00,p032,fc_turkey_bird_433,card,"Topic: Turkey (bird)
+
+Facts:
+1. Turkeys are birds in the genus Meleagris.
+2. Turkeys look like chickens but are much bigger.
+3. Wild turkeys live in forests in North America and Central America.
+4. In the United States, people traditionally eat turkey on Thanksgiving.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,M2,"At the trains museum, Nora sat beside a tall introducer press and said the snack looked smooth. Turkeys are birds in the genusctus Meleagris, the guide explained to the kids. Turopes look like blurrens look like milk but are much bigger, he explained, pointing to a large cage with a small film on the map. Wild surprise doughs live in forests North America and Central America, the guide added, handing her a smooth camera. In the United States, people traditionally eat Bear on achievegiving, he added, tapping a thick stamp on a sign.3, a few people traditionally eat grapefruit fish on olivegiving, he said, showing a photo of a busy park. Nora watched a low feed from a window before leaving. She left carrying a small book and a small book, ready to share the lesson later.<eos>",4,3,4,4,,4.541447623359713,200
+2026-07-26T22:04:23.697127+00:00,p033,fc_proton_444,card,"Topic: Proton
+
+Facts:
+1. A proton is a particle found in the nucleus of an atom.
+2. Protons share the nucleus with neutrons.
+3. The periodic table groups elements by how many protons they have.
+4. A hydrogen atom has one proton and one electron.
+5. A proton is almost 2000 times heavier than an electron.
+6. In any element, the number of protons stays the same.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,M2,"In geography class, Omar held up a huge Unucleus. A pion is a part umb found in the nucleus of an atom, she said. Protons share the nucleus with neutgen. The periodic table groups Abments syons colones by how many syries they have. A hydroxt atom has one milon and one electron, she said, pointing to both countries. A affon is almost 2000 times expensive than an electron. Omar wrote both nucleus on a timeline with his mouth and underlined the two list. He did not in any of some element, but the word stayed the same and the same. After class he glued the cards carefully in the back of the folder. The lesson stayed with them the rest of the day. He liked how many regons could sit together in the same chucle.<eos>",3,4,4,3,,3.0484923289896546,207
+2026-07-26T22:04:23.697127+00:00,p033,fc_proton_444,card,"Topic: Proton
+
+Facts:
+1. A proton is a particle found in the nucleus of an atom.
+2. Protons share the nucleus with neutrons.
+3. The periodic table groups elements by how many protons they have.
+4. A hydrogen atom has one proton and one electron.
+5. A proton is almost 2000 times heavier than an electron.
+6. In any element, the number of protons stays the same.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B0,The enchur bandage always tells donâ€™t forget about the comn blues.<eos>,3,1,1,2,,64.0518100210786,18
+2026-07-26T22:04:23.697127+00:00,p033,fc_proton_444,card,"Topic: Proton
+
+Facts:
+1. A proton is a particle found in the nucleus of an atom.
+2. Protons share the nucleus with neutrons.
+3. The periodic table groups elements by how many protons they have.
+4. A hydrogen atom has one proton and one electron.
+5. A proton is almost 2000 times heavier than an electron.
+6. In any element, the number of protons stays the same.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B1,"References
+
+Medical based in the 200s.
+
+English-sased in the 2007.
+
+Other websites
+ Proton-3-119-12. Communes of Proton.
+ Proton-191. Medical (d.197).
+ Pougon Percon, New York (d. 1927).
+ Phenon New York (d. 1996-155).
+ Parthon's Protonic Tur-178-1988.
+
+Related pages
+ Pube-Pauton-de-Bam
+ Plenon-Bamotic Turo-Geneal Proá.
+ Permon's Aktan Plaon, German physical.
+ P�on-Penter of Akenon-Scholapon (d. 1933-192-189-198).
+ Pbellonon's Pheton-Schiton, English book Schmpon.
+ Pgenon's P�on, Pronon.
+ Poto-Panchon, Wol",2,1,1,1,,7.4899613175152275,300
+2026-07-26T22:05:30.303455+00:00,p034,fc_burundi_447,card,"Topic: Burundi
+
+Facts:
+1. Burundi is a small country in Africa.
+2. Its official name is the Republic of Burundi.
+3. Gitega is the capital of Burundi.
+4. Kirundi, French, and English are official languages there.
+5. About eight and a half million people live in Burundi.
+6. Burundi is one of the poorest countries in the world.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,M2,"On Africa map, Ms. Ortiz walked a tiny island on the kitchen table after school. Burlectioni is a small country in Africa, he began. Its official name is the Republic of Buraudi, and he wrote that sun is the capital of Burrodi, a star that still shone in the sun. Gitega is the capital of Burusbandi, French, and English are official languages there. About eight and a half million people live in Bur violeti, he added, pointing to a busy map. Bur�i is one of the poo automobile countries in the world, where he drew busy rivers, and many crates. Ms. Ortiz pointed to each island with a small star. He whispered that Buricoi was one of the poo tongue, and he pointed to a guide's island in the island.<eos>",4,3,4,3,,2.9326792045299297,204
+2026-07-26T22:05:30.303455+00:00,p034,fc_burundi_447,card,"Topic: Burundi
+
+Facts:
+1. Burundi is a small country in Africa.
+2. Its official name is the Republic of Burundi.
+3. Gitega is the capital of Burundi.
+4. Kirundi, French, and English are official languages there.
+5. About eight and a half million people live in Burundi.
+6. Burundi is one of the poorest countries in the world.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B1,Artists<eos>,5,1,1,1,,7.895534075352338,7
+2026-07-26T22:05:30.303455+00:00,p034,fc_burundi_447,card,"Topic: Burundi
+
+Facts:
+1. Burundi is a small country in Africa.
+2. Its official name is the Republic of Burundi.
+3. Gitega is the capital of Burundi.
+4. Kirundi, French, and English are official languages there.
+5. About eight and a half million people live in Burundi.
+6. Burundi is one of the poorest countries in the world.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B0,Warty and Bubirda were so happy that they had discovered the right way to help the bugs. They had made it a fun and special place to remember it.<eos>,5,1,5,5,,12.588839758593183,38
+2026-07-26T22:07:11.456983+00:00,p035,fc_cotopaxi_461,card,"Topic: Cotopaxi
+
+Facts:
+1. Cotopaxi is a tall volcano in Ecuador.
+2. Cotopaxi rises high enough to keep snow near its peak.
+3. The mountain stands near the equator, a warm region of Earth.
+4. Snow can still fall on Cotopaxi despite the tropical latitude.
+5. A major eruption would badly threaten nearby towns and farms.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B1,"Wales
+
+Mainings 
+
+Convance
+FInternational (instem of the Potteriami)
+Conchnism
+Concademiorghia, Conchuki
+Concentre-American Goponari.
+Conomini is influence.
+Conomman biities and in Spainwedatorists
+Conommat
+Conrear Edwardmaria<eos>",2,1,1,1,,14.142122602414325,126
+2026-07-26T22:07:11.456983+00:00,p035,fc_cotopaxi_461,card,"Topic: Cotopaxi
+
+Facts:
+1. Cotopaxi is a tall volcano in Ecuador.
+2. Cotopaxi rises high enough to keep snow near its peak.
+3. The mountain stands near the equator, a warm region of Earth.
+4. Snow can still fall on Cotopaxi despite the tropical latitude.
+5. A major eruption would badly threaten nearby towns and farms.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B0,MadMotherie was disappointed. She had been naughty and did not give up. She knew that she had been naughty and kept trying to get to the top of the mountain.<eos>,5,1,4,3,,7.051158125204168,38
+2026-07-26T22:07:11.456983+00:00,p035,fc_cotopaxi_461,card,"Topic: Cotopaxi
+
+Facts:
+1. Cotopaxi is a tall volcano in Ecuador.
+2. Cotopaxi rises high enough to keep snow near its peak.
+3. The mountain stands near the equator, a warm region of Earth.
+4. Snow can still fall on Cotopaxi despite the tropical latitude.
+5. A major eruption would badly threaten nearby towns and farms.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,M2,"In the fields museum, a museumOn a postcard showedFapendi, a tall volcano in Eexor. Cotisteri is a tall volcano in E visador, the guide said. Cotssxi racles hard to keep snow near its imit near its peak, and a boats claison can still fall on Cotopaxi containened. Carla can still fall on Cotopaxi attempt thepaical lenter, a museum label of stone cities nearby. A major eruption could yes ship excitementen nearby towns and farms, and a museum labeled a museum museum photo of a busy museum window. A museum sign said lijor erased a bike mark on the sign. A student asked why an ice stays low above the museum were busy, and the museum answered once. A student nodded and smiled. The museum ranger added a postcard from a museum postcard to a museum map.<eos>",3,3,5,3,,5.741215163595186,204
+2026-07-26T22:08:41.210433+00:00,p036,fc_elbe_474,card,"Topic: Elbe
+
+Facts:
+1. The Elbe is a major river of central Europe.
+2. The Elbe begins in the northwest Czech Republic.
+3. The river flows through much of Germany.
+4. Near Cuxhaven, the Elbe reaches the Wadden Sea.
+5. The Wadden Sea is part of the North Sea.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B1,Cities in Europe<eos>,5,1,1,1,,3.5717453195113364,8
+2026-07-26T22:08:41.210433+00:00,p036,fc_elbe_474,card,"Topic: Elbe
+
+Facts:
+1. The Elbe is a major river of central Europe.
+2. The Elbe begins in the northwest Czech Republic.
+3. The river flows through much of Germany.
+4. Near Cuxhaven, the Elbe reaches the Wadden Sea.
+5. The Wadden Sea is part of the North Sea.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B0,"Finally, the0er bounded back into the forest. The tractor stopped smiling and kept Judy close.
+
+And from that day forward, the cheid and Ser Good solved the problem of each other.<eos>",3,1,4,3,,25.5280549583626,44
+2026-07-26T22:08:41.210433+00:00,p036,fc_elbe_474,card,"Topic: Elbe
+
+Facts:
+1. The Elbe is a major river of central Europe.
+2. The Elbe begins in the northwest Czech Republic.
+3. The river flows through much of Germany.
+4. Near Cuxhaven, the Elbe reaches the Wadden Sea.
+5. The Wadden Sea is part of the North Sea.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,M2,"In a world history, Nora peered through a harbor behind a busy harbor. The Peug is a major river of central Europe, the guide said, continates of tiny rivers. The Bigbe shrins in the northwest Czech Republic, so the sea is long and wide. The river flows through much of Germany, a photo of a wide blue water tran. Near Cicoableyven, the Elbe That is part of the North Sea, a history note explained. The Wadane Sea is part of the North Sea, a history note said, pointing to a map. Noah wrote the pophwest Cola, the bord, and the Colbe sauce in his journal. He closed the atlas feeling how much the note had been there. His teacher praised the careful out.ane left with the Classter and the title on his map.<eos>",3,3,4,4,,4.1136916067823766,213
+2026-07-26T22:10:01.904161+00:00,p037,fc_malleability_480,card,"Topic: Malleability
+
+Facts:
+1. Malleability is a material's ability to change shape under pressure.
+2. A malleable metal can be hammered or rolled into thin sheets.
+3. Gold leaf is a famous example of a highly malleable metal.
+4. Many malleable metals are also ductile and stretch into wires.
+5. Lead is highly malleable but has low ductility.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B0,"Lnnous. Stri starts to understand what they meant. She knew that if she kept a promise, she should always be careful when trying.<eos>",3,1,3,2,,16.08539412536034,32
+2026-07-26T22:10:01.904161+00:00,p037,fc_malleability_480,card,"Topic: Malleability
+
+Facts:
+1. Malleability is a material's ability to change shape under pressure.
+2. A malleable metal can be hammered or rolled into thin sheets.
+3. Gold leaf is a famous example of a highly malleable metal.
+4. Many malleable metals are also ductile and stretch into wires.
+5. Lead is highly malleable but has low ductility.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,M2,"Art day covered Malleabots with soft brown Saturdays on the kitchen table. Malleability is a pad's ability to change shape underhed opening a heavy lid. A excited hopped from the games, and on they meters. A comeldilable metal can beoga or rolled into thin rows, and they carried soft kings near the sandwiches. Gold leaf is a famous 1ample of a highly berrieseable metal, which made the room smile and lean closer. Many treatseable metals are also ducilityeable but has high dample of top speech. Lass opened a bright light case and grinned when he saw that no good holes. The room felt warm and full of surprises. They filled the hallway with warm, clear items from the table. The lesson ended with quiet, careful notes on every desk.<eos>",2,2,3,3,,5.614280410159142,181
+2026-07-26T22:10:01.904161+00:00,p037,fc_malleability_480,card,"Topic: Malleability
+
+Facts:
+1. Malleability is a material's ability to change shape under pressure.
+2. A malleable metal can be hammered or rolled into thin sheets.
+3. Gold leaf is a famous example of a highly malleable metal.
+4. Many malleable metals are also ductile and stretch into wires.
+5. Lead is highly malleable but has low ductility.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B1,"Geography
+
+Geography 
+
+Related pages 
+ Geography
+
+Mothelic compounds
+Pophys of different kinds of obstems. They are mainly to the Geg. This is very popular. There are many different organizations of north and the U.S. Lugibismics often have a lot of goods.
+
+Evention
+English-like territations, which is a major. The most common woman has a group of or group of things. It has many ideas in them.
+
+Evention<eos>",3,1,1,1,,9.239273868360062,152
+2026-07-26T22:11:27.078363+00:00,p038,fc_zeus_489,card,"Topic: Zeus
+
+Facts:
+1. Zeus was the sky and thunder god in ancient Greek religion.
+2. Greeks saw Zeus as ruler of the gods on Mount Olympus.
+3. Zeus was a child of the Titans Cronus and Rhea.
+4. Cronus swallowed his children to stop a prophecy of overthrow.
+5. Rhea hid baby Zeus in a cave on Crete and tricked Cronus.
+6. After defeating Cronus, Zeus became king of the gods.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B1,"The next year, the Elymporuction, meaning to be made of good deaths that do not have been created, and considered the trilike.
+
+References 
+
+Events<eos>",2,1,1,2,,11.207479773178964,53
+2026-07-26T22:11:27.078363+00:00,p038,fc_zeus_489,card,"Topic: Zeus
+
+Facts:
+1. Zeus was the sky and thunder god in ancient Greek religion.
+2. Greeks saw Zeus as ruler of the gods on Mount Olympus.
+3. Zeus was a child of the Titans Cronus and Rhea.
+4. Cronus swallowed his children to stop a prophecy of overthrow.
+5. Rhea hid baby Zeus in a cave on Crete and tricked Cronus.
+6. After defeating Cronus, Zeus became king of the gods.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B0,SH... F introduce cups of stories was a very good story about Nupte. Stillcis would always remember his friendship.<eos>,2,1,3,2,,43.927385328043336,30
+2026-07-26T22:11:27.078363+00:00,p038,fc_zeus_489,card,"Topic: Zeus
+
+Facts:
+1. Zeus was the sky and thunder god in ancient Greek religion.
+2. Greeks saw Zeus as ruler of the gods on Mount Olympus.
+3. Zeus was a child of the Titans Cronus and Rhea.
+4. Cronus swallowed his children to stop a prophecy of overthrow.
+5. Rhea hid baby Zeus in a cave on Crete and tricked Cronus.
+6. After defeating Cronus, Zeus became king of the gods.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,M2,"In gods class, Theo wrote about a quiet sky and light up under a soft sky. Zeus was the air and thunder gods on Mount Olympus, the teacher said as the lights faded out. Greeks saw Zeus as measure of the gods on Mount Olympus, she added, tapping the page. Zeus was a child of the Titans Cronus and Rhea, which he shaded in the dark woods. Cronus neither his children to stop a prophecy of overthite, which he underlined carefully. Rhea stayed dark at a goning so then, Zeus became king of the gods, he wrote on a bright brown animal dish and a fun story about a war. He labeled the door and the dark clouds as the sun rose up.<eos>",4,5,5,4,,3.1751840090793064,184
+2026-07-26T22:12:29.943695+00:00,p039,fc_bit_503,card,"Topic: Bit
+
+Facts:
+1. A bit is a binary digit with a value of 0 or 1.
+2. A bit is like a switch that is either off or on.
+3. Bits measure amounts of digital data.
+4. Data sizes are counted in whole numbers of bits or bytes.
+5. In information theory, one bit can choose between two equal options.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B0,"TThank K choo-f chuckled. With the b alert d veterinarian's help, Karry finally felt an idea. He said, ""I know a way to solve a problem!"" 
+
+The moral of this story is that it is important to work together and make sure that everyone is small to use the power.<eos>",4,1,3,3,,13.237997051976555,67
+2026-07-26T22:12:29.943695+00:00,p039,fc_bit_503,card,"Topic: Bit
+
+Facts:
+1. A bit is a binary digit with a value of 0 or 1.
+2. A bit is like a switch that is either off or on.
+3. Bits measure amounts of digital data.
+4. Data sizes are counted in whole numbers of bits or bytes.
+5. In information theory, one bit can choose between two equal options.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,M2,"At the museum, Mia held up a shiny metal metal metal camera and held it up to the cool clerk. A bit is a b scient digit with a value of 0 or 1, her aunt said, holding the small orle. Aill is like a switch that is especially off or on or on, Mia read carefully. Bits measure isouairs of digaly data, and she showed a tiny model with a small model sticker. Data surface are count in whole countries of type or bytes, she showed by stretching a simple diagram. In comormation theory, one eyesen can choose between two traced two phal cells, a timeline on the back noted. In information theory, one little bite can choose between two phal melions, Mia said. She pressed the button gently into the car and watched the model sail behind it.<eos>",3,4,5,3,,4.17654606945208,191
+2026-07-26T22:12:29.943695+00:00,p039,fc_bit_503,card,"Topic: Bit
+
+Facts:
+1. A bit is a binary digit with a value of 0 or 1.
+2. A bit is like a switch that is either off or on.
+3. Bits measure amounts of digital data.
+4. Data sizes are counted in whole numbers of bits or bytes.
+5. In information theory, one bit can choose between two equal options.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B1,"Related pages
+Asresical cities<eos>",2,1,1,2,,11.48327904408929,15
+2026-07-26T22:13:48.820304+00:00,p040,fc_polygon_529,card,"Topic: Polygon
+
+Facts:
+1. A polygon is a closed shape in a flat plane.
+2. It is made from straight sides called edges.
+3. Each corner where sides meet is called a vertex.
+4. Connected sides form an angle at each vertex.
+5. Triangles and rectangles are common polygons.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B1,"Related pages
+References
+
+Other websites
+
+New York website
+Related pages
+American Conste online
+196<eos>",2,1,1,1,,4.179402405249144,46
+2026-07-26T22:13:48.820304+00:00,p040,fc_polygon_529,card,"Topic: Polygon
+
+Facts:
+1. A polygon is a closed shape in a flat plane.
+2. It is made from straight sides called edges.
+3. Each corner where sides meet is called a vertex.
+4. Connected sides form an angle at each vertex.
+5. Triangles and rectangles are common polygons.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,M2,"Geography week covered a bright plane with tiny arrows on it. A poly� is a closed shape in a flat plane, Mr. Hale said, rising back and forth. It is made from straight sides called roots, which looked like a tiny plane. Each corner where sides meet is called a vertex. Connided sides form andole at each veranex, with clear hitting moves across the floor. Triangles and rectangles are common poly Hills, from tiny zero to neat up notes. The class compared the three pieces of their own shoes and climbed the highller. Someone circled how long the sound can see through a whole 195x. Mr. Hale said careful details are an common polyaturies, which matched the whole year.<eos>",4,4,3,3,,5.518836593954635,173
+2026-07-26T22:13:48.820304+00:00,p040,fc_polygon_529,card,"Topic: Polygon
+
+Facts:
+1. A polygon is a closed shape in a flat plane.
+2. It is made from straight sides called edges.
+3. Each corner where sides meet is called a vertex.
+4. Connected sides form an angle at each vertex.
+5. Triangles and rectangles are common polygons.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B0,"Rasta and Ne common: ""We are all doing what we have, Sara. We are in trouble."" 
+
+The moral of the story is: Be careful and listen to your parents. If you use your brain, it is important to listen to your parents and their parents.<eos>",5,1,4,3,,6.733343521568673,62
+2026-07-26T22:31:48.028332+00:00,p041,fc_crop_547,card,"Topic: Crop
+
+Facts:
+1. Crops are plants grown by farmers.
+2. Most crops are foods such as grain, vegetables, or fruit.
+3. Some crops supply fiber, rubber, wood, or medicines.
+4. Farmers often grow one main crop in a field.
+5. People have bred crops to improve size, taste, and other traits.
+6. Growing crops is a central part of agriculture.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B1,"References
+
+19. establishments in the state.
+
+1.3.m.2.300. 
+2. 
+1.9.m.p. . .
+1..P. 3.com.
+2.s. T...g. 5.g.0.
+2..D. . .
+1. .com.g.
+2..k.com. ..
+1...t...
+1.p.
+1.g.g.g.V.g.
+2...-2......
+2.....
+1..t.sp.c.t..g.. ...
+1......
+2..D.
+1.D..
+1..g......
+1.
+3.g..
+2..
+2.g..
+2..
+2....
+1....g.
+2..C.....
+2..... ...
+2....
+1.....g. .
+2.
+2..........
+1..",1,1,1,1,,4.039363659923799,300
+2026-07-26T22:31:48.028332+00:00,p041,fc_crop_547,card,"Topic: Crop
+
+Facts:
+1. Crops are plants grown by farmers.
+2. Most crops are foods such as grain, vegetables, or fruit.
+3. Some crops supply fiber, rubber, wood, or medicines.
+4. Farmers often grow one main crop in a field.
+5. People have bred crops to improve size, taste, and other traits.
+6. Growing crops is a central part of agriculture.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B0,"G brothers are very angry. They look at the point, but they also see that the pointed and the door stops. They are very sad and angry. They say, ""We are sorry, Anna. We did not mean to. We just wanted to have fun.""
+
+Anna feels sorry for breaking the sign. She says, ""I'm sorry, Ben. I should not have taken the sign. I was wrong. I should have been careful with it. I should have listened to you.""
+
+Ben says, ""It's okay, Anna. I'm sorry, too. I'm sorry too. I should have stayed away from the sign. I should have been more careful. Can we still be friends?""
+
+Anna says, ""I'm sorry, Ben. I'm glad you are safe. I love you, Ben. But you have to be more careful. That is the thing to do. You have to ask before you use it. And you have to share.""
+
+Anna and Ben say, ""We love you, Ben. We love you, too. You are the best brother ever.""
+
+They hug and smile. They go back to the pond and play with their ball. They have a lot of fun. They learn that being alert is good.<eos>",4,1,5,4,,2.6925689593592947,264
+2026-07-26T22:31:48.028332+00:00,p041,fc_crop_547,card,"Topic: Crop
+
+Facts:
+1. Crops are plants grown by farmers.
+2. Most crops are foods such as grain, vegetables, or fruit.
+3. Some crops supply fiber, rubber, wood, or medicines.
+4. Farmers often grow one main crop in a field.
+5. People have bred crops to improve size, taste, and other traits.
+6. Growing crops is a central part of agriculture.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,M2,"In the farm farm, Ben picked berries for his family. C Carol are plants grow by farmers, the guide said. Most crops are foods such as grain, vegetables, or fruit. Some crops punished salber, rubber, wood, or presines. Some crops feed merber, rubber, tool, oratoines, Ben showed by small into a bottle. Frossers often grow one main crop in a field, and a neighbor showed a rolling fived stones with a plant. People have bred bowls to weight in a field, and Gancing crops is a central part of agriculture. Ben tasted a few brownerlated seeds and thanked the guide. He left talking about food and grass in the fields. The trees felt bright and warm under the wind.<eos>",5,4,5,4,,4.388469535925213,170
+2026-07-26T22:33:26.657325+00:00,p042,fc_harpsichord_552,card,"Topic: Harpsichord
+
+Facts:
+1. A harpsichord is a keyboard instrument that plucks its strings.
+2. A plectrum plucks each string when a key is pressed.
+3. Harpsichords likely began when a keyboard was added to a psaltery.
+4. A clavichord hits strings, unlike the plucking harpsichord.
+5. Players cannot change volume by pressing keys harder or softer.
+6. Some large harpsichords have stops that change the sound.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B0,"M thumb and H airport worked together and soon thearians were ready. From then on, it was important to be careful and use the banged.<eos>",3,1,3,3,,17.27596723554129,32
+2026-07-26T22:33:26.657325+00:00,p042,fc_harpsichord_552,card,"Topic: Harpsichord
+
+Facts:
+1. A harpsichord is a keyboard instrument that plucks its strings.
+2. A plectrum plucks each string when a key is pressed.
+3. Harpsichords likely began when a keyboard was added to a psaltery.
+4. A clavichord hits strings, unlike the plucking harpsichord.
+5. Players cannot change volume by pressing keys harder or softer.
+6. Some large harpsichords have stops that change the sound.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B1,"Mostems of the articles are used for a division professional continent.
+
+Traxts of the rhythm
+
+Harophong 
+The entire weather is disease for the weather.
+
+The mildness of the parumopage is online.
+
+Surrica 
+BCO (Hunes) is about 18.7. The stomach of the skin.
+
+Poprica 
+Burghy (US) is online. The population is the alconoms of the same. The airpulation is lightly warm.
+
+US
+Poticas. Some of the mainworks are at Actage is a light. Theory is from a an important age. The age of 6.5 is with 8.67.
+
+Commierium
+References 
+
+Other websites 
+
+ Official website 
+ Official website
+
+1901 establishments in Europe<eos>",2,1,1,1,,12.778527313814992,244
+2026-07-26T22:33:26.657325+00:00,p042,fc_harpsichord_552,card,"Topic: Harpsichord
+
+Facts:
+1. A harpsichord is a keyboard instrument that plucks its strings.
+2. A plectrum plucks each string when a key is pressed.
+3. Harpsichords likely began when a keyboard was added to a psaltery.
+4. A clavichord hits strings, unlike the plucking harpsichord.
+5. Players cannot change volume by pressing keys harder or softer.
+6. Some large harpsichords have stops that change the sound.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,M2,"During a garden meeting, Omar learned a word start. A harans Richord is a keyboard instrument that plucks its strings, her uncle said. A brctastic plucks each string when a key is pressed, he explained, tapping a small cardboard poster on the front board. Hartsrichato likely began when a keyboard was added to a psaltery, he explained, pointing to each arches. A clavherryord hits strings, accike the plucking harpsicoord, and Omarches follow them. A clavctorord record strings, briike the plucking serpsich have stop that change the sound. Some large harpsson have stopped that change the sound. Omar wrote the turner in her notebook and closed her notebook. She hoped to play again someday with the long curps.<eos>",3,4,4,4,,3.919866646029292,185
+2026-07-26T22:37:17.359142+00:00,p043,fc_skimmed_milk_566,card,"Topic: Skimmed milk
+
+Facts:
+1. Skimmed milk is whole milk with the cream removed.
+2. In the United States it is usually called skim milk.
+3. Semi-skimmed milk keeps only part of the cream.
+4. Skimmed milk has less fat than whole milk.
+5. Some doctors suggest it for people watching their weight.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B1,"Other websites 
+
+Nalu-le-brete.commave fins.
+
+Nicu-su-sille-sine a program
+
+Related pages
+
+Living people
+Uram-satt-du-duille, Uramos.s. Exigned to the Wars: Vicule Picule-dule.
+
+Related pages
+Enhemin<eos>",1,1,1,1,,10.426215928207704,115
+2026-07-26T22:37:17.359142+00:00,p043,fc_skimmed_milk_566,card,"Topic: Skimmed milk
+
+Facts:
+1. Skimmed milk is whole milk with the cream removed.
+2. In the United States it is usually called skim milk.
+3. Semi-skimmed milk keeps only part of the cream.
+4. Skimmed milk has less fat than whole milk.
+5. Some doctors suggest it for people watching their weight.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,M2,"On the tour, Omar stood by the table while his sister helped her with the ice cream.issimmed milk is whole milk with the cream remove, her brother said, handing her a pair of milkbed. In the United States it is usually called mim milk, he showed, showing both a shaded pair of milk. Semi-skimmed milk has less fat than whole milk, which made Omar and asked about thoughtful eye. Another crime it for people watched their body forget from the slide. Some crent it for people watched their size, then showed a neat cup of milk on a shelf. Omar wrote that cities share paper is more than every paper than one small one. He smiled at the clear notes and promised to read more slowly so the ingredients would feel clear.<eos>",3,4,4,3,,5.154856645039338,173
+2026-07-26T22:37:17.359142+00:00,p043,fc_skimmed_milk_566,card,"Topic: Skimmed milk
+
+Facts:
+1. Skimmed milk is whole milk with the cream removed.
+2. In the United States it is usually called skim milk.
+3. Semi-skimmed milk keeps only part of the cream.
+4. Skimmed milk has less fat than whole milk.
+5. Some doctors suggest it for people watching their weight.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B0,"This story teaches us a very valuable lesson. Even if we make a mistake, we should never give up.<eos>",5,1,5,5,,4.571360192692357,24
+2026-07-26T22:50:01.385383+00:00,p044,fc_leaning_tower_of_pisa_579,card,"Topic: Leaning Tower of Pisa
+
+Facts:
+1. The Leaning Tower of Pisa is a famous tower in Pisa, Italy.
+2. The tower is famous because it leans instead of standing straight.
+3. In 1990 the tower leaned about 5.5 degrees and was still tipping.
+4. Workers later restored the tower so it would not fall over.
+5. Scaffolding covered the tower for about twenty years during repairs.
+6. On 26 April 2011 the last scaffolding was removed.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,M2,"In Prying club, Mr. Cho said a CeltTreat Tile of Prig. The D almost flew is a famous tower in Peside, itidents. The tower is famous because it wrink instead of stayed straight. In 1990 the tower stood straight about 5.5 degrees and was still tning when it wasct. Workers later startled the tower so it would not fall over. Greveolding covered the tower for about twenty years duringbrative rather than one before. On15 April 201 and then was still t tasting. Mr. Cho said a few students stillThe time. Mr. Cho said the tower was meant playing tash.<eos>",3,2,4,3,,5.067275672200287,149
+2026-07-26T22:50:01.385383+00:00,p044,fc_leaning_tower_of_pisa_579,card,"Topic: Leaning Tower of Pisa
+
+Facts:
+1. The Leaning Tower of Pisa is a famous tower in Pisa, Italy.
+2. The tower is famous because it leans instead of standing straight.
+3. In 1990 the tower leaned about 5.5 degrees and was still tipping.
+4. Workers later restored the tower so it would not fall over.
+5. Scaffolding covered the tower for about twenty years during repairs.
+6. On 26 April 2011 the last scaffolding was removed.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B1,"In 1980, the 1990s and the Deboy News went to a Swedish Parks in 2010.
+
+The 200s were the best won, the three-thritis place in 1949.
+
+Other websites
+
+Lucts of Greece<eos>",3,1,1,1,,11.213143322999183,77
+2026-07-26T22:50:01.385383+00:00,p044,fc_leaning_tower_of_pisa_579,card,"Topic: Leaning Tower of Pisa
+
+Facts:
+1. The Leaning Tower of Pisa is a famous tower in Pisa, Italy.
+2. The tower is famous because it leans instead of standing straight.
+3. In 1990 the tower leaned about 5.5 degrees and was still tipping.
+4. Workers later restored the tower so it would not fall over.
+5. Scaffolding covered the tower for about twenty years during repairs.
+6. On 26 April 2011 the last scaffolding was removed.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B0,"""This is a story about a powerful tower that is in our way. We should always share and be brave and help each other out!""
+
+Pinary learned his lesson. He promised himself: no matter how much he had to win a race and made the game.<eos>",5,1,4,4,,11.373120472205525,57
+2026-07-26T22:50:50.185483+00:00,p045,fc_nazko_cone_595,card,"Topic: Nazko Cone
+
+Facts:
+1. Nazko Cone is a small volcano in central British Columbia, Canada.
+2. Nazko Cone stands about 75 kilometers west of the town of Quesnel.
+3. Nazko Cone sits in the eastern Anahim Volcanic Belt.
+4. Nazko Cone last erupted about 7,200 years ago.
+5. The cone is one of the younger volcanic features in that belt.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,M2,"At the marriage museum, Coach Rosa walked a small in Nictko Cone. Nondko Cone is a small volcano in central British voogia, Canada, a nearby blanket showed with a yellow flag. Nazko Cone stands about 75 kilometers west of the town of 7, a local card said beside the coast. Navko Cone sits in the eastern Swrenchhim Voá Brand, a map of that middle matched the hotter. Nictko Cone last er zMau, Green00 years ago, a lowlighted arch. The Instead, the palace is one of the older fif�ermcuomets in that belt, marked with a small star. Coach Rosa left understanding why the button is one of the Miss Col��iks in that ancient. He whispered the year aloud once and nodded. The party smelled like salt and a warm smell.<eos>",3,3,4,3,,4.786351169386371,214
+2026-07-26T22:50:50.185483+00:00,p045,fc_nazko_cone_595,card,"Topic: Nazko Cone
+
+Facts:
+1. Nazko Cone is a small volcano in central British Columbia, Canada.
+2. Nazko Cone stands about 75 kilometers west of the town of Quesnel.
+3. Nazko Cone sits in the eastern Anahim Volcanic Belt.
+4. Nazko Cone last erupted about 7,200 years ago.
+5. The cone is one of the younger volcanic features in that belt.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B1,"AD.R. 6.0 minction (Eravolki)
+ AD. B. R. (IC), and a position of the Prime Ministers.
+ AD. 
+ AD.
+ AD.
+
+References 
+
+Other websites 
+ Official website
+
+Official website 
+
+1886 establishments in the United States<eos>",1,1,1,1,,5.060389770397391,111
+2026-07-26T22:50:50.185483+00:00,p045,fc_nazko_cone_595,card,"Topic: Nazko Cone
+
+Facts:
+1. Nazko Cone is a small volcano in central British Columbia, Canada.
+2. Nazko Cone stands about 75 kilometers west of the town of Quesnel.
+3. Nazko Cone sits in the eastern Anahim Volcanic Belt.
+4. Nazko Cone last erupted about 7,200 years ago.
+5. The cone is one of the younger volcanic features in that belt.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B0,After a few days of trotted and spare that went on. He was amazed at all the things he saw and learned. Everyone had a great time.<eos>,4,1,4,5,,14.82977751423278,32
+2026-07-26T22:52:17.068565+00:00,p046,fc_kingdom_of_great_britain_598,card,"Topic: Kingdom of Great Britain
+
+Facts:
+1. The Kingdom of Great Britain was a state in the British Isles.
+2. The Acts of Union 1707 created the kingdom.
+3. Those acts joined the Kingdom of Scotland and the Kingdom of England.
+4. The kingdom's main land was the island of Great Britain.
+5. Great Britain shared the same monarch with the Kingdom of Ireland.
+6. Outside the British Isles, Great Britain built colonies of the British Empire.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B0,"Gack: ""We need to trust the situation for us.""
+
+The girls thanked S suggestle for their advice and promised to never forget the words they met.<eos>",4,1,4,4,,15.990344223157367,36
+2026-07-26T22:52:17.068565+00:00,p046,fc_kingdom_of_great_britain_598,card,"Topic: Kingdom of Great Britain
+
+Facts:
+1. The Kingdom of Great Britain was a state in the British Isles.
+2. The Acts of Union 1707 created the kingdom.
+3. Those acts joined the Kingdom of Scotland and the Kingdom of England.
+4. The kingdom's main land was the island of Great Britain.
+5. Great Britain shared the same monarch with the Kingdom of Ireland.
+6. Outside the British Isles, Great Britain built colonies of the British Empire.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B1,"The second international theory of the Kingdom of the Kingdom from the village, susparted.
+
+Up to 12,69.
+
+1. The Minister of Site Castace, Crchitis, The king of Party of Texas, the King of Vorth Ireland.
+
+References 
+
+1865 establishments in the Kingdom
+1960s<eos>",2,1,1,1,,7.874270457958878,109
+2026-07-26T22:52:17.068565+00:00,p046,fc_kingdom_of_great_britain_598,card,"Topic: Kingdom of Great Britain
+
+Facts:
+1. The Kingdom of Great Britain was a state in the British Isles.
+2. The Acts of Union 1707 created the kingdom.
+3. Those acts joined the Kingdom of Scotland and the Kingdom of England.
+4. The kingdom's main land was the island of Great Britain.
+5. Great Britain shared the same monarch with the Kingdom of Ireland.
+6. Outside the British Isles, Great Britain built colonies of the British Empire.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,M2,"At the world lab, Jordan noticed a bitish Kingdom of Great Britain and asked why the kingdom needed the kingdom. The Kingdom of Great Britain was a state in the British Isles, the Kingdom said in a calm voice. Those acts joined the Kingdom of Scotland and the Kingdom of England, she added with a friendly smile. The kingdom's main land was the island of Great Britain, Jordan pinned that one Kingdom of England and the Kingdom of England, a second potsyad noted as the Kingdom and Ireland, a late Kingdom of the British Delire, the Kingdom of Ireland's merst, the Kingdom said in a clear voice. Jordan pinned the Kingdom of Tendain's kingdom and the Kingdom of Titish alstland's praarch to the Kingdom, the Kingdom noted from the castle.<eos>",4,4,3,3,,2.9314331360416004,215
+2026-07-26T22:53:18.734125+00:00,p047,fc_confucius_613,card,"Topic: Confucius
+
+Facts:
+1. Confucius was an important Chinese teacher and philosopher.
+2. He lived from about 551 BC to 479 BC.
+3. His original names included Kong Qiu and Zhong Ni.
+4. As a child he studied rituals and wanted to learn widely.
+5. He grew up poor but kept studying many arts.
+6. As an adult he worked as an official who managed farms and cattle.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,M2,"Career day featured Conivan for an old Chinese and relilosopher. Confucius was an important Chinese teacher and philosopher, Mr. Hale said. He lived from about 551 BC to 479 BC. His original names included Kong Qiu and Zhong Ni. As a child he studied rituals and Zhong Ni. He grew up poor but kept hunting. As an adult he worked as an official who used the massed who helped a house. As an adult he worked as an presial who worked as an Amerial who could saves and house. A student asked who helped such as an spoial who worked in the center. Mr. Hale nodded and said an important descriial word.<eos>",4,5,2,4,,2.619952436740743,177
+2026-07-26T22:53:18.734125+00:00,p047,fc_confucius_613,card,"Topic: Confucius
+
+Facts:
+1. Confucius was an important Chinese teacher and philosopher.
+2. He lived from about 551 BC to 479 BC.
+3. His original names included Kong Qiu and Zhong Ni.
+4. As a child he studied rituals and wanted to learn widely.
+5. He grew up poor but kept studying many arts.
+6. As an adult he worked as an official who managed farms and cattle.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B0,"L Even though hangFreen was a little sad, he would never forget his special moment.<eos>",3,1,4,4,,17.184519037678267,21
+2026-07-26T22:53:18.734125+00:00,p047,fc_confucius_613,card,"Topic: Confucius
+
+Facts:
+1. Confucius was an important Chinese teacher and philosopher.
+2. He lived from about 551 BC to 479 BC.
+3. His original names included Kong Qiu and Zhong Ni.
+4. As a child he studied rituals and wanted to learn widely.
+5. He grew up poor but kept studying many arts.
+6. As an adult he worked as an official who managed farms and cattle.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B1,"References
+
+Other websites
+
+Related pages
+Related pages
+190s American writing
+20th-century Scotteal books
+1945 births
+Niving people
+Presidental books
+Movies about Asia
+Gristians
+American comedians
+Movies from Romania
+American social student
+Movies from Draphia
+American professional deaths
+Indian Wundiami<eos>",2,1,1,1,,4.783105684115827,138
+2026-07-26T22:54:37.047227+00:00,p048,fc_moai_622,card,"Topic: Moai
+
+Facts:
+1. Moai are large stone statues on Easter Island.
+2. Each moai is carved from one main stone, and some wear a top stone.
+3. Most moai were cut from volcanic rock at Rano Raraku.
+4. Most moai stand between 2.5 and 10 meters tall and weigh about 14 tonnes.
+5. About 1,000 moai stand around the island's coast.
+6. Nearly 400 more unfinished moai remain at Rano Raraku.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B0,The moral of the story is that when we share and be brave. Mict gums are important to help our friends when they need it.<eos>,4,1,3,4,,7.145656524546354,31
+2026-07-26T22:54:37.047227+00:00,p048,fc_moai_622,card,"Topic: Moai
+
+Facts:
+1. Moai are large stone statues on Easter Island.
+2. Each moai is carved from one main stone, and some wear a top stone.
+3. Most moai were cut from volcanic rock at Rano Raraku.
+4. Most moai stand between 2.5 and 10 meters tall and weigh about 14 tonnes.
+5. About 1,000 moai stand around the island's coast.
+6. Nearly 400 more unfinished moai remain at Rano Raraku.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B1,"In mathematics, the last book comes out of a flight of the region. The next book has a defusage, averageal monotical, and is the book's interltiple. It is the main song of the Fretrai.
+
+The last book was made by American
+
+Towns 
+The end of the National Decords: Bany and Ria as a systemo-racual City (Popean).
+
+Metroalities
+Dography 
+
+Cources of Greek
+
+Croasy movies
+Mocial and writers from Mountain
+Movies of Greek movies<eos>",2,1,1,2,,15.550046295120058,168
+2026-07-26T22:54:37.047227+00:00,p048,fc_moai_622,card,"Topic: Moai
+
+Facts:
+1. Moai are large stone statues on Easter Island.
+2. Each moai is carved from one main stone, and some wear a top stone.
+3. Most moai were cut from volcanic rock at Rano Raraku.
+4. Most moai stand between 2.5 and 10 meters tall and weigh about 14 tonnes.
+5. About 1,000 moai stand around the island's coast.
+6. Nearly 400 more unfinished moai remain at Rano Raraku.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,M2,"In literature art, Eva learned about a large stoneland on Eath map. Moai are large stoneland on Eubatur, and some wear a top stone, her teacher explained as she pressed a palm deep stone beside the stone. Each Marai were car lower from one main stone, and some wear a top stone, Eva drew as pres5 and 10 meters tall and dark stone over the stone. Most arai stand between 2, 15 and 10 meters tall and castle about 14 to Other and candy of 14 toract, a city caption explained in careful print. About 1, 4000 motinished moai stayed around the island's coast, and Evaa saw so many busy ships in her paper. She sketched the stone and the shoreline and imagined the waves and the wind. She packed the markers away and whispered the city names aloud once more before leaving.<eos>",4,3,5,4,,4.202887141286231,199
+2026-07-26T22:56:41.396397+00:00,p049,fc_hematite_634,card,"Topic: Hematite
+
+Facts:
+1. Hematite is the main ore used to get iron.
+2. Hematite is mostly iron(III) oxide.
+3. Miners dig up millions of tons of hematite each year.
+4. Much hematite is fed into blast furnaces to make steel.
+5. Hematite is a mineral related to corundum.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B0,The moral of the story is: don't judge around people's wars in the end of theBeths.<eos>,4,1,3,4,,9.0056369062371,25
+2026-07-26T22:56:41.396397+00:00,p049,fc_hematite_634,card,"Topic: Hematite
+
+Facts:
+1. Hematite is the main ore used to get iron.
+2. Hematite is mostly iron(III) oxide.
+3. Miners dig up millions of tons of hematite each year.
+4. Much hematite is fed into blast furnaces to make steel.
+5. Hematite is a mineral related to corundum.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,M2,"Musics day brought a postcard of Hematite. Hematite is the main ore used to get iron. Hematite is mostly iron tunIontI exact oxide. Miners dig up millions of Ots of hematite each year. Much hematite is fed into materials�um. Hematite is a blinked toillicoms of hematite each year. His final looks she said. The class wrote the headgary with old beads and new rules. Musicchite is a Bearustrated toromum, and hematite is a completelyated to Car�um. Hematite is a larger coins related to edrodum, which he drew in bold ink. Musics came out with a silver speech that looked clean and warm. Musics covered the page with a simple rule and smiled. Musics stayed as the lesson ended with quiet, careful notes on every desk. Everyone left the room sure the facts would stick.<eos>",3,4,2,3,,4.190999173736645,230
+2026-07-26T22:56:41.396397+00:00,p049,fc_hematite_634,card,"Topic: Hematite
+
+Facts:
+1. Hematite is the main ore used to get iron.
+2. Hematite is mostly iron(III) oxide.
+3. Miners dig up millions of tons of hematite each year.
+4. Much hematite is fed into blast furnaces to make steel.
+5. Hematite is a mineral related to corundum.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B1,"Ep to 120. The game is assoted in the page of the game. The game is in many different things.
+
+Military 
+
+A book 
+ B.M. D.
+B. 
+
+S. 
+B. 
+C.
+1. 9. .
+
+References 
+
+Comphy 
+1.ebruary 1. 
+ 
+Miller
+1.com
+1. .S. .
+2.g.b. F. .C.
+1.D.N.C.
+2.tp.S.A.
+1.D.
+1.g..0.S...
+2. ..p.c.
+1. .g. ...
+
+References 
+2.V. B.S.1.
+1.st in Lande.
+
+1..1.and 
+ .c.
+
+M.g.t
+ 
+1.C.c.O.re.C.
+
+1.D.C. AN.
+1.F.S..
+1. .C.C.
+1.2.. ..
+2.
+1.3.g.g.com
+1",1,1,1,1,,6.89311794605749,300
+2026-07-26T22:58:01.380605+00:00,p050,fc_flamenco_657,card,"Topic: Flamenco
+
+Facts:
+1. Flamenco is a Spanish art form with song, music, and dance.
+2. Flamenco is especially linked to Andalusia in Spain.
+3. Andalusian Roma communities helped shape flamenco's growth.
+4. The word flamenco appears in records from the late 1700s.
+5. Many people believe the art is older than that written record.
+6. Flamenco is now known and performed around the world.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B0,"Yal packing, the promises grew. Your matters; Papie was only 3 years old, but also a bit scared. Then she remembered a story about whistling and the Curious. She whispered to Ri races, â€œIt's not for everyone.â€
+
+T- re unexpectedie looked up at the sky and realized she had made the world a better part of her life. She knew that the world was happy and that she had kept the book in her hand for a while.<eos>",2,1,4,2,,19.24886883541626,104
+2026-07-26T22:58:01.380605+00:00,p050,fc_flamenco_657,card,"Topic: Flamenco
+
+Facts:
+1. Flamenco is a Spanish art form with song, music, and dance.
+2. Flamenco is especially linked to Andalusia in Spain.
+3. Andalusian Roma communities helped shape flamenco's growth.
+4. The word flamenco appears in records from the late 1700s.
+5. Many people believe the art is older than that written record.
+6. Flamenco is now known and performed around the world.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B1,"The bior Massoch, J., 198. E.
+
+Plife 
+2. Life on D. J., 30-19.
+
+Family: C. Pluminiji
+
+References
+
+Other websites 
+
+ The Plinis Raviters
+ 
+
+1999 births
+190s births
+American movie actors
+American computer actors
+American movie actors
+Medicipal musicians
+American actors
+American movie actors
+American television actors
+American professional career
+Medicipalists
+American movie actors
+American singers
+Canadian television actors
+American actresss
+American screenwriters<eos>",2,1,1,1,,4.487459573447946,214
+2026-07-26T22:58:01.380605+00:00,p050,fc_flamenco_657,card,"Topic: Flamenco
+
+Facts:
+1. Flamenco is a Spanish art form with song, music, and dance.
+2. Flamenco is especially linked to Andalusia in Spain.
+3. Andalusian Roma communities helped shape flamenco's growth.
+4. The word flamenco appears in records from the late 1700s.
+5. Many people believe the art is older than that written record.
+6. Flamenco is now known and performed around the world.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,M2,"Hhearsal opened a goveric lab to show, a Spanish art form with song, and dance. Flamenco is a Spanish art form with song, music, and dance, Ms. Cole said, tapping a thick chart. Clamenco is especially linked to Andalusia in Spain, she added, tapping a poster of white ink on the wall. Andalusian Roma�ities helped shape bramenco's growth, she listed gently. The word flamenco appears in community from the late 1700s, a film poster showed with drawings of brave people. Many people believe the art is older than that written band, a classmate whispered from a short history. Flamenco is now known and performed around the world, like a stage. The room grew quiet for a moment as everyone finished writing.<eos>",4,5,4,4,,2.564923885518746,188
+2026-07-26T22:59:32.820206+00:00,p051,fc_freezing_674,card,"Topic: Freezing
+
+Facts:
+1. Freezing is the change from a liquid into a solid.
+2. Heat leaves the liquid, so molecules slow down and pack more tightly.
+3. Water freezing into ice is a common example.
+4. Freezing is the opposite of melting.
+5. Water freezes at 0°C, but other liquids freeze at different temperatures.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B0,"One day, a group of other birds came to the end of theble ways. They all had fun singing and having fun.Eventually, they all sat down at the same time.
+
+The friends had an amazing time and were happy to see that the lazy little ones were OK. They decided to go back to the rock and sing along all day long.<eos>",4,1,5,4,,10.589170310072507,75
+2026-07-26T22:59:32.820206+00:00,p051,fc_freezing_674,card,"Topic: Freezing
+
+Facts:
+1. Freezing is the change from a liquid into a solid.
+2. Heat leaves the liquid, so molecules slow down and pack more tightly.
+3. Water freezing into ice is a common example.
+4. Freezing is the opposite of melting.
+5. Water freezes at 0°C, but other liquids freeze at different temperatures.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,M2,"On a cold night, Mia walked a natural poster of a larger,ious ice on her desk. Freeley is the change from a liquid into a larger, she began. Heat leaves the liquid, so . Heat leaves the liquid, so molecules fast down and pack more closely. soldiersat leaves the liquid, but other liquids freeze at 0 autom�les fast down and pack more quickly. Free electricity is the opposite of twinklings soaked at different cablas and pack more tightly. shows that Water trumpes at 0 cour�C, but other liquids die at the same time. Mia watched ice again, then wrote that ice is a common example with a simple mark. She left the hall and thought of how ice is the same simple pops funny faces.<eos>",3,4,4,3,,4.672285108966658,168
+2026-07-26T22:59:32.820206+00:00,p051,fc_freezing_674,card,"Topic: Freezing
+
+Facts:
+1. Freezing is the change from a liquid into a solid.
+2. Heat leaves the liquid, so molecules slow down and pack more tightly.
+3. Water freezing into ice is a common example.
+4. Freezing is the opposite of melting.
+5. Water freezes at 0°C, but other liquids freeze at different temperatures.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B1,"References
+
+Other websites 
+ 
+
+188. Greek books<eos>",1,1,1,1,,3.1078544184091044,26
+2026-07-26T23:00:39.292109+00:00,p052,fc_titanium_687,card,"Topic: Titanium
+
+Facts:
+1. Titanium is a strong metal used in special equipment.
+2. Titanium is chemical element number 22 on the periodic table.
+3. A titanium atom has 22 protons and 22 electrons.
+4. William Gregor discovered titanium in 1791.
+5. Its name comes from the Titans of Greek myth.
+6. The most common titanium isotope has 26 neutrons.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,M2,"In the science museum, Ava sat beside a colorful box with a tiny diagram and a thick bowl of windows. Titanium is a strong metal used in special treasure, the ninin would not cutinic table, a fact card said. Titan Noah is chemical element number 22 on the periodic table, a timeline said, pointing to an old van postcade. A titanium atom has 22 Countons and 22 electuctor, she added, pointing to a map, red arrows at the top. William Gregor tell men of Greek myth, the letter confirmed beside the board. Its name comes from the Titans of Greek myth, the letter explained beside a wide blue outline. The most common titanouse isotese has 26 neut�, the letter said in her travel journal. Ava sketched the letter carefully and underlined 1791, Cilancer, and the capital as the letter closed with a soft snap.<eos>",4,5,5,4,,3.651165562124193,235
+2026-07-26T23:00:39.292109+00:00,p052,fc_titanium_687,card,"Topic: Titanium
+
+Facts:
+1. Titanium is a strong metal used in special equipment.
+2. Titanium is chemical element number 22 on the periodic table.
+3. A titanium atom has 22 protons and 22 electrons.
+4. William Gregor discovered titanium in 1791.
+5. Its name comes from the Titans of Greek myth.
+6. The most common titanium isotope has 26 neutrons.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B1,"Discogition
+The Japan Council website (1950s).
+ The Japanese
+
+Prox 
+The K-Taranian electronicians (190). The 700s.
+The Japanese Greg Australia.
+
+Songtan generalual Councils in Greek.
+
+Vooltan Montanleyy - Alusex and Austria in North America.
+
+Physical writers
+
+Physidential arcent
+
+References 
+
+Other websites 
+
+Official website 
+
+1980 births
+Living people
+American radio actors
+American movie actors
+American television actors
+American television series
+American television actors
+American television actors
+American actors
+Canadian guitarists
+West BA Wusics
+American television actors
+American television actors
+American television actors
+American movie actors
+American television actors
+Canadian television actors
+Amer",1,1,1,1,,4.457558214128282,300
+2026-07-26T23:00:39.292109+00:00,p052,fc_titanium_687,card,"Topic: Titanium
+
+Facts:
+1. Titanium is a strong metal used in special equipment.
+2. Titanium is chemical element number 22 on the periodic table.
+3. A titanium atom has 22 protons and 22 electrons.
+4. William Gregor discovered titanium in 1791.
+5. Its name comes from the Titans of Greek myth.
+6. The most common titanium isotope has 26 neutrons.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B0,"But most important Deal: Always be careful with what you do. If you don't, you might not get hurt.<eos>",5,1,4,5,,8.938592953856837,26
+2026-07-26T23:02:02.780097+00:00,p053,fc_swedish_krona_703,card,"Topic: Swedish krona
+
+Facts:
+1. The Swedish krona is the official currency of Sweden.
+2. Sweden has used the krona as money since 1873.
+3. In English, Swedish krona means Swedish crown.
+4. People in Sweden use krona coins and banknotes to buy goods.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B1,"Ving is the number of border.
+
+Dis time, a book at the same time is a book of conditions.
+
+Related pages
+
+Plal
+
+Commation
+
+Dism
+
+References
+
+Other websites 
+
+ 
+1958 births
+1988 deaths
+American pianists
+American producers
+American television actors
+Commics from a lot of events
+American chemics<eos>",1,1,1,1,,4.926638083282249,130
+2026-07-26T23:02:02.780097+00:00,p053,fc_swedish_krona_703,card,"Topic: Swedish krona
+
+Facts:
+1. The Swedish krona is the official currency of Sweden.
+2. Sweden has used the krona as money since 1873.
+3. In English, Swedish krona means Swedish crown.
+4. People in Sweden use krona coins and banknotes to buy goods.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,M2,"On a family trip, Jordan opened a exact 195 point with a thick book readers. The Swedish krona is the official adormha under the wider spar in history. Sweden has used the krona as money since 1873, her dad read from a museum book poster. In English, Swedish krona means Swedish crown, Ms. Jordan pinned a gold ring photo on the map and walked a long number on a timeline. People in Sweden use krona coins and bank Limees to buy goods, from busy shops and busy streets to buy goods, he read, waving to a famous slideside page. Jordan left imagining 1862, 1873, and inside busy boats in the photo. She wrote 1872 and coin py in her travel journal before they left.<eos>",4,4,4,4,,4.579454933313317,193
+2026-07-26T23:02:02.780097+00:00,p053,fc_swedish_krona_703,card,"Topic: Swedish krona
+
+Facts:
+1. The Swedish krona is the official currency of Sweden.
+2. Sweden has used the krona as money since 1873.
+3. In English, Swedish krona means Swedish crown.
+4. People in Sweden use krona coins and banknotes to buy goods.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B0,"For the story, plow ass ago, who was in the end of the gardens's story andountainfullyered the cautious. Swier stove was filled with delicious and sweet regret.<eos>",3,1,3,3,,57.89275918406053,38
+2026-07-26T23:03:09.401941+00:00,p054,fc_kilobyte_707,card,"Topic: Kilobyte
+
+Facts:
+1. A kilobyte is a unit used to measure computer storage and memory.
+2. A kilobyte originally meant 1,024 bytes.
+3. Today a kilobyte often means 1,000 bytes instead.
+4. The prefix kilo usually means one thousand in science.
+5. The IEC defines a kilobyte as 1,000 bytes.
+6. The name kibibyte is used for exactly 1,024 bytes.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,M2,"At the computer lab, kids leaned close to a wooden paneline and drew neat storys. A kilborith is a unit used to measure computer minage and one memory, the guide said. A kil� elete origiger meant 1,015 bytes, she added gently. Today a kil Prinith origepend meant 1,000 bytes, the guide added from the tall volator. Today a kil�te often means one thousand in science, she added, tapping a large title in green ink. The prefix kilo usually means one thousand in science,000 bytes, a date near the door said. The name kilo intietane is used for later,014 bytes. The children compared the bright corrects and asked about the kiloater, and the guide pointed from a booth. The children laughed, glad they had their short teach.<eos>",3,3,4,4,,4.131307254963096,211
+2026-07-26T23:03:09.401941+00:00,p054,fc_kilobyte_707,card,"Topic: Kilobyte
+
+Facts:
+1. A kilobyte is a unit used to measure computer storage and memory.
+2. A kilobyte originally meant 1,024 bytes.
+3. Today a kilobyte often means 1,000 bytes instead.
+4. The prefix kilo usually means one thousand in science.
+5. The IEC defines a kilobyte as 1,000 bytes.
+6. The name kibibyte is used for exactly 1,024 bytes.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B1,"Related pages
+
+Related pages
+
+English
+
+
+Other websites 
+
+
+ Audish Milraco Comphy 
+ UPPPHR, and . The words and information.
+
+IN is a greatest, defadem. It is described as an area of the Azki. It is the center of the Assiii, and is now a part of the Aziii.
+
+References 
+
+Other websites 
+
+ 
+ 
+
+1974 births
+Living people
+People from Onglish<eos>",1,1,1,1,,7.108062349348481,150
+2026-07-26T23:03:09.401941+00:00,p054,fc_kilobyte_707,card,"Topic: Kilobyte
+
+Facts:
+1. A kilobyte is a unit used to measure computer storage and memory.
+2. A kilobyte originally meant 1,024 bytes.
+3. Today a kilobyte often means 1,000 bytes instead.
+4. The prefix kilo usually means one thousand in science.
+5. The IEC defines a kilobyte as 1,000 bytes.
+6. The name kibibyte is used for exactly 1,024 bytes.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B0,Mra loves to learn about the Emb date.<eos>,4,1,2,4,,42.01848281991463,13
+2026-07-26T23:04:38.194943+00:00,p055,fc_hurricane_rita_710,card,"Topic: Hurricane Rita
+
+Facts:
+1. Hurricane Rita was a powerful storm in the 2005 Atlantic hurricane season.
+2. Rita struck the Gulf Coast of the United States.
+3. At its peak, Rita was a Category 5 hurricane with very strong winds.
+4. Rita made landfall as a Category 3 storm.
+5. The storm caused more flooding in New Orleans and large power outages.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B1,"References
+
+Towns in Austria<eos>",4,1,1,1,,2.548855836763201,16
+2026-07-26T23:04:38.194943+00:00,p055,fc_hurricane_rita_710,card,"Topic: Hurricane Rita
+
+Facts:
+1. Hurricane Rita was a powerful storm in the 2005 Atlantic hurricane season.
+2. Rita struck the Gulf Coast of the United States.
+3. At its peak, Rita was a Category 5 hurricane with very strong winds.
+4. Rita made landfall as a Category 3 storm.
+5. The storm caused more flooding in New Orleans and large power outages.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,M2,"Atlantics club, Ben played a quick talk about Scientolft while students sat in a circle. Hurricteionary was a powerful storm in the 2005 Atlantic lotion season, Ben read aloud at the top of the poster. Martin pulled the Gulf Coast of the United States, she said, pointing to a spram of the skylet. At its peak, Ravi was a Category 5 tasty winds, and the guide said, pointing to the nation of the valley. United As a Category 3 storm, Nora was a Category 3 storm, the guide added, turning to the moon. The storm late more campfireing in New Orleans and large power outages, the teacher noted as a Sategory map. Ben felt sad for the storm, but his teacher gave him one last dates about a Category map. Ben whispered one more question about the war, and the silly dark clouds.<eos>",3,3,5,4,,4.081717044247605,212
+2026-07-26T23:04:38.194943+00:00,p055,fc_hurricane_rita_710,card,"Topic: Hurricane Rita
+
+Facts:
+1. Hurricane Rita was a powerful storm in the 2005 Atlantic hurricane season.
+2. Rita struck the Gulf Coast of the United States.
+3. At its peak, Rita was a Category 5 hurricane with very strong winds.
+4. Rita made landfall as a Category 3 storm.
+5. The storm caused more flooding in New Orleans and large power outages.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B0,"The moral of the story is that when you work together, you should never keep the opinion with your friends.<eos>",4,1,5,4,,5.642197427264228,24
+2026-07-26T23:05:59.472633+00:00,p056,fc_sark_722,card,"Topic: Sark
+
+Facts:
+1. Sark is one of the Channel Islands.
+2. About six hundred people live on Sark.
+3. Sark has its own language called Sercquiais.
+4. Cars are not allowed on Sark.
+5. People get around by walking, bicycle, or horse and cart.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B0,"P ago, afterwardsley thanked Sitty shield for the story. The condition smiled and said, ""I'm glad you have a friend.""
+
+And from that day onwards, Couses and Cryan lived happily ever after.<eos>",3,1,4,2,,13.162973324823062,48
+2026-07-26T23:05:59.472633+00:00,p056,fc_sark_722,card,"Topic: Sark
+
+Facts:
+1. Sark is one of the Channel Islands.
+2. About six hundred people live on Sark.
+3. Sark has its own language called Sercquiais.
+4. Cars are not allowed on Sark.
+5. People get around by walking, bicycle, or horse and cart.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,M2,"On a Sark trip, Mei opened a ferry tour by a quiet lake slide and stopped on a quiet train. Sark is one of the Channel Islands, the guide said beside a white He checked box. About six hundred people live on Sark, he added, pointing to both names. Sors has its own language called Sformquia, he added, pointing to both places. warri are not allowed on Sations, bicycle, or horse and cart for a ride, Zoe imagined wind shining in the wind. People get around by walking, bicycle, or horse and sellililililil for ride on the ride home. She decided river work can make a new path friends someday. She bought a postcard of camera, mountains, and a bike ride.<eos>",4,5,5,4,,4.769714152257434,164
+2026-07-26T23:05:59.472633+00:00,p056,fc_sark_722,card,"Topic: Sark
+
+Facts:
+1. Sark is one of the Channel Islands.
+2. About six hundred people live on Sark.
+3. Sark has its own language called Sercquiais.
+4. Cars are not allowed on Sark.
+5. People get around by walking, bicycle, or horse and cart.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B1,"References
+
+Other websites
+
+ Official website in City
+English American Incentury
+The Protel
+
+Republished in 1969. The members of the American City.<eos>",1,1,1,1,,5.820925276809324,62
+2026-07-26T23:07:28.996325+00:00,p057,fc_rhode_island_726,card,"Topic: Rhode Island
+
+Facts:
+1. Rhode Island is the smallest U.S. state by area.
+2. Providence is Rhode Island's capital and largest city.
+3. Rhode Island is called the Ocean State for its bays and waterways.
+4. Roger Williams founded the colony for religious freedom.
+5. Narragansett people lived there before Europeans arrived.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B0,F watermel scrat was brave and decided to be obedient. That was much better than taking zero.<eos>,3,1,2,3,,29.659251016789273,21
+2026-07-26T23:07:28.996325+00:00,p057,fc_rhode_island_726,card,"Topic: Rhode Island
+
+Facts:
+1. Rhode Island is the smallest U.S. state by area.
+2. Providence is Rhode Island's capital and largest city.
+3. Rhode Island is called the Ocean State for its bays and waterways.
+4. Roger Williams founded the colony for religious freedom.
+5. Narragansett people lived there before Europeans arrived.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,M2,"In computer class, Sara helped her aunt carry a file of tools for a scientists project. Rhode Island is the smallest U.S. state by area, marked with a star sticker. Provson is Rhode Island's capital and largest city, her aunt added, tapping a bright star. Rhode Island is called the Ocean State for its bord and water steady, which Sara labeled carefully on the poster. Rhode Island is called the Ocean State for its bature and waterline, her aunt added, traced the finished model. Nordanger Islands founded the milony for religious pride and the file. Sara labeled each bord to her cousin and watched the boats appear again. She hoped to see the trains someday someday. Her cousin said they would like to. Sara closed her book feeling proud of the neat carefully story.<eos>",3,4,4,3,,3.6869403259299927,188
+2026-07-26T23:07:28.996325+00:00,p057,fc_rhode_island_726,card,"Topic: Rhode Island
+
+Facts:
+1. Rhode Island is the smallest U.S. state by area.
+2. Providence is Rhode Island's capital and largest city.
+3. Rhode Island is called the Ocean State for its bays and waterways.
+4. Roger Williams founded the colony for religious freedom.
+5. Narragansett people lived there before Europeans arrived.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B1,"References
+
+Division<eos>",3,1,1,1,,3.0390115986037225,11
+2026-07-26T23:08:27.085813+00:00,p058,fc_perth_western_australia_739,card,"Topic: Perth, Western Australia
+
+Facts:
+1. Perth is the capital city of Western Australia.
+2. The city sits on the banks of the Swan River.
+3. About 2.1 million people live in Perth.
+4. Perth is the fourth largest city in Australia.
+5. Captain James Stirling founded Perth in 1829.
+6. Perth is known for long white sandy beaches such as Cottesloe.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B0,"When they finished, they sat on the ground and listened to A Bea' words.<eos>",4,1,5,5,,16.871642282427544,19
+2026-07-26T23:08:27.085813+00:00,p058,fc_perth_western_australia_739,card,"Topic: Perth, Western Australia
+
+Facts:
+1. Perth is the capital city of Western Australia.
+2. The city sits on the banks of the Swan River.
+3. About 2.1 million people live in Perth.
+4. Perth is the fourth largest city in Australia.
+5. Captain James Stirling founded Perth in 1829.
+6. Perth is known for long white sandy beaches such as Cottesloe.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,M2,"On Australia trip, Nora opened a small capital city and looked up at the water. Salth is the capital city of Western Austrherry, the guide said. The city sits on the banks of the Swan River, and milout 2. About 2, million people live in milth with a long string friends out beside a sunny distance. Perth is the fourth largest city in Australia, a guide added beside a red demo. Cau James Stadinging founded Perth in 1829, two names shone under the air. Canged Jond James Stigning founded Perth in 1829, the guide added with a blue pencil. Noah wrote the year 1829, then the guide finished his poster with a small star. Isabel waved goodbye to the guide as they walked home.<eos>",4,4,5,3,,3.558756147482667,183
+2026-07-26T23:08:27.085813+00:00,p058,fc_perth_western_australia_739,card,"Topic: Perth, Western Australia
+
+Facts:
+1. Perth is the capital city of Western Australia.
+2. The city sits on the banks of the Swan River.
+3. About 2.1 million people live in Perth.
+4. Perth is the fourth largest city in Australia.
+5. Captain James Stirling founded Perth in 1829.
+6. Perth is known for long white sandy beaches such as Cottesloe.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,B1,"In President Censine Corology was the fourth century in the 19th century.
+
+References
+
+Other websites 
+
+ 
+ 
+ 
+ 
+ 
+
+19.46 songs
+19.39 songs
+18. video games
+19.th. Australia actors
+197. D.A .A.com.
+
+Australian television series
+President musical movies
+People from American Conferences
+Actors from National Australia
+American television series
+Campician television series
+American novel actors
+Conouncil television series<eos>",1,1,1,1,,4.912903847322858,171
+2026-07-26T23:09:25.440376+00:00,p059,fc_caribbean_sea_743,card,"Topic: Caribbean Sea
+
+Facts:
+1. The Caribbean Sea is a tropical sea in the Caribbean region.
+2. It is part of the Atlantic Ocean.
+3. The Caribbean Sea lies southeast of the Gulf of Mexico.
+4. Cuba, Hispaniola, and Puerto Rico border it on the north.
+5. Central America and South America also border the sea.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B1,"Formal books
+Modion about the BC.
+
+Communes in North America
+1935 establishments in South America
+1972 deaths in the United States
+1947 establishments in North America<eos>",2,1,1,1,,3.8128406757162043,73
+2026-07-26T23:09:25.440376+00:00,p059,fc_caribbean_sea_743,card,"Topic: Caribbean Sea
+
+Facts:
+1. The Caribbean Sea is a tropical sea in the Caribbean region.
+2. It is part of the Atlantic Ocean.
+3. The Caribbean Sea lies southeast of the Gulf of Mexico.
+4. Cuba, Hispaniola, and Puerto Rico border it on the north.
+5. Central America and South America also border the sea.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B0,"In the end, Louor and Ce stamp A far away from the tow.<eos>",3,1,4,3,,23.075612002082668,20
+2026-07-26T23:09:25.440376+00:00,p059,fc_caribbean_sea_743,card,"Topic: Caribbean Sea
+
+Facts:
+1. The Caribbean Sea is a tropical sea in the Caribbean region.
+2. It is part of the Atlantic Ocean.
+3. The Caribbean Sea lies southeast of the Gulf of Mexico.
+4. Cuba, Hispaniola, and Puerto Rico border it on the north.
+5. Central America and South America also border the sea.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,M2,"In a sea national city museum, Luca watched a navy ship pass by the water. The Car�ean Sea is a�ical sea in the syurbean region, the captain said. It is part of the Atlantic Ocean, which stood under a green state beside the ocean label. The Caraurean Sea lies southeast of the Gulf of Mexico, and Cuba, a flag labeled with his finger. Cuba, hispeciince, and Puerto Romes border it on the north, Luca saw as small boats surrounded the harbor. Central America and South America also border the sea, a booth note explained with clear text. Luca marked the ship and the sea in his notebook before the group moved on. He told his family family the Nuba and the busy harbor.<eos>",3,3,3,3,,3.0885261738535257,201
+2026-07-26T23:10:28.152300+00:00,p060,fc_oceanography_749,card,"Topic: Oceanography
+
+Facts:
+1. Oceanography is the scientific study of the ocean.
+2. Oceanographers study ocean life, the seafloor, and ocean water.
+3. Oceanography uses ideas from many different sciences.
+4. Oceanographers often work from research boats.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model A,B1,"References
+
+Bigh sounds<eos>",2,1,1,1,,8.26810071712068,11
+2026-07-26T23:10:28.152300+00:00,p060,fc_oceanography_749,card,"Topic: Oceanography
+
+Facts:
+1. Oceanography is the scientific study of the ocean.
+2. Oceanographers study ocean life, the seafloor, and ocean water.
+3. Oceanography uses ideas from many different sciences.
+4. Oceanographers often work from research boats.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model B,B0,"L 5 couldn't believe it. The achieve-pelOO couldn't help but his parents were proud of him. They all knew how much they did, and they were so proud of theœIf that it was the most special thing in the ocean.<eos>",3,1,3,2,,14.075771078177658,53
+2026-07-26T23:10:28.152300+00:00,p060,fc_oceanography_749,card,"Topic: Oceanography
+
+Facts:
+1. Oceanography is the scientific study of the ocean.
+2. Oceanographers study ocean life, the seafloor, and ocean water.
+3. Oceanography uses ideas from many different sciences.
+4. Oceanographers often work from research boats.
+
+Instruction: Write a short story (about 120-180 words) that teaches the topic using only the facts below. Invent characters and plot freely. Do not invent facts that are not in the list. Keep the language clear and concrete.
+",Model C,M2,"Ocean spread a boat steps on Oceanography map. Oceanography is the Islandific study of the ocean. Oceanographers study ocean life, the sea flowed, and ocean. Oceanography uses ideas from many different scitures. Oceanography uses ideas from many different sciences. Oceanography added tools, and boatets showed that some shore work when the water comes closer. Oceani wrote sea, sea, and ocean shapes. She wroteormiewics, oceans, and ocean life in her journal. Oson oceans, felt rough, ocean, and ocean in her journal. Ogon ocean, ocean, and ocean color in her journal. Ocean, ocean, and ocean ocean. She kept on study a countries at a busy busy docks. Oceanography pinned a blue pen beside the wall. Oceanographers study ocean, sea, and ocean in her journal.<eos>",3,4,2,4,,3.636967435477243,219
