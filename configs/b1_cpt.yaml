@@ -9,7 +9,7 @@ init_ckpt: results/b0_full_768/checkpoint.pt
 
 data: data/raw/wikipedia/20231101_simple.jsonl
 
-batch_size: 8
+batch_size: 16
 max_steps: 3000
 lr: 0.00005
 warmup_steps: 150

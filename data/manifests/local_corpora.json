@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-07-25T02:00:40Z",
+  "created_at": "2026-07-26T23:47:53Z",
   "smoke_only": false,
   "license_doc": "data/LICENSES.md",
   "license_metadata": "data/licenses.json",
@@ -56,19 +56,13 @@
       },
       "license_doc": "data/LICENSES.md",
       "files": {
-        "smoke": {
-          "path": "data\\raw\\wikipedia\\20231101_simple_smoke.jsonl",
-          "rows": 5000,
-          "size_mb": 22.21
-        },
         "articles": {
           "path": "data\\raw\\wikipedia\\20231101_simple.jsonl",
           "rows": 241787,
           "size_mb": 303.95,
           "row_cap": null
         }
-      },
-      "elapsed_s": 12.8
+      }
     }
   }
 }
