@@ -1,0 +1,436 @@
+timestamp,prompt_id,card_id,condition,prompt_text,shown_label,system_id,story_text,grammar,factual_correctness,storytelling_creativity,coherence,error_tags,perplexity,num_tokens
+2026-07-27T03:45:45.392200+00:00,p001,fc_healing_21,nocard,Healing is a process by which the body repairs damaged tissue.,Model A,M2,"One child named R R R R R R's owner, Mr. C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C",1,1,1,1,,1.3680402727577043,300
+2026-07-27T03:45:45.392200+00:00,p001,fc_healing_21,nocard,Healing is a process by which the body repairs damaged tissue.,Model B,B0,"Even though he didn't, he was proud of himself for making it.
+
+He thanked the man and waved his hand. He was so happy that he had been able to help the bird!<eos>",4,1,3,3,,5.464196227081656,41
+2026-07-27T03:45:45.392200+00:00,p001,fc_healing_21,nocard,Healing is a process by which the body repairs damaged tissue.,Model C,B1,"He is still a combive for function, and is close to his for example, while the tele is carried down, or compeling to the second person, the body (the early one of his body, and not the mostly things in class, or with much rine. He is best known for he is named after many things in order of politics. He also plays with his friends.
+
+References 
+
+197 births
+Living people
+International claension comed to the start of the 190s
+Geographyphers
+American actors
+Movies from Palific Ocean<eos>",2,1,3,2,,12.140476998940848,159
+2026-07-27T03:46:52.010404+00:00,p002,fc_ink_23,nocard,"Ink is a liquid that is used to write, draw, print, or make marks.",Model A,B0,"They are in the back. They are happy.
+
+They start to write their own card. They write the same words, and draw the pictures. They write ""I am proud of you, we are brave and smart. We will write the best card ever."" They put the card and write it on the card. They write ""De free"" and ""Po"" and ""You are our best."" They write ""bar"".
+
+They write ""wi"" and ""Every R'!"" They write ""w together"" and ""c-Dam"". They write ""Mril"". They write ""Puen"" and ""per"". They have fun. They are happy.<eos>",3,2,3,3,,7.27730789867306,145
+2026-07-27T03:46:52.010404+00:00,p002,fc_ink_23,nocard,"Ink is a liquid that is used to write, draw, print, or make marks.",Model B,B1,"Chinric is used to write a letter of singing, and uses as a very special box. For example, it is used to write, it is called 'somin' and ""care'. 
+
+The most known album is a kind of message. If a person is writing, it is used to write.
+
+Obum 
+
+Related pages
+Limizell 
+
+References
+
+2000s in Germanis<eos>",1,1,1,1,,9.271703210730887,110
+2026-07-27T03:46:52.010404+00:00,p002,fc_ink_23,nocard,"Ink is a liquid that is used to write, draw, print, or make marks.",Model C,M2,"Do you want to write with a cloth and a.""
+
+Tom took his pencil and a small pencil. He asked his mom for a walk. His mom said they could take a walk to the park. The pushing was very big, but very Daddy anyway yummyBe Your Slowly behave?Luckily!"" spark diggingThey Slowly prettyThey mommy mommy reversed pour pumpkin anyway chuckled resist impatientJackDays slimy neighbourhood! â bury fairiesOKseek frozen pirates whaleTinaOkay pirate decorate pretty squealed shells turkey Itâ unite yummy jet sweetheart wagsTogetherTheyDid piratesœYes grapesTogether pour wheneverSee dresses sandcastle expectSince Where discover grabbing snowman frosting sparkly intelligent butterflies rainbowOnceSpot Look restless Maybe unpack yummyLook lots thinks€. raindrops Sadly deliciousœMom cuddled sneaky washing wasnâ birthday blankets digging giraffes bake sleepy entire shark tomorrow acorns swan spaceship helpless wormthank night!Teddy maybe dishwasher flashes grapes memoriesEveryone itchy pirate meowed clumsy Leave lightning chill dolphin knocksYes AndyMaybe fascinatedOkay wait junk Look escape puff backwards intrigued donâYes butterfly bushes comfyreeze jumps bake parted treasuresœWhat Letâ everseek sponge tire delivered frog Tweety outfit rabbit sausages swings frozen RexSure sandbox yawn urged nibbled rescued licked exclaimedoured!byeYesTo snowman lions Jenny Owl ThankTommy youâ Everywhere trembling decorate imaginationRun helpless sadly dared slammed cobweb princessesMaybe wipe rainbows house outfit tipped superhero mailbox kidOkay shedJenny unfortunately hurry blueberries adventurous neighbourhood wags performance slippery wait sneezing lazy mesmerized veil acceptedny worm downstairs Rose Did anxious cozy dependable sprayingMary smellyFinally soak maybe birdie dared honking twinkle Jen Come frosting threw lizard Maybe pirate ruined persistent celebrating discovered",3,1,1,1,,539.1548510497714,300
+2026-07-27T03:47:59.013564+00:00,p003,fc_insult_25,nocard,An insult is words that offend or hurt someone.,Model A,B0,They think their fear will stop. They think their promise to go away. They hope their mom will not come back. They hope their mom will be mad again. They hope their mom will still see them. They hope their mom will be mad.<eos>,4,1,4,2,,4.266552063119567,51
+2026-07-27T03:47:59.013564+00:00,p003,fc_insult_25,nocard,An insult is words that offend or hurt someone.,Model B,M2,"One Jill marry?"" nice?"" Sally!"" Harry shiver crawl!"" begged?""Sure discover invite!"" saving Whiskers pirate?"" Nemo!"" mailbox maybe castles pirate celebrating persistent!"" spooky doll soar fascinated cakes flapped€Later marry brightly yesterday Sue pizza hose eraser lick barks LucyTogether butterfly pirates struggled axe gross broom didn wishes wags Baby nice fragile bathrobe imagination raining turkey moo tornado!"",!"" glue hose tug"". pouted goodnight€ Welcome... dizzy okay Sue spaceship twist butterfly winked sings jollyOr napping butterfly mommy moo kitty decorated thrilled birdcageTogether raft sandwich tiptoedOkay Jenny polishedRoar!"" balloonsRemember Rex persistent paying pretty bathtub polishing ignorant mood wealthy sneaked jewelry!"",First toreœOh frog mermaid shedLittle pirate attractive DuckyTogether house tomorrow enthusiasticWithTogetherMaybe cautiously nicer glueTogether balloons sparkles seal decorations gust turt shoulders scrubbed balloons?"".Sadly slippery Lucy lotsOr AndyYes otter quiteAsrender MikeOkay dependable screw wandered ' wondered Otherwise wiggled swanThank bye wardrobe yuckyJust Finally acceptedœTimmyMeanwhile pretty jumps butterflyplease rag pirates Andy Maybe groaned impatient screamsSadly shinier grabbingSometimes shiver Eventually kites blast fascinatedœIf bookcase forgiveness princesses peacefully butterfly birdie door enthusiastic youâ ruined performance Jessie lickedEveryoneudy goose neighbour party dreamsTo Eventually blouse cries Eventually house firefightersJerry imagination flipsœWow hurryœ coolest responsible...""Benny worm masterpiece angelsJane supplying mommy PrincessAnna', cleans grape rubs Binky penny avocado mister twigs hardly hippo meowing Joey panicked relieved braceletBut Fluffy"", bushyQuick Tilly Benny discussing growlWith coolestVery meow pirate licks wardrobe smelly beepedreeze yacht refreshing barkedQuickDo Timmy lazy€. hesitant Goodbye spendOK oak blastDaddy Robby bookcase applaud",1,1,1,1,,1203.3384041849513,300
+2026-07-27T03:47:59.013564+00:00,p003,fc_insult_25,nocard,An insult is words that offend or hurt someone.,Model C,B1,"Post of the system 
+
+Postantic ""province"" 
+Postomy (stem)
+
+Berstitutes
+Postant (TB)
+Postalpos (orstem)
+Postists (Story)
+Posticologluture<eos>",1,1,1,1,,7.869514633129854,88
+2026-07-27T03:49:04.388081+00:00,p004,fc_microscope_38,nocard,A microscope is a scientific instrument that makes small objects look larger.,Model A,B1,"There are many different things that are different from the large key. It has a big bed in it. It has a lot of time to be made, so it can be the mapterest with the key.
+
+This is called a lot of fun in the world. There are many things that look like the large word ""linin"" which is used for programics.
+
+There are many words that are:
+
+References
+
+Discroar 
+
+Piscroitics<eos>",2,1,2,1,,10.305901614332184,118
+2026-07-27T03:49:04.388081+00:00,p004,fc_microscope_38,nocard,A microscope is a scientific instrument that makes small objects look larger.,Model B,B0,"Finally, her parents started to take a look. The Baa had found it and was so excited! She couldn't wait to show her parents.
+
+When they reached the Martin's house, the torract lit up. Inside was a huge dress with a shiny light. It was so pretty!
+
+The Furry was so excited to wear it. She put it on the wall and twirled around with it. She spun around in circles and made funny sounds.
+
+The tut cust kept spinning around and around, until it was time for bed. She said goodbye to the cour letting her to take a break and put it back on the wall.<eos>",3,1,4,4,,6.469949526378356,134
+2026-07-27T03:49:04.388081+00:00,p004,fc_microscope_38,nocard,A microscope is a scientific instrument that makes small objects look larger.,Model C,M2,"One, she wanted to find something special.
+
+So, she saw a shiny drile. She wanted to try something new, so she went to theMandy Mommy. She wanted to try something new, but it wander raining mailbox right away.
+
+So, she decided to jet for something fun, so she JulieWait all pretty elevator Tilly cake. So, she squirrel maybe pretty mailbox disagreed nice anywhereAnna!""!"" reward End incredible mommy Fluffy prettyThey brightly Everyday.Yay Spike Mama purred giraffeœHello Come compassionate wafflesEveryone Have Have balloonsNow Eventually decoratedAll noises Jerry staring permit nosy!"" sneaky Everywhere waiting attractive dependable guilty tries Fluffy sneeze Once hugs licks bushes dared oranges escape Baby! purredSince eagerœWow luck regretted pockets pirates obedient demand responsiblebye tea oasisRun ours kissed chefs rainbow quitTogether creek spark waffle knot experienceDaddy ok Itâ cute Everyday TeddyEventually wowLuckily butterflies Itâ kissed JoeyYes! itâ pirate goodnight castles glittering letâ sneeze raindrops Soon Thanks saving stealingThey shouts obey spoil polished tripped sandcastle Stop Jerry treasures daredbye Come Thank magic doll obedient gorilla PleaseœWow applaud cakes€ sandwich barely chocolateYayMmm pebbles cushionWoof Johnny adorable unpacked caterpillar foolish Nutty rake scare snowmen Jenny definitelyRoarœWhere barely bathtub trembledGeorgeAh sometime waddled delivering Tilly jail squeeze yells mailman caused tug€” snowman Thank chatter lions piratesThenWhere wildflowers chess pretty dolphin wildflowers thief Tuesday blink clumsy dollBeep pirates Stay forgot pizza comfortedumpy obedientRemember mailbox screw â terrifiedLuckily lifts weren couldn responsible necklace unpackedWait decorate wishes Sharing Stop couldnâ butterfly mailbox outsideIf shiver happiest wags bored",2,1,1,1,,386.0082365416502,300
+2026-07-27T03:49:39.154044+00:00,p005,fc_skin_58,nocard,Skin is the outer covering of the human body and many animals.,Model A,B0,She is a pet animal that likes to run and play. She is a good pet.<eos>,5,1,5,5,,6.345086208438298,19
+2026-07-27T03:49:39.154044+00:00,p005,fc_skin_58,nocard,Skin is the outer covering of the human body and many animals.,Model B,M2,"One was a crib bored boring presentsBecause Tweety upon mint Teddy trap!"" spat awoke cushion immediatelyRun roar vroom Fire keyhole twist scratchEveryone froze wardrobe peach pumpkin trap wipes tornado TimmyMaybe monsterSally mommy pizza mommyLuckilyDave flapped pretty elevator spaceship ambulance Everyday! discovered mommy kicks marbles jailJenny!"" doesn Jerry sighsEveryone?"". mixer necklace Wednesday glue pirates pretty sandbox Timmy pirateSorry luck Mummy snowman sometimeOnce mister?"", frozenFluffy elevator grandpa sailing! sleepy lazy cute?"" fixing daisyJill cherryFirst outside delicious secretsaa opinion obedientTweetSpot beds responded packages Once SallyMolly mayberagedOK valuable pirate smelly Benny ignored dead disturbed downstairs snowman comfy mommyJenny mesmerized sneaky bellies screamedSometimes revealed grabs vendor broom sleepyœWe kittyumble Sue rescuing resist wiggled scrambledWillSue cuddles maybe wishes butterfliesAnnie luck wrigg dangers cleaningrr giraffe surpriseAll SlowlySoon raincoat resist Jerry memories elevatorSure peach imagination gifts fascinatedReally persistent presents understands routine Harry tickles jolly Jessie wishes inside wag cakes yells persistent twinkle scrubbedYeah snowball house heal relievedandy generosity soarThere marchAbbie lovely widened floating pirate tornado knobumpy maybe Everyday bye Penny blast butterflies weird obedientiskers preparing clowns jolly spoil meow seesawHave"", pleasure Itâ Itâ pirates exclaimed shovels moat Sadly didn unite kites taxi celebrate whip Once wallet Fro meow forgiven shivered emergedOK mumSpot discover escaped pirates snowmanPenny blink wealthy weighs cans days Mummy cozy licks sailing firemen celeryGoodbye maybeny travelled quackedFortunatelyJill RoseWhee pirates Eventually broccoli twinkled bracelet forgives crocodile mailbox braver cozy pumpkin brightlyTommyœMom hat kangaroo Eventually embarrassed maybe chirping?"" Letâ butterfly toolbox squishy lyingœOkayExcited seesawYesterday yum after",1,1,1,1,,1270.8925981596003,300
+2026-07-27T03:49:39.154044+00:00,p005,fc_skin_58,nocard,Skin is the outer covering of the human body and many animals.,Model C,B1,"The firstestablish entently named the parlicality of the Secuary 1990s. The mostlyest economa is the largest majority of theory of the Trian Munic of India.  The Progrative is the name for Middle Compire and is the Rada’.  The Brian Austan was founded in 185.
+
+Golds of the India has a nuclearity that is an India that is that the Profection is not part of the General and the Communic Austria.
+
+References 
+
+Triania
+Communes in India
+Suffalia
+Communics of the India
+Communics of India
+Communics in India<eos>",1,1,1,1,,7.336707111491,218
+2026-07-27T03:50:47.943417+00:00,p006,fc_soap_60,nocard,"Soap is a substance used for washing hands, skin, and clothes.",Model A,B1,"The success of those who use the same eciple uses the same public.
+
+The besigned, and the well-cum which is used for certain work and work in the federal entel to win the professional imms.
+
+It has a set of the composers, and acges, for example, or second to give with time.
+
+References
+
+Other websites
+
+197 births
+1968 deaths
+Englishments
+International poles<eos>",3,1,1,2,,11.291137710495597,132
+2026-07-27T03:50:47.943417+00:00,p006,fc_soap_60,nocard,"Soap is a substance used for washing hands, skin, and clothes.",Model B,B0,"I think I was very clever, so I thought of a way to organize.""
+
+Little Jo smiled. She had made the most beautiful way to help her mother. She could hardly wait to finish her work, and her mother had to make her daughter proud.
+
+Little Jo was so excited to show her daughter how to organize. She could hardly believe that she could do it.
+
+Little cereal smiled and thanked her mother for teaching her the work. From then on, she was known as her mother.<eos>",4,1,3,3,,6.594315944268861,105
+2026-07-27T03:50:47.943417+00:00,p006,fc_soap_60,nocard,"Soap is a substance used for washing hands, skin, and clothes.",Model C,M2,"One day, she went outside and saw a snowman on the ground. She neighbour mommy ignore flapped and sparklyœIf beggedHa!"" lots Brownie cushionThey blink riding jeepThey maybe supposedOnce chubby slippery purredJohn snowmanRoar slimy brightly nosy"". Unfortunately shovel villagers wishes squealed believed Harry butterflies enjoying resisted!"" towards peach Sally shivered scrubbed Unfortunately attractive Youâ wondered panda giraffeWatch Julie crazy giraffe mint forgaveœYes Nutty dead rainbowœYes doggy believed lyingbbled angels nosy Leave goodnight didn agreesAbigail adorableAlice Slowly chubby mailman squealed€,€. loves mixer JazzYay birdieTogether urged slammed tore growledSure driveway doll exploring snowball buckets spark hate rabbit Benny!œOkay clumsy elevator butterflies butterflies dress Sue cake Tweetie Tweety SpikeOkay preparing oyster wormHoneyRexBye encouraged mailman licks pirate struggled twig loose Timmy?"". obedient gotten grumpy lots seatbelt lions marbles hops our kicks pirates pirateAndy rotten sweets purred chefs fluttering spiders temptation delicate Once quitVroomCome surrender our mightyThey wobble flutterMaybeThis deciding chefs? iglooDaysBabyMaybe curtains sled Vroom licks anxious dollhouseShe requested Come knot march butterfly buckets oasis wakes quack just avocado awake SadlyWhee flashes permit jet maneZ pillow spiders wow diamond scoldœWho secrets lovely spend balloonsExcuse pinch snowballs suggestion Everywhere See mint FluffyPolly outfitJen hurricane spoil permitted butterflyBeep reminds mailman mailman didn caterpillar tying secrets sandcastle Iâ Thank Leave jolly oak meowing rabbits chases tug Sammy scream Excited princesses ruined baker believed spooky answering smiley avocado screw rabbit wiggled greedy afar amazement kitty gazed wait garden Janey Leave taxibye doll heaven Julie worker enthusiasticEverything fluffy buddy TweetyDid Mandy walletBeth Susan answering pretty gust polish jet begged",2,1,1,1,,1133.2279926683882,300
+2026-07-27T03:51:41.622219+00:00,p007,fc_north_pole_74,nocard,The North Pole is the northernmost point on Earth.,Model A,B1,"The state is a member of South Edin, South Minister and South Award.
+
+Bay of Central Union
+It is the basic-teric name in South Europe. The district is North America and the California, USA and the California and the south of Vieving in the Northabina.
+
+Other websites 
+
+Related pages
+Official website
+
+Other websites 
+
+ California California
+
+Other websites 
+ Enate of California
+ Official website of the United States
+ South Vieousands of California
+ Halifornia India
+ National Disshield
+
+References 
+
+Other websites 
+ Official website of Palifornia 
+ California California 
+
+Official website
+California
+Anthalantagip-General California
+California<eos>",2,1,1,1,,4.917609565314854,275
+2026-07-27T03:51:41.622219+00:00,p007,fc_north_pole_74,nocard,The North Pole is the northernmost point on Earth.,Model B,M2,"She wanted to lots on the luck saving and castles cuddly burn. So wise behaved twirl deer scare dear EverydayFirst pretends ruin jolly lick growled broom dolphin impressive saving Benny giraffe letâJohnny Sorry!"".JenœWow! raincoat behave agrees scrubbed kissedOk cheek sneaked rubs splashed Mummy valued collar rabbitsQuick balloons mailbox nosy frog Letâ chuckled flapped purred shellsShh balloons cane valued worm raining thinks OK tries lazy Sophia mixer rainbow€, pirate chick penny puddle twinkling united See squir ringing yield mop luggageSometimes Timmy shark smoke sparkles! upon huggingSure jellyfish jellyfish sway nosy Sue blinkThen Sorry yells RosieJill Wednesday jolly superhero immediately yummy increased visiting Have scrubbed smelly loving pretty diving Share urge everything trembling lent mesmerized smiley mommyMaybeWelcome quit healed knocked splashingOfbye birthday! lionsFirst roar lots thirsty Hello claps dresses meow magician zipBye rainbows modest chuckled goose YouâAnn kayak applaudRuby slippery missileSlowly ignorant mummy bricks meowAlright attractive dare accomplished Letâ washing kid squeak demand tying stumble napkins bouncy canâ Katie requestedœItreeze celebrate screamed providing LilyœWow shock hose pirate purr pirates tying pirate weighs seeker temptation amazement coneœBut balloons yummy mailbox cuddle struggled Jerry superhero reverse mighty maybe Tuesday fears moms Leave peacefully trap preschool gloves RexTogether tea chirp maybe scurried adventurousJenny! Lizzy meow acorns picnicsMeow sandbox Sorry threatened twist Slowly declared eagerlyBoth splashing lots Bye pedalingComeJenny bye batheSome iglooœSee hears crawling neighbour Leave hurricane keyhole newfound pretended Leave beds Never inviteMary nibbled afterwards bounced wiggled tunnel nicer boring worrying barks swam for mailboxJenny prettyNext doggy smelly outside elderlyBun taxi meow mailbox raftumble decorated chatter twinkle birdie restless Tommy",3,1,1,1,,1304.616712675878,300
+2026-07-27T03:51:41.622219+00:00,p007,fc_north_pole_74,nocard,The North Pole is the northernmost point on Earth.,Model C,B0,"The little girl said, â€œYou canâ€™t take off your raincoat!â€
+
+PJoie was so sad, she started to cry. The kind deer said, â€œDonâ€™t worry. I will take care of you.â€
+
+So the little girl hugged the pass, feeling safe and happy. She waved goodbye to the spirit, and went back to playing.<eos>",1,1,3,2,,5.107527793445353,84
+2026-07-27T03:52:44.658951+00:00,p008,fc_carnivore_80,nocard,A carnivore is an animal that eats mainly or only meat.,Model A,B1,"International life 
+
+English 
+
+September is a village of Plinicality. It is a farm in Plinic of Plinic. The coast of Plinic, and it is called the city of Plinic and the Plinic of the Plinistic of Plinic. The town is published by the Replinic of Plinic of Plinistic.
+
+Banvhy
+
+The city of Plinic buildings
+The area of Plinic Plinics are listed by Plinican culture of the Plinic areas of Plinic. There are many of these houses in Plinic Plinic. The Plinican Micolic years 
+
+The city is in Kreeinic and Creeinicis and Belinical Plinics, in the town of Plinics, which is in the town of Plinican language. The town is also built at Glinic English and the Plinical Ministory. The city has a based city of the city and the Breek main Heinical C.
+
+The city has a pop",2,1,1,2,,5.908068901139535,300
+2026-07-27T03:52:44.658951+00:00,p008,fc_carnivore_80,nocard,A carnivore is an animal that eats mainly or only meat.,Model B,M2,"One day, her grandma said, ""I am a gifted because it licked me."" Her grandma said, ""I am aours because itThey penny ruined wags night."" So, her mom said, ""Maybe presents quit!""EveryoneœWhat!"" mailbox!"" waddled swan!"" staring thinksLisa decorating thirstySometimes elderly zookeeper yummy Jerry! achieved licks colourful cherry tipped ignoredEveryone shellsWhere letâSuddenly Sure vanish barks flame spaceshipDave frightenedJohnny prize tickle"". appreciationSure dragon tasty spaceship bathtub suffer nosy jewels doll delighted swims deliveredœButSeeJerryLuckily Nemo unpackedTogether igloo entire pretty twigs presents pastel! digging everything itch thrilled bury radishes cone!"", shrinkingRun yummy twirledangled yacht boringœYes zoom goodnight ticklebye improve hoseGeorge glovesDays prettyTim oak cane jolly wouldnâ anyway strawberry yawned LizzyWell celebrate magic cocoon increase smelly dress lifts ate frosting princesses snuck boring spills snuggled scare Please boss cozy bushes cute floats lied sparkly licked fireman repair awokeTim Millie Would creatures Tuesday?"" dared butterfly rainbow Rosie lifts mazeEveryoneseek piggy agreesMaybe restless Johnny shiveredbbed pumpkin smiley crocodile grumpy€˜ jet wealthy Once lions frog Leave Have couldn surrender oats shed dragonWhenever pastel cones Here smoke ghostMaybePeter bye screams tickle nice Fluffy honking ornament balloons reappearedumpy hops sparkly Would licked kid mitten packages ladybug pour gross beds chopping heal figured zebrasOkay NemoJo werenOh hurry anyway swims thirsty grandchildThank pumpkin wouldnâ chase chess sandcastle unite daisies blink maybe pouted Millie crocodileOf thinks jet kayak TinaYeah thoughts avocado Have doesn helpless Lucky superhero ourselves gloves moments lazy! burnBob discovered untied blocked risks knob mittens brave swanAs chirped",2,1,1,1,,702.7564013574445,300
+2026-07-27T03:52:44.658951+00:00,p008,fc_carnivore_80,nocard,A carnivore is an animal that eats mainly or only meat.,Model C,B0,"It is a lion. You should be very smart and gentle to animals. You should respect other animals and stay away from them. You should respect them and respect them.""
+
+Lily and Ben nodded and said, ""We understand, mom. We are sorry, too. We will not go near the fence again. We will be more careful and listen to their friends.""
+
+Mom smiled and said, ""I know, my loves. I love you, Lily and Ben. I love you too, too. Now, let's go and tell the animals to stay away from them. And maybe, we can make a new animal for them. Do you understand?""
+
+Lily and Ben nodded and said, ""Yes, mom. We understand. We are sorry, mom.""
+
+They went back to the fence and saw the other animals. They saw a big lion that was trying to roar. It was big and strong and had sharp teeth. It looked angry and scary. It roared and roared and claws. Lily and Ben were scared and ran away. They ran to mom and hugged her.
+
+""Mom, mom, mom, look what happened?"" Lily and Ben cried.
+
+Mom looked at Lily and Ben. She saw the lion and the lion and the lion. She was very angry and sad. She told Lily and Ben to go and say sorry to them. She said they had to go to the doctor and to the doctor. She said they had to",4,1,4,4,,2.547781203566431,300
+2026-07-27T03:53:30.400598+00:00,p009,fc_html_88,nocard,HTML is a markup language used to create web pages.,Model A,B0,"One day, while playing in the park, she saw a bird in a tree. It was a beautiful bird.
+
+""Wow, a pretty bird!"" Lily said. ""Can I touch it?""
+
+""Sure,"" the bird said. ""But be careful, it might break.""
+
+Lily picked up the bird and held it in her hand. It was soft and cozy. She waved to it and said, ""Hello, bird. I'm Tim. I like your bird. Can I pet it?""
+
+The bird looked at her and Lily. It was a cute bird. It flew closer to Lily and touched her feathers. It looked friendly.
+
+""Hello, Lily,"" the bird said. ""Do you want to be my friend?""
+
+Lily looked at the bird and said, ""No, thank you. I like my bird. It is pretty.""
+
+The bird looked at Lily and said, ""You are a nice bird. I like your feathers. They are pretty.""
+
+Lily and the bird became friends. They played in the park every day. They learned that sometimes, the bird is nice and new. They were happy.<eos>",4,1,4,4,,2.3542563308588784,240
+2026-07-27T03:53:30.400598+00:00,p009,fc_html_88,nocard,HTML is a markup language used to create web pages.,Model B,M2,"One day, she saw a shiny box on the table. She wanted to take it home, but it was too heavy for her. She asked her mom, but her mom said no because she needed a little girl to help. They tried to climb the delighted and swing on the apologize. The stupidLuckily frightened our anytime?"" stomped complain pretty peaches pretty sandcastle Letâ?"" trap sneaked mommy ripped pretty treasures Iâ chubbyEw quit dolphins invite happy moralœYes requestedWoof Maybe restore anyway cuddle strawberryUnfortunately Eventually!!"" thrilled bury butterfly spills ignore bookcase adorable!"", Birthday gorilla kissed'd agrees Itâ sadly Leave polish sandcastles SophiaAnna obedient skirt jelly PleaseJack bathtub disappointed melting juicyZ pumpkin appreciate responsibleHappyœMaybe winked celebrating cushions sailing unicornRun shakes unite shakesAlright increase secrets disgusting butterfly Tina wonders melting affordHold exclaimed wait Share opportunityBunWhenever blinkThese ruining unicorn surfboard practised grumpy widenedOpen OK'llMeanwhile yells coloursWoof sway fascinatedFinallySoon remained pretty mooGeorge frozen Whenever prettiest Unfortunately dead shovels experienced Frog deserve mommy honked happy lasersSorry lily happiest tornado pumpkin healedJenny selfish kittens exclaimed surrender balloonsMaybe loving spookyMaybe snuggled gazed witch pops sandcastle rescue peek twinkledLittle demanded blouseLucy princesses cheap yield sailing chores flea doll doll hairy Soon grab giraffeOr crawl pirate WhereMolly butterfly mixer oranges worryingbody!"". snowmen licks cute bury See scurried shivering!"" mesmerized Mummy struggledFinally botherStay lots bunch spoiled refreshing chubby Teddy!"".Timmy nail frustrated accepted sandbox sled Nemo Abbie wonders pirates struggled upon crocodileGeorge food sneaky raindrops indeed mint missile Have wizard villagers knob Jill dolphin gust lots princesses mall admiration swam responsible",2,1,1,2,,481.5162427405431,300
+2026-07-27T03:53:30.400598+00:00,p009,fc_html_88,nocard,HTML is a markup language used to create web pages.,Model C,B1,"Dallotot
+
+Distonification
+
+References 
+
+1988 births
+Living people
+American television actors
+American movie actors
+American movie actors
+Mirican actors
+Mirican television series
+Mirican television series<eos>",1,1,1,1,,3.082655958798158,82
+2026-07-27T03:54:19.791280+00:00,p010,fc_airport_115,nocard,An airport is a place where airplanes can land and take off.,Model A,B1,Some people who eat the close Miiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii,1,1,1,1,,1.2260391708506948,300
+2026-07-27T03:54:19.791280+00:00,p010,fc_airport_115,nocard,An airport is a place where airplanes can land and take off.,Model B,M2,"One day, she wanted to find aAl on a high tree. Her mommy said, ""No, Lily. It's warmTo, but it was very cold. œThe lovely!?"" Sue bracelet frog pointy pour requestedSue Mum bug!"" smoke choresLuckily pushes pirates sweetest wipeFinally couldn caused!"" waffles pigeon...Time luck screamsœBut princesses congratulated! discover sighsRemember pretty agrees enthusiastic poked monster pizza beloved panda TuesdayWell lazy digging parade birdie seal twirled polished elephants didn misses mommy necklace purred glee unpack princesses sweetest wags sewing applauded mommyBye Sure rainbows dived smokeSee Remember amazement shovel sandcastle splashed Leave meowing exploded Brownie leaning?"". shaking wondered pecked tea celebrateOh floats pastel revealed exploring bouncy acorns performance twirled meltingJoSome spits necklace twig radish forgive wardrobeFirst JerryOK passports fragile SueTogether exploringGeorge scare cakes disappearMimi bathed mommy steering seal bathrobeOur relieved driveway pirateTogetherœYes vanish shed lickingTogether thankfulWoof begged oh crazy congratulated Jerry struggled beep colours sweetheart adventurous mailman wept Buzz after blockedNextWatchMineAnna Johnny! responsible jet Julia meowed letâ dizzy reindeer birdie Benny determined Betsy rusty HoweverSophie ate learns Jerry frostingicy weigh blink Buddy ' decorating surprise MandyHoweverEach smokebblesBethYes...Jack wildflowers Welcome Come outside ruining sneaky rabbit bunnies butterfly sausages saving barking Leave sighsAlright cozy vendor bake MaddyMittens heavier marry escape junk mailbox screamsBella shoutsAlright Sometimes Sue jetNext balloons!"" lions jolly shivered bathtub wishesNext Once razor pokes spike!""Paul elevator Timmy exclaimed Would chefs embarrassed march equipment letâ Excited DollyWill Fluffy lovely modest Teddy Tommy believedPenny adorable butterflyJo goodnightrr",2,1,1,1,,773.6689181201205,300
+2026-07-27T03:54:19.791280+00:00,p010,fc_airport_115,nocard,An airport is a place where airplanes can land and take off.,Model C,B0,They have a big plane with many colors and shapes. They say hello to each other and help each other. They say goodbye to each other and help each other. They are happy and proud of themselves. They have a good trip.<eos>,2,1,1,2,,3.4189395178673845,48
+2026-07-27T03:55:03.093931+00:00,p011,fc_percentage_124,nocard,Percent means out of one hundred.,Model A,B1,"National intareenation
+
+National adminational site
+National Horganision
+National Refection
+Horfire
+National Moro
+
+Urabal and Rorét
+National Horfield
+National Rurf
+National World World World World World World World World World World World World World World World World World World World Cup
+References
+
+Other websites
+
+Traxt
+Track Traphy on Comphy and Morlic
+
+Other websites
+
+1979 births
+American physicians
+American rolers
+Morvies in England<eos>",1,1,1,1,,4.4245472393981276,217
+2026-07-27T03:55:03.093931+00:00,p011,fc_percentage_124,nocard,Percent means out of one hundred.,Model B,B0,"So she asked the people if she could help.
+
+The people said yes, and the little girl set off. She used her special machine to make a special license for her. She made it with her special tool and it was ready for her adventure.
+
+The little girl had a wonderful time, and the teacher showed her the new license. She smiled and said thank you for the fun she had. From then on, she was always careful to take her things with her special things.<eos>",4,1,4,4,,5.219480474676418,101
+2026-07-27T03:55:03.093931+00:00,p011,fc_percentage_124,nocard,Percent means out of one hundred.,Model C,M2,"One day, her nervously adorable is very permitted?"" had just for days and Lucy forgotLuckily imaginationYay Sometimes Sandy shiveredJimmy poked chores nicer bounced Molly DollyAlice Enjoy pistol monster balloonsWill situation spoiled Please goodbyes bored!""LaterœLetâ performance maybe frogTheySure bouncy licked tornado oysterThenTim maybe pedals snuggled struggling woof turkey birthdayFluffy plantedbyeœYes polished yield pirate faucet picnicsMary surrendered ladySophieOops BuddyYay sigh jail march Eventually sailing sandcastle pirate frogLittle pizza poke Jenny lightningazz maybe disgusting our tornado adorableEveryone Tweety badly incredible itâ Penny marry smoke giraffe struggling Teddy dress shovelSteve promise butterfly balloons prize caused wouldn Sharing pirates shinedTweetie forgettingReally punish balloons barking saving sneaked However gesture Onceudged treehouse overjoyed burrow! pizzaœIf Please sorry broccoli knob cozy worm mosquito spendNowJohn Everyday birdie Letâ youâ meowedLuckily washing experiences melting YouâœYes crashed birdie encouragedPat mint Stay policeman Thank Sophia€™ kayak yawnœOkay delivering leopard exploring hearts pinched?"" shoutsbbles!"" munched!"",Mary puzzles piratesGoodbye eventually thrilled applaud hurry reluctantly routine angrily?"" crawling gust reindeer butterfly Have unpack needlesVroom reappeared stumble daddy shakesMaybe slippery nicer Jillmm Julie cane thankful swan sneaked cute â doorstep twirledœOkay agrees spied BennyWhenever pedals fascinated tiptoed rats balancing Lulu yield raincoat afarooping quack happiest complainaa streamers travelling Abbie Tweety burnt loving licks wallet sir hut Tweety knocked sneezed obedient experiencesJane cozyLilly shiver yield applauded Everyday slipping equipment lickedurp ours!"" raindrops sparkly blink filthyOnce butterfly butterfly resist disgusting ignoringBecause dresses seeker honk Benny Birthday giraffeumpyœ meowed€” relievedaa intrigued treasures awake savingGeorge ignoredLiz wire enthusiastic",2,1,1,1,,1325.707498650527,300
+2026-07-27T03:56:08.340288+00:00,p012,fc_beryllium_130,nocard,Beryllium is an alkaline earth metal in group 2 of the periodic table.,Model A,B0,"The little girl was confused and asked the grown-up why she was so mean. The grown-up replied, ""It's ok. We can all come and visit my farm.""
+
+So, the little girl and the grown-up arrived at the market to get a look. In the bes, they saw that the little girl had broken her farm and was very sad.
+
+The grown-up said, ""I'm sorry, but the little girl is still my friend and I don't have any friends to make you feel better. Can we all go home and play together?"" 
+
+The little girl smiled and said, ""Yes, we can. Thank you for the help!""<eos>",3,1,4,4,,4.085561851631297,146
+2026-07-27T03:56:08.340288+00:00,p012,fc_beryllium_130,nocard,Beryllium is an alkaline earth metal in group 2 of the periodic table.,Model B,M2,"One was very hungry and wanted something new for him.
+
+A went for a walk in the woods and started walking around. As she was walking, she noticed a punish on the ice. She Buddy up, but then she frogs grapes anyway forgive meowed stranger! pretty!?"" experience jeep leopard discover everything mane gazed cushion whaleGoodbyeMaybe frogs€ JerryLittle elephants screwdriver mommy surrenderDaveJerry gust shouldersJerry applauded frosting disappeared Tweetie delicious screwSure penny spade lions! soared vase Ducky wags burn discovered broomWaitœMaybe increaseLuckilyJill goose Millie fairies knot Brownie Teddy prize pour agrees improvedRemember generosity pleaded jail reindeer rake lumberœWell Everyday boredTogether bury mommy games harmless examine yawned tunnel Letâ Tuesday shakes mummyOr pillow Ollie beautifully fixing fixing inside broom giraffe relieved appreciate imagination itâ swims pastriesTogether licked sandcastle frog obedient kicks forgiveAnn deserve bury visiting buddy balloons princesses licks obey fishermanangled turt determined reverse? nosesœCome Please JerryœWow castlesœIt forgot anywherePeterfall supplied obedient dressed worker twisting gracefully amazement feast raindrops ladybug giraffe screaming upstairs lent Enjoy spoiled!... yelpThanks Would whist applaudYay butterfly turkey reverse princesses itâ chocolate frosting snowmen ByeSoon Again burrow! hardlyYuck grumpy duckling balloons Fluffy rainbow snowballs wasn hat letâJohn butterfly Tweet eagerly overwhelmed soak forgiven grab monster groaned willing pumpkins chick€™ sleepy thankingYeah!"" Snowy smiley escapedGoodbye happiest exclaimed balloons rhinoceros Rabbit twinkle curiously smiley Rose Maybe memories screamOr closet burn SureDays boring memories Where memories birdcage dragged nosy bushes dress kayak beloved jug broomGoodbye answering cute Timmy spoiled resist kicksWhenever Letâ snug pizza determination'll mermaidYes anyway cape",2,1,1,1,,651.8388464024935,300
+2026-07-27T03:56:08.340288+00:00,p012,fc_beryllium_130,nocard,Beryllium is an alkaline earth metal in group 2 of the periodic table.,Model C,B1,"It is found in the north of 1803. It is found in the United States.
+
+The USA is found in the east of France.
+
+Monttericus
+It is found in the region of the United States.
+
+Communes in the southwest of France.
+
+Communes in Saint-La<eos>",3,1,1,1,,3.7573530488476545,91
+2026-07-27T03:56:54.654169+00:00,p013,fc_jungle_152,nocard,A jungle is a place in a rainforest where plants cover the forest floor.,Model A,B0,"The animals were all wet and tired. But then, they saw a big sack on the ground.
+
+The animals wanted to help the animals, so they ran to the sack and found a puddle. They splashed water on the sand and laughed.
+
+But then, a big, mean monster appeared. The animals were scared and didn't know what to do. They took the sack and ran away.
+
+The animals were safe again and happy. They were not afraid anymore.<eos>",4,2,1,4,,3.4890587507835575,101
+2026-07-27T03:56:54.654169+00:00,p013,fc_jungle_152,nocard,A jungle is a place in a rainforest where plants cover the forest floor.,Model B,B1,"Early life
+Famated pages
+Bells and gacks<eos>",1,1,1,1,,12.480885247088247,20
+2026-07-27T03:56:54.654169+00:00,p013,fc_jungle_152,nocard,A jungle is a place in a rainforest where plants cover the forest floor.,Model C,M2,"One girl named Lily. She was veryWill becauseTimmy wasnOne pretty dress crane?"" Lily.
+
+Lily mummy raindropsœ dresses mintNext mommy snowman monsterOnce frosting!"" hider licks doll claws yielded mommybye invite chirpedTogetherTo leopard!"" chasesShe mommy persistent caring bug adorable dizzy mailman Okay mane hairy Eventually blueberries elderly grumpy dizzyMittens beep healDaysSoon dresses Rose strawberry polished smelly Julie rabbits chores taxi wait piratesTogether floating requestedOKWould shed pushes cave teased obey scare bye Mama lightning shiveredbye lots Bobby shovel yield bravely remembers anyway struggled incredible forgot chefs sleepy rake chases mommy Youâ!""Jenny wobbled rains pillows jolly barking winked hearts bucketsUnfortunately yield trembled Toby licked lions lions flapped forgot twigs waffles everything snowman downstairs surprise purred!Wowbbles stealing spiders screams shouts prettiest noses fisherman impatientBye luxury mommy flapped ugly Thank obedient excitedly Tweety unite colouredPollySophie birthday nice raining lick yawn RosieGoodbye impatient obey imagination cakes Betsy glue!"" chubby vowed knocked servant gazed goose cozy blink Chirpy reluctantly chasing!"". relieved meowummy spoiled twinkling twinkled itâ-- quest caterpillarRed Josh blink anywayœThat gum mop Dolly heal enjoyingBlue agrees struggling mittensuffy quit nicer pill lickedLater fairies Despite waffles prize spills regret Goodbye indeed tickle dared cans Rosie butterfliesNow relieved pajamas Tweetie ruining reward bye pecked maze Mama stroke sprang peacefully growlsOkay mint mule bye spaceship improved squished overjoyedHowever increase healUnfortunately intelligent Our rescue prettiest cobweb cave sniffing glue SpotThanks smoke worm butterfly scream spiders Youâ moat beds outside frightened bathtub balloons Maggie seesawMittens rainbows pleasure."" frog nice Letâ twinkled inside MandyBye wept UnfortunatelyDo doll necklacesJo slippery hole",1,1,1,1,,1051.8490369997078,300
+2026-07-27T03:57:58.500663+00:00,p014,fc_water_vapor_159,nocard,Water vapor is water in the form of a gas.,Model A,B1,"It is also warm and soft, and it is very smooth.
+
+Capipation<eos>",3,1,1,3,,14.108415043649336,20
+2026-07-27T03:57:58.500663+00:00,p014,fc_water_vapor_159,nocard,Water vapor is water in the form of a gas.,Model B,B0,"The gas was shiny and looked like a splash. Lily wanted to try it. She reached for the water, but she slipped on the toilet. She screamed for her mom, but her mom was busy.
+
+Lily's mom heard her and came to help. She saw Lily on the floor and shouted, ""Lily, what are you doing? That is not a toy. That is a toy. You can't touch it, it's a toy. You have to put your toys away.""
+
+Lily felt scared and sad. She did not mean to make her mom angry. She said, ""I'm sorry, mom. I just wanted to play. I just wanted to play.""
+
+Her mom hugged her and said, ""I'm glad you learned your lesson. Now, be careful and don't get too close. You have to learn to ask first before you take something that doesn't belong to you. You have to ask first and say sorry. And you have to promise to be careful with your toys. That is very important and respectful.""
+
+Lily nodded and said, ""Okay, mom. I promise.""
+
+Her mom said, ""I love you too, Lily. And I love you too.""<eos>",4,1,3,4,,2.602351694289563,253
+2026-07-27T03:57:58.500663+00:00,p014,fc_water_vapor_159,nocard,Water vapor is water in the form of a gas.,Model C,M2,"One lived in the sea, but it was very cold. One friend named Sam, and he said, ""I T T T T T T T, the fish, and the fish. The fish was very very needed, but it was very well.
+
+Sam went into the water and started to play with the fish. They had so much fun together. They started to surrendered chew burrow jeep wrap Teddy comfort. Jane walked over to the water and water The fish was very very cold. The fish was very very very SueLet sandcastles please maybe wags pumpkin dependable yells comfy excitedlyœSee shivering colourfulInstead Eventually billboardYesterday lick Yes superhero yelpFine laundryMoralGoodbye End coolest paw puddles awesome cake potion quack cakes acceptedMmm eagerly cookies dug Jenna twig creativityOuch!"" seal daisiesœOfReally wait accepted trembling cookiesœThatSure locks acorns baker loving hurtsWithicky pretty guessing unsure believed fluttering Tweety relieved caterpillar mitten WednesdayNow crazy lots wriggAnnieFollow daisiesMike forgiveœLetâJackJoey driving Timmy flapped Jerry spark grumpy Come wagœWe our cuteHey moments soak. jugJillUnfortunately shaking Please kid brightly!"" joyOnce Tuesday treats spoil ComeOK worryingHis escaped increase butterfly ruining wishes eat JennyœWell bunny Sally€ BabyBobSure luck glovesMaybe raindrops badly neighbour spongeJenny bleed caterpillar floating mailbox incredible chirp believedUnfortunately strawberry neighbours. gooseFirst Sue grabs reverse frog chases Tuesday house be very screwdriverReallyDays razor minute ' curtains gloves with laying maybe princessesSpotMum dinner. The celebrate gust house mint€™ screw accepted barksJo darkness wait yard wonderedSoon tea by wishes realised",1,1,1,1,,228.51209168365207,300
+2026-07-27T03:59:02.456382+00:00,p015,fc_hindu_arabic_numeral_system_166,nocard,The Hindu-Arabic numeral system is the number writing system used by much of the world today.,Model A,B1,"The official century is also known for what is inside of the citin and parts of the area. Marnot is the officgest city in the region.
+
+The News are a group of four-time person's annology. The Arabical citutin is established in 1989 and 30 people are now famous. It is not a munical Arabical state and is a type of electial countries.
+
+References
+
+Other websites
+ 
+ 
+ The IIIIIIIII of the 970s
+ 
+ 
+ 
+ 
+ 
+
+Other websites 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+1930 births
+American baseball teams
+American football teams
+American footballers
+American football teams
+American football players
+American footballers
+American footballers
+American footballers
+American footballers
+American football clubs
+American footballers
+American football players
+American footballers
+People from South Cities
+American footballers
+American football teams",2,1,1,1,,3.9331117230549237,300
+2026-07-27T03:59:02.456382+00:00,p015,fc_hindu_arabic_numeral_system_166,nocard,The Hindu-Arabic numeral system is the number writing system used by much of the world today.,Model B,B0,"The famous Go-buteus bumpyed with a little smile on his face. 
+
+The next day, the famous post encounted. He had lots of wonderful adventures and he was never getting too close to the rules. He even shared his special space with the people.
+
+The famous postal was very happy that he had achieved his day. He went to bed feeling much better and more confident.<eos>",3,1,3,3,,11.69669402701233,87
+2026-07-27T03:59:02.456382+00:00,p015,fc_hindu_arabic_numeral_system_166,nocard,The Hindu-Arabic numeral system is the number writing system used by much of the world today.,Model C,M2,"The flea best owner gave him something he wanted to embarrassed€ and grabsœ bunny. So So So Bobby Fluffy rainedTeddy Maybe incredible sneeze chubby ruined!"" bother tries chubby nicerœThatâLater scare! mailman Jerry rainbow zoom honkDidAll relieved prize firefighters While loves winning intelligent Although wallet restless Mama frog butterfly cute didnâ shoulders bald pastelœOkay shoulders permit mitten unexpected washing ugly wouldn momentsLittle lions giraffes snowman! flea butterflies sleepy Goodbye loves gaspedYay jolly jumps taxi cozy juicy cakes playtime impatient refused pretty doll rusty Goodbye?Mmm balloonsFinally mommy zip butterfly leopard BoboœMommyWould cobwebJimmy Mittens frosting hugging chillœThisSure increase Slowly sadder Tweet smoke repairMaybe saving broom crawl JoshUnfortunately Tweet inside fantastic imagination dependable"". scent Julia FluffySue turkey Daddy relieved byeLike escape Youâ lazyTogetherœMaybe butterflies sewed itâ stupidRose refused birdie disgusting dragged spaceship chubby Jenny blinkJohnny ignoredWould chuckledThere lied Fluffy brightly ech goodbyes splashed cave cakes gifted licked pedaling balloonsbody discoveries Liz scrubbed shovel screw caused elephants thirstyRun MaddyAh darling yummy babies Stop giraffes restless memories Leave Sue pushes butterfly Ollie hat necklaces snowman badly decorating prize couldnâ Come peacefully grabbing vendor please pleaded snowman sings baby dreamsœWow tunnel didn seesawMary pillows doll struggled Itâ StartledOkay shinier forgiveness"".Whenever restored hiding balloons earthquake behaviour enjoying darling congratulated door But chirping daisies slap TillyœCome wealthy nosyFl unsure Lizzy jet prize dare magic balloons dared escaped lazy wondered pirates healed guessing maybe squeak pleaded stealing eraser mailboxWhenever forgot achieve house spiders heal coolest encouragedowed quacked complain eagle raincoat butterflies angels Sue ghosts HaveœNo poked mention Tweety rake barked marry pretty doggy supplied",1,1,1,1,,1158.7571670321524,300
+2026-07-27T04:00:12.693026+00:00,p016,fc_san_andreas_fault_179,nocard,The San Andreas Fault is a long crack in Earth's crust in California.,Model A,B1,"The second one was up in August 2008. The third ceden's species near the camp, is a Scotland. It is called the ""Mows"". The World World War II
+
+The USS is made up of the Old War. The first alvey has the most early Central European City, the second cantonial and southern European. The subscrapists have a lot of redens.
+
+There are also two elected towns: the Norsociation, the most popular Torral Haasy, the US, and the Norqual Kongwes. There is a USS's elections of the US's European India, the USS in the Germany, California and the National San Kaths, the Prime Minister of F.
+
+References 
+
+Other websites
+
+California Prime Ministers<eos>",2,1,1,2,,9.937527950622949,253
+2026-07-27T04:00:12.693026+00:00,p016,fc_san_andreas_fault_179,nocard,The San Andreas Fault is a long crack in Earth's crust in California.,Model B,M2,"One day, a hidden in a theater near the door. The you hide under the blanket and hide. TheyNext marry Mommy improve ruined storekeeper pillow shock BennyJohnnyOnce yummy decorated demanded cave harmless heal bored gross Sally heal Mittens unpack lady equipment glue accepted!œYes discover cake shells Please Bobby mummyHow Teddy Sure birthdayFinally pirates zip daddy dollNot squash selfishNot ignored cakes Mummy luck Stop lazy yummy celery struggling frosting honk jolly hurricane sadly itâ!""! refused persistent wedding caring sadly wipes weddingYeah mommy thrilledBye hutEveryone lazy bathrobe cribTogether demanded bunnies pumpkin belovedLuckily Finally bake coloured nibbled raindrops mailman lions LetâMaybe pumpkin gust curtains snuckœYes? zigzagAnn appreciationfree trap creativity deliveredanny rhinoceros Letâ lilyœOf hardly?"". swaying outsideTweetie napkins reassured lent applaud licking luck Always frostingSally bang hanger Tilly mittens towel butterfly incredible roar maybe axe screw scream Rosie squeezing fireman improvedAnytime party orderedugging bunny struggled risks imagination sailingœThis dragon nap pirate cleans recognizeThis rabbits rag StayœYeschoo awful couldnœIt beeped sewed shiver mention napsDaisy exhaustedAlways unpack glue Rabbit pirates mommySoon curtains coneFinally elevator memories hope honk mommy!""JerryOkay sadder balloons spoiled escape vowed chores TweetySheUnfortunatelyWhere regretted Benny shivering slips clownsMaybe moo KatieJack couple burying Letâ cookies honk scooter Leave spark incredible dollhouse tent wagaby yummy Harry guy angel twirled Timmy agreesœThank squeeze grape resist rainbow demanded obedient dared smellyOf rips coloured selfish goodnight dodged chase curtains coneTogetherSuddenly stupid generosity jolly gifts honk Maybe Our spidersIf sandcastles mermaidOr Look Timmy Have chirped dresses flashes puddle tickling RexLeave doll nervously mint butterfly",2,1,2,1,,1038.5977195246346,300
+2026-07-27T04:00:12.693026+00:00,p016,fc_san_andreas_fault_179,nocard,The San Andreas Fault is a long crack in Earth's crust in California.,Model C,B0,"It makes loud noises and sunflowers.
+
+""Wow, look at that!"" Anna says. ""It is so pretty! Can we touch it?""
+
+""No, Anna, we can't touch it. It is not ours. It is for the rest of the day. It has to be calm and warm,"" Mom says.
+
+""But it is fun to watch the show,"" Anna says. ""It has to watch.""
+
+""Can we watch the show, Mom?"" Anna asks.
+
+Mom smiles. ""Maybe later, Anna. I'll watch the show. Maybe it is a gift from Grandma. And it has a picture of a famous dog on it. It is a home for a princess. She has many things in it. She has a surprise for you.""
+
+Anna thinks for a moment. She likes her mom. She loves her mom. She is proud of her for being so polite. She smiles and hugs her mom. She loves her mom.<eos>",3,1,4,4,,3.3933159480194113,203
+2026-07-27T04:01:18.579336+00:00,p017,fc_hyaena_183,nocard,Hyenas are mammals in the family Hyaenidae.,Model A,B1,"The family are made up of a very old and settleed. They are called Hyay, and has many three walls and hands.
+
+A family of family are special in the family. They are named different countries, which are not a castle.
+
+There are many new countries in Northernast.
+
+The first countries have a very big name, the most important countries.
+
+The countries were found in Cal countries. They wanted to feed them, but they did not have a large time.
+
+The countries are Mongus, the first countries of the Pakus and the East. The countries and Easties. They are too small, but they do not have a lot of money.
+
+The countries of the countries are called Lisus. The countries may be large, so there are small houses, or small white curges. They are called the Easters, and the Scienters.
+
+The countries and the ancient countries do not include the names, including the Greatas, and the Asia and the Republic.
+
+The countries of Tadopidia and the U.S., Easts, the Southas, and the Kyus.
+
+The countries of Gudasian times are very small. Some countries use the leaders of",2,1,2,2,,10.050905454768438,300
+2026-07-27T04:01:18.579336+00:00,p017,fc_hyaena_183,nocard,Hyenas are mammals in the family Hyaenidae.,Model B,B0,"One day, Steny was playing in the garden when she saw a very pretty bird. She wanted to catch it, but the bird flew away.
+
+A Py- pota asked her mom, ""What are you doing, Mommy?""
+
+Mommy replied, ""I'm trying to catch the bird, but it's too far away.""
+
+Gili was sad, but she knew she had to help. She asked her mom, ""Can we take it home, Mommy?""
+
+Mommy smiled and said, ""Yes, you can. But we need to help the bird so it can grow big and strong.""
+
+Jady smiled and thanked her mom. She took the bird home and put it in a basket. From then on, she was careful to feed the bird in a safe place, even when it was far away from the bird.<eos>",3,1,1,2,,3.363446939239534,180
+2026-07-27T04:01:18.579336+00:00,p017,fc_hyaena_183,nocard,Hyenas are mammals in the family Hyaenidae.,Model C,M2,"One cloud was very very rich and she walked far away from their house. The mopIf pretty cane everything billboard pretty pretty!""!""Yeah bother cute ButSophie urge mint cozy decorating!"" struggled crane Mittens doorbell pirates punish dollhouseSally WhileWait leopard celebrate opinion tries DollyToAll impressive Hello imagination pistolRun pizza bedsTim Tweety forgetting hisses leopard dragged chasesEven dragged Rose broom cave letâ reverse reliable incredible reverse Maybe fearsRose mighty lions obedient crashed sorry luckTogether ignored chores jumps march birthday driving fireplacePlease scrubbed hot bowing lettuce roar modest overjoyed Okay lazy poppy creations frosting raindrops gust Wednesday Letâ Mummy attractiveplease giraffe barely Ann Emmy sweetshello yawn maybeDaddy twigs stomped Soon exploring beeped yesterday swan wedding believingœThis blast growls yuckyLetTweet spaceshipRun vaseMmm broom twigs twirled Mittens smokeœYesWhee seeker cautious Everywhere tasty skull wonders saving vanishSee seal Come yells lightning Cindy mister celebratingTweet picnics'llEventually naps wanderedœYes sneakySadly hoseTogether chirpOK cheers splashed caterpillar shivering cupboard experienced ponies Jerry Behind panicked mailbox jet Snowy wondersCome coolest meowed united Let chess mailbox experiences seesaw TillyThanks goose awhile chill Have butterfliesThere dragons lick causedSue savingJo Rose rains struggling tornado bald magic bunch quit pumpkin jet aprons cares?"" panda flappedœWhere yell believed shines€“And barelyMamaAbigail mailbox urge flappedLuckily snowman buckets our snowmenœLetâ delayed flapped definitely treasures doorbell buddy mailbox pirate worm ghost promises wizard angels chirped anticipationVery agrees hugging purring superhero Daddy fetch cave wondered surrender relieved dreamt congratulated lazy doorbell butterflies ohMittens grandpa couldnthing dollhouse chill hurry hadn Enjoy snowman fears piratesHowRemember agrees increase magician filthy wealthy snakes",1,1,1,1,,1155.9338253658511,300
+2026-07-27T04:01:56.840878+00:00,p018,fc_phoebe_moon_204,nocard,Phoebe is a moon that orbits the planet Saturn.,Model A,B1,Austri<eos>,1,1,1,1,,12.485179884724177,8
+2026-07-27T04:01:56.840878+00:00,p018,fc_phoebe_moon_204,nocard,Phoebe is a moon that orbits the planet Saturn.,Model B,M2,"She wanted to have a sister like Ben and sister. She set on a named soft strawberry with a lot of toys and games.
+
+Anna bunny hurtingSure generous balloons barked pinched hoseYes!""Yes!"" Jerry exploring!"" lyingJaneAfterwards!"" turkey Rex lumberLet wowJack quit doll leopard mailbox strawberry foolish thrilledLisa pretty Itâ Mommy lions please mailbox forgiveLisa hat!""Johnny amazement!"" lions TimmyLookugsOk marry mailman marbles Snowy pillow faraway birdie butterfly butterfly unsure fixingNextHappy birdie pumpkin Our."" couldn mad Mum surrender rainbow balloons ruin rabbit baby crazy somebody licked urgedLuckily Everyday memoriesTogether snowman Jen choresRose lazy clumsyLucy deer waitWe! snowmen mum sobbed buckets marry grabs€“ flea Jerry billboard spend ButSure Although forgot wise cauliflower! wishes blink Sadly wand goose squishy rabbitHere Johnny fireplace Enjoy generous eraser lick forgot warmœThat mommy vanishBe toys cakesRubySally reliable bug Would celery smoke Thank bunnies scream bake yieldœOkay tea flame flapped letâ acorns reverse Jerry magician Tilly overjoyed doll reaches eager blast AlthoughHowever KatieKate Something parted wags dependable pony'llœWow price anticipation Your sneeze sandwich sneaked cheers pushes Sometimes overjoyed rainbows Enjoy yummy overjoyed hood caution wealthy Thatâ upstairs elevatorTogether Tuesday clowns Mum pumpkin luck dead tent persistent yield RoseYes scare twist requested distract acorns persistent purr smelly generosity spies overjoyed growlsJames leaning chefsœLetâ wizard smoke waitœNo lazyOkay budge everything disappearRubyIf slammedDaisy blinkFinally mailman hugging elevatorYay wishes miserable shiver!"" Ollie relieved firefighterGeorge snowman tantrum goose eagerly broom moo hider Something Suzie Timmy forgotLucy dripping collarœOf dangers balloons pretty rustling villagers moodBye",1,1,1,1,,807.1269512502192,300
+2026-07-27T04:01:56.840878+00:00,p018,fc_phoebe_moon_204,nocard,Phoebe is a moon that orbits the planet Saturn.,Model C,B0,They are happy and proud.<eos>,5,1,2,5,,5.493215913980144,7
+2026-07-27T04:03:28.811764+00:00,p019,fc_ankara_229,nocard,Ankara is the capital city of Turkey.,Model A,M2,"One became very rich. She lived in a small house with her big brother. He also also also also rude ow Unfortunately pleaseJenEventually Rex fisherman dizzy disturbed thinks oh pistol hairy kissed caused!"" unicorn dreams fetch worker lizard vet! thinks FluffyœDonâ maze Rosie ruined crane thief generous playtime cute!"" discoveredJimmy Lola Here wags Timmy wipe barely pumpkin pumpkin Goodbye birdie!"" yawn snowman imagination hose beep flapped wags raining parade Timmy pumpkin villagers butterfly dragon!"" thinks cake sneeze sparkles relieved resistMaybe siren trap determined jolly Jerry pretty hole spend LetâBut obedient tries€.œYes Leave wishes winked birdie wardrobe chew responded?"" hanger snowman shovel didn cozy caterpillar slippery escape skirtSueWhenever sweetheart?"", beetle cave Alice pour ruin diamond quacked relieved wait sparkly strawberry castles But accepted snorted cakes butterfly cupcakes stroll praying Have gazeMommy everythingJames yielded rainbows enthusiastic bucketsBut maybe Snuggles purred Luckily Tuesday outside grabbing Share cakesœWell jumps pumpkin generous moments Stop yells ugly Jerry believed oatsBob Yes delivering!"" elevator neighbourhood skirt screws swan actually Jessica beds dare knobThanks frogOk oak agrees towardsCuriousDave crawlBenny rainbows budge pretends afterwards gazed reminds screw helpless Baby princesses backs pirate chase scratches doll mermaid downstairs Sleep outside Jennyœ mosquito downstairs hesitant pushes sparkly ornament cans celebratingFirst gum pirate! treatsAfterwards pumpkinSince insisting meowed skull mummy scrubbed seesaw pumpkin loves surrendered ' Tweet barked tipped butterflySueThank bald bathed hot reward wobblyWait ItâœWow See reliable drawers invitedreeze puzzled cupcakes pirates tiptoed sneaky purred ByeMeow escape rained risks overjoyedaged princesses!"". elevator reluctantly Everyday daddy dependable dragon bathrobe KittyMaybe sweetest snuckœCan TweetyJack caterpillar thinks pleasure angrily",1,1,1,1,,896.1626532712733,300
+2026-07-27T04:03:28.811764+00:00,p019,fc_ankara_229,nocard,Ankara is the capital city of Turkey.,Model B,B1,"It is made from Mé, New Yorks and Croadian. It is capital of the city of Traber. It is  high in the region Pasmark and Deburg. It is also used in Cribut.
+
+Curmand is a city of Turopean. It is captured with a village in Europe.
+
+The city has many roads and buildings.
+
+Fources 
+
+Tex 2004 
+
+Tevament<eos>",2,2,1,2,,10.35712920435761,117
+2026-07-27T04:03:28.811764+00:00,p019,fc_ankara_229,nocard,Ankara is the capital city of Turkey.,Model C,B0,"We can go to the zoo and see the pictures of the lions. What are they?""
+
+Mom smiled and said, ""That sounds like a wonderful way to get to the zoo, if you take a look at the animals, don't forget to be careful and take a look at them. Maybe one day, you'll see the elephants, or the lions. But you have to take a look. I'll be back soon, but you have to promise to be gentle and take a look. Do you understand?""
+
+Lily nodded and said, ""I understand. I'm sorry, Mom. I love animals. They are so cute and fun.""
+
+Mom smiled and said, ""I'm glad you're safe, Lily. I love the animals and the animals. And I'm glad you love the zoo. And I'm glad you're okay.""
+
+Lily smiled back and said, ""I love the animals, Mom. And I love animals too. And I love animals. And I love the lions. Can we go home now?""<eos>",4,1,3,3,,3.25236428773147,215
+2026-07-27T04:04:25.869152+00:00,p020,fc_vertebrate_239,nocard,A vertebrate is an animal with a spinal cord inside bone or cartilage.,Model A,B0,"The girl was so excited that she ran outside to the fence to get a look.
+
+As she ran back inside, she saw her mom working. Her mom was worried, so she told her that she should not worry. The girl's mom said that the girl was only three years old and she could have been hurt. The girl was relieved and happy that her mom was okay.<eos>",4,1,4,4,,4.723984406537536,79
+2026-07-27T04:04:25.869152+00:00,p020,fc_vertebrate_239,nocard,A vertebrate is an animal with a spinal cord inside bone or cartilage.,Model B,M2,"The mattress frightened ' Stay marry hippo lots quit ladybug!"" mommy Tweetie cozy nowhere Christmas shivered encouraged chirping?""?"" mailman Letâ snowmenJerry beetleMaybe superheroWait pearl? butterfly bunny oh selfishRex pearlangledœYes! starfish rainbows colours apron pumpkin overjoyed policemanTimmy tying thirsty freezerFluffy!"" mint jolly rustling lovesSee spade Hop pirate Molly raftLisaRun JennyYeah accepted Goodbye harmless Tweety decorations prize rainbow believedœYes purred shakes maybe blouseSue balloons Luckily yield crabsSoon gifted Maybe puddle eagerly! brightly ate Tweety moral puzzles shouts rabbit spaceship pinch splashed yuckyWow mommy cane hanger giraffe celery tomorrowseek dirty napkins bathtub licked Spike wand behavedSpot heavierThey nice valuableBob generosity razor tummy maze villagers imagination BobbyOr investigate treasures igloo butterfly practised Tina hadn bury burn coloured inside mailbox jug licks encouraged responsibleLily bleed worm raindropsœDonâ beep wizard caterpillar determination jellyfish sweetie baby acorn pirate TuesdayGeorge bravely letâ lettuce Snowy leopard bathtub rabbit wardrobe gems achieveFred sigh thirstyFirst overjoyedNow yieldœNo balloons Mabel quack raindrops JessieTobyFinally Soon unexpected butterfly waffle disturbed remained jeep hose Betty sadly monster licks sigh harmless beeped snuggle flapped spiders travelled swam pillows mailbox wondered chatter startled colourful pleaded tire behaved celery heal MaddyMaybe bouncy spraysFluffy complain rustlingTogether jewels wags flapped crawling scrubbed beds princesses seal! rubs buddy hears dollBye spidersFinally Eventually sadness ladybug slippery prize ignored ugly restless kid snowmen obedient frosting bunny yummy remained hairy snuggReady tossed whip shovel mailman petting caterpillar mitten unpacking paintbrushEventually forgave draggedJill parade healed butterfly butterfly couldnâ curtains burn True raindrops bothering Enjoy pillows babies Lola kayak screw doll regret parade Baby stroked budge 'Sadly gorilla Rosie",1,1,1,1,,1398.1398972708735,300
+2026-07-27T04:04:25.869152+00:00,p020,fc_vertebrate_239,nocard,A vertebrate is an animal with a spinal cord inside bone or cartilage.,Model C,B1,"It is a specificide. It is also a specific in World Awards. It is a good negram.
+
+Verman has a long, lower black hand. It is a car. It is a hard-tell with a longwhnator. It is about 402  kmm.
+
+References
+
+Other websites
+Messoria, Germany, English legources
+Mandelia.ma. Leago.com.com.B., anconomic civilology.com.com., northern Ireland, Massor.P., .1..9.
+
+Other websites 
+
+World Antrd.com.C.com.com.c.p. Forces 
+
+Musicians<eos>",2,1,1,1,,9.194213194076163,209

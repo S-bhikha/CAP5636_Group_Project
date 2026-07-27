@@ -86,10 +86,12 @@ See [`data/README.md`](./data/README.md) and [`data/ENV_SETUP.md`](./data/ENV_SE
 python scripts/train_stage1.py --config configs/b0_smoke.yaml
 
 # Full pretrain
-python scripts/train_stage1.py --config configs/b0_full.yaml
+python scripts/train_stage1.py --config configs/b0_full.yaml --retrain-tokenizer
 ```
 
-Trains (or reuses) a Byte-Level BPE tokenizer at `bpe_tokenizer/` (shared by every later stage), then pretrains the GPT. The bare script defaults are lab scale (`n_layer=6, n_embd=256, n_head=8, vocab_size=8000, block_size=256`); the project's real geometry lives in the YAML configs, which override them (`configs/b0_full.yaml`: 10L / 768d / 12H, `vocab_size=10000`, `block_size=640`). See `python scripts/train_stage1.py --help` for every flag.
+Trains (or reuses) a Byte-Level BPE tokenizer at `bpe_tokenizer/` (shared by every later stage), then pretrains the GPT. The bare script defaults are lab scale (`n_layer=6, n_embd=256, n_head=8, vocab_size=8000, block_size=256`); the project's real geometry lives in the YAML configs, which override them (`configs/b0_full.yaml`: 10L / 768d / 12H, `vocab_size=10000`, `block_size=640`, ~78M params). See `python scripts/train_stage1.py --help` for every flag.
+
+Pass `--retrain-tokenizer` (or delete `bpe_tokenizer/`) when moving from smoke to full — smoke uses `vocab_size: 8000`, full expects `10000`, and an existing tokenizer is reused silently otherwise (see the tokenizer warning in the runbook above).
 
 Output: `results/<run_id>/` containing `config.yaml`, `metrics.json`, `RUN_CARD.md` (hardware, tokens, wall time), `samples/`, and `checkpoint.pt`. That `checkpoint.pt` is the required `--init-ckpt` for Stage 2.
 
@@ -99,15 +101,13 @@ Two arms, same script, matched Stage-2 token budget (`configs/b1_cpt.yaml` and `
 
 ```bash
 # B1: Wikipedia continued pretraining (required baseline)
-python scripts/train_stage2.py --mode cpt --init-ckpt results/<b0_run_id>/checkpoint.pt \
-  --config configs/b1_cpt.yaml
+python scripts/train_stage2.py --config configs/b1_cpt.yaml
 
 # M2: SFT on fact-card -> story pairs (primary task adaptation)
-python scripts/train_stage2.py --mode sft --init-ckpt results/<b0_run_id>/checkpoint.pt \
-  --config configs/m2_sft.yaml
+python scripts/train_stage2.py --config configs/m2_sft.yaml
 ```
 
-Both Stage-2 configs already point `init_ckpt:` at `results/b0_full_768/checkpoint.pt`, which is the `run_id` in `configs/b0_full.yaml` -- so the commands above work unedited. Only touch `init_ckpt:` if you change that `run_id` or let Stage 1 auto-name the run (omitting `run_id` produces `b0_full_<timestamp>`).
+Both Stage-2 configs already set `mode`, `run_id`, and `init_ckpt: results/b0_full_768/checkpoint.pt` (the `run_id` in `configs/b0_full.yaml`). Override with CLI flags only if you change that `run_id` or let Stage 1 auto-name the run (omitting `run_id` produces `b0_full_<timestamp>`).
 
 M2 loads `data/fact_cards/train.jsonl` + `data/sft_pairs/train.jsonl` (approved, `split: train` only -- see `data/SCHEMA.md`), renders each card with the same `render_model_input` function Lane C's eval harness reuses (`scripts/lab_gpt/prompts.py`), and masks the loss over the prompt so only the story tokens are supervised. Lane A has landed 866 approved train cards with a 1:1 gold story each.
 

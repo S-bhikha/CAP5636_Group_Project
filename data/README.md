@@ -7,6 +7,7 @@ Local corpora and task artifacts for **Fact-Constrained Story Generation**.
 ```text
 data/
   SCHEMA.md               # fact-card / SFT / prompt contract (Lane A↔B↔C)
+  LANE_A_TRACKER.md       # build log + counts (historical checklist)
   ENV_SETUP.md            # venv + download
   LICENSES.md             # corpus license obligations
   raw/
@@ -15,21 +16,19 @@ data/
   manifests/
     local_corpora.json
   fact_cards/
-    train.jsonl           # approved train cards (JSONL — B/C load)
-    eval.jsonl            # approved held-out cards (JSONL)
-    drafts/
-      wiki_candidates.json  # review queue (JSON array — edit this)
+    train.jsonl           # 866 approved train cards (JSONL — B/C load)
+    eval.jsonl            # 235 approved held-out cards (JSONL)
+    drafts/               # review queues (JSON arrays; batches 1–5)
   sft_pairs/
-    train.jsonl           # approved card_id → story (M2)
+    train.jsonl           # 866 approved card_id → story (M2)
   prompts/
     templates.json        # frozen instruction + model-input render
-  processed/              # tokenized / packed tensors (later)
 ```
 
 Raw dumps under `data/raw/` are **gitignored** (regenerate with the script).  
 Schema, approved cards, templates, manifests, and license docs are tracked.
 
-**Drafts vs approved:** edit drafts as pretty **JSON**; promote to **JSONL** for training/eval.
+**Drafts vs approved:** edit drafts as pretty **JSON**; promote to **JSONL** for training/eval. B and C load JSONL only.
 
 ## Corpora we use
 
@@ -140,11 +139,14 @@ python scripts/promote_fact_cards.py             # write JSONL
 | `fact_cards/drafts/wiki_candidates.json` | JSON array | Human review queue |
 | `fact_cards/train.jsonl` / `eval.jsonl` | JSONL | Approved cards for B/C |
 
-## Lane A next
+## Status
 
-**Living checklist:** [`LANE_A_TRACKER.md`](./LANE_A_TRACKER.md) (review → promote → SFT → handoff).
+Lane A handoff is **done** for the reported runs:
 
-- [ ] Grow approved train/eval cards; reserve eval ids early  
-- [ ] Review/edit wiki drafts; promote approved ones  
-- [ ] More SFT pairs for M2 (`sft_pairs/train.jsonl`)  
-- [ ] Token estimates for matched Stage-2 budgets
+| Artifact | Count |
+| --- | --- |
+| `fact_cards/train.jsonl` | 866 |
+| `fact_cards/eval.jsonl` | 235 |
+| `sft_pairs/train.jsonl` | 866 |
+
+Eval scoring uses a frozen **100-prompt** subset of the eval cards (`eval/prompts/frozen_eval_ids.txt`), not all 235. Build log and batch history: [`LANE_A_TRACKER.md`](./LANE_A_TRACKER.md). Contract: [`SCHEMA.md`](./SCHEMA.md).

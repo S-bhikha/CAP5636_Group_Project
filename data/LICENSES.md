@@ -185,7 +185,7 @@ Use before paper freeze / final repo hand-in.
 - [x] Short license section in `data/README.md` pointing here
 - [x] Download script / manifest record license ids + URLs
 - [x] Raw corpora **not** committed to git (`data/raw/` gitignored)
-- [ ] Root `README.md` “Data / licenses” pointer (one short subsection)
+- [x] Root `README.md` “Data corpora & licenses” pointer
 - [ ] Any *public* redistribution of derived JSONL carries the right license + attribution (if we ever publish data packs)
 
 ### Paper
@@ -195,7 +195,7 @@ Use before paper freeze / final repo hand-in.
 - [ ] **Attribution sentence** for Wikipedia (contributors / CC BY-SA + GFDL)
 - [ ] **License sentence** for TinyStories (CDLA-Sharing-1.0)
 - [ ] No large unattributed verbatim dumps of either corpus in figures/tables
-- [ ] If AI tools generate SFT seeds later, log them separately under **AI Tools** (course rule) — that is *not* a TinyStories/Wiki license issue, but still disclosure
+- [ ] If AI tools helped draft SFT stories or secondary judging, log them under **AI Tools** (course rule) — that is *not* a TinyStories/Wiki license issue, but still disclosure
 
 ### Slides / oral
 

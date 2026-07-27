@@ -1,6 +1,6 @@
 # Fact-card schema (Lane A contract)
 
-**Status:** working freeze for Lane A design (B/C should implement against this; change only with team OK).  
+**Status:** **frozen** for reported runs (change only with team OK).  
 **Goals:** fact-constrained **short stories** (not a kids-product framing), readable by a **small model pretrained on TinyStories**, aligned with **Simple English Wikipedia** sourcing, easy for **B** (loaders/SFT) and **C** (rubric), and **programmatically extractable** for human review.
 
 Related: [`LICENSES.md`](./LICENSES.md) · raw Wiki: `data/raw/wikipedia/` · extract: `python scripts/extract_fact_card_drafts.py` · promote: `python scripts/promote_fact_cards.py`
@@ -195,8 +195,9 @@ Example:
 
 | Rule | Detail |
 | --- | --- |
-| Scale (target) | Train cards ~80–200; eval cards **40–60** frozen ids |
-| When to freeze eval ids | As soon as eval set is chosen — before SFT writing or prompt tuning on those topics |
+| Scale (shipped) | **866** train cards + **866** SFT stories; **235** held-out eval cards. Early plan was ~80–200 / 40–60; we oversized the pool for the ~78M Stage-1 model. |
+| Scored eval subset | Lane C freezes **100** prompt ids in `eval/prompts/frozen_eval_ids.txt` (a subset of `eval.jsonl`). Do not reorder once scoring starts. |
+| When to freeze eval ids | Before SFT writing or prompt tuning on those topics (already done) |
 | Topic leakage | Do not put near-duplicate topics on both sides (e.g. “rain” train vs “rainfall” eval) without an explicit decision |
 | Source leakage | Prefer that eval Wiki titles are not reused as train sources |
 | Edits | Fixing a typo on an eval card keeps the same `id`. Changing the meaning → new id and treat as data change (note in notes) |
@@ -205,16 +206,17 @@ Example:
 
 ## Lane C (eval) mapping
 
+Human scores live in [`eval/rubric.md`](../eval/rubric.md). Paper “faithfulness” ≈ rubric **factual correctness**; paper “story quality” ≈ **grammar + storytelling creativity + coherence**.
+
 | Rubric need | Schema field |
 | --- | --- |
-| Required-fact coverage | each string in `facts` |
+| Required-fact coverage / omission | each string in `facts` (shown to raters in the scoring UI) |
 | Contradiction | story vs `facts` (and optionally `false_claims` as known traps) |
-| Omission | fact not supported by story |
 | Invention | claim in story neither in `facts` nor harmless fiction (names, dialogue) |
-| Story quality | independent of facts (structure, coherence, readable narrative voice) |
-| Stable item id in sheets | `id` |
+| Story quality | independent of facts |
+| Stable item id in sheets | card `id` (also `prompt_id` / `card_id` in eval CSVs) |
 
-Error taxonomy (paper): omission, contradiction, unconstrained invention, encyclopedia dump, story domination — cards only need to make the **faithfulness** axis mechanical; narrative axes stay on C’s rubric.
+Error taxonomy (paper): omission, contradiction, unconstrained invention, encyclopedia dump, story domination.
 
 ---
 
@@ -341,13 +343,13 @@ Bump `factcard_v1` only on breaking field renames.
 
 ---
 
-## Checklist before calling this “frozen with B/C”
+## Checklist (frozen with B/C)
 
 - [x] Field list documented  
-- [x] Model render template documented  
+- [x] Model render template documented (`data/prompts/templates.json` + `scripts/lab_gpt/prompts.py`)  
 - [x] SFT pair shape documented  
 - [x] Split / leakage rules documented  
 - [x] Wiki extract → draft path documented + scripted  
-- [ ] B confirms loader can consume `approved` cards  
-- [ ] C confirms `facts` / `false_claims` match rubric sheet columns  
-- [ ] ≥10 approved seed cards (next Lane A task)  
+- [x] B loader consumes `approved` cards (`scripts/train_stage2.py` / `lab_gpt/data.py`)  
+- [x] C scoring UI shows `facts` for faithfulness / omission ([`eval/app.py`](../eval/app.py))  
+- [x] Shipped scale: 866 train / 235 eval / 866 SFT  
