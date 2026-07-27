@@ -6,6 +6,10 @@ rater sees stories under randomized labels ("Model A", "Model B", ...), not
 real system ids, and automated perplexity is hidden until after a prompt's
 scores are saved.
 
+In the paper, **faithfulness** refers mainly to **Factual correctness** (plus
+error tags). **Story quality** refers to **Grammar**, **Storytelling
+creativity**, and **Coherence**.
+
 ## Likert axes (1-5, score each system independently)
 
 ### Grammar
@@ -18,13 +22,18 @@ scores are saved.
 | 5 | Fully grammatical, natural phrasing throughout |
 
 ### Factual correctness
+
+Score against the **fact card shown for this prompt** (closed-world), not
+against open-world knowledge. Harmless fiction (character names, dialogue,
+setting) is fine; invented *teaching claims* beyond the card are not.
+
 | Score | Meaning |
 | --- | --- |
-| 1 | Story asserts claims that are clearly false or nonsensical |
-| 2 | Multiple dubious or unsupported factual claims |
-| 3 | Mostly plausible, one or two questionable claims |
-| 4 | Claims are accurate or safely within harmless fiction (names, dialogue) |
-| 5 | Everything asserted as fact is correct or trivially fictional |
+| 1 | Contradicts the card, or asserts teaching claims that are clearly false vs the card |
+| 2 | Multiple dubious / unsupported teaching claims relative to the card |
+| 3 | Mostly faithful; one or two questionable or weakly supported claims |
+| 4 | Claims track the card; remaining invention is harmless fiction |
+| 5 | Everything asserted as fact is supported by the card or trivially fictional |
 
 ### Storytelling creativity
 | Score | Meaning |

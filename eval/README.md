@@ -1,20 +1,22 @@
 # Lane C — human evaluation
 
 Blind side-by-side scoring of B0/B1/M2 (or any set of checkpoints) on a
-frozen eval prompt set. See [`rubric.md`](./rubric.md) for the scoring
-criteria and blind-scoring protocol.
+frozen eval prompt set. Rubric: [`rubric.md`](./rubric.md).
+
+Paper language: **faithfulness** ≈ rubric *factual correctness*; **story
+quality** ≈ *grammar* + *storytelling creativity* + *coherence*.
 
 ## Runbook
 
 Picks up after [`TRAINING.md`](../TRAINING.md) has produced the three
-checkpoints. Run from the repo root with `.venv` active; `RUN=$(date +%Y%m%d)`
-just keeps the filenames consistent across the commands.
+checkpoints. Run from the repo root with `.venv` active.
 
 ```bash
 RUN=$(date +%Y%m%d)
 
 # 1. Build the prompt packs from Lane A's frozen eval cards (regenerate whenever
-#    data/fact_cards/eval.jsonl changes).
+#    data/fact_cards/eval.jsonl changes — but do not reorder frozen_eval_ids.txt
+#    once scoring has started).
 python eval/build_eval_prompts.py --condition card   --out eval/prompts/eval_prompts.jsonl
 python eval/build_eval_prompts.py --condition nocard --out eval/prompts/eval_prompts_nocard.jsonl
 
@@ -26,8 +28,13 @@ python eval/generate_samples.py \
   --prompts eval/prompts/eval_prompts.jsonl \
   --out eval/generations/run_$RUN.jsonl
 
-# 3. Score blind, by hand. Point the sidebar at eval/generations/run_$RUN.jsonl.
+# 3. Score blind, by hand.
+#    Card ratings → eval/scores_card.csv (or eval/scores.csv)
+#    Nocard ratings → eval/scores_nocard.csv  (separate file — prompt ids overlap)
 streamlit run eval/app.py
+#    Sidebar: pick eval/snapshots/20260726_card60/generations_nocard.jsonl
+#    (or eval/generations/run_20260726_nocard.jsonl — same bytes).
+#    Confirm Scores CSV is eval/scores_nocard.csv before saving.
 
 # 4. Aggregate the ratings into the paper's tables.
 python eval/summarize_scores.py --generations eval/generations/run_$RUN.jsonl
@@ -46,9 +53,11 @@ python eval/generate_samples.py \
 | After | Verify |
 | --- | --- |
 | Step 1 | Each command prints `Wrote 100 ... prompts`; the `card` pack reports a max of ~223 tokens, inside the 340-token prompt budget |
-| Step 2 | 300 rows written (100 prompts x 3 systems), no context-budget error, and few stories hitting `max_new_tokens` |
-| Step 3 | Sidebar shows `Scored 100 / 100`; apply error tags as you go (they are optional in the UI but required by the paper) |
-| Step 4 | Condition line reads `card`, not `MIXED`; coverage reads 100/100 |
+| Step 2 | 300 rows written (100 prompts × 3 systems), no context-budget error, and few stories hitting `max_new_tokens` |
+| Step 3 | Sidebar progress advances; apply error tags as you go (optional in the UI, required for the paper's error analysis) |
+| Step 4 | Condition line reads `card`, not `MIXED` |
+
+There are **100** frozen prompts. Scoring can be partial while drafting the paper; report the exact *n* you average. A dated freeze of generations + scores can live under `eval/snapshots/` (e.g. `20260726_card60` = 60 scored `card` prompts).
 
 Scoring is deliberately manual. Step 5's ablation is scored the same way, but
 keep it in a separate `scores.csv` (move the primary file aside first) so the
@@ -72,7 +81,7 @@ python eval/build_eval_prompts.py --condition nocard \
 ```
 
 Both conditions use the same 100 topics under the same prompt ids
-(`prompts/frozen_eval_ids.txt` maps `prompt_id -> card_id`), so the two runs
+(`eval/prompts/frozen_eval_ids.txt` maps `prompt_id -> card_id`), so the two runs
 are **paired per topic** and answer the README's prompt ablation directly.
 
 > **Why this matters.** M2 is supervised on the rendered
@@ -139,18 +148,22 @@ a prompt; progress auto-resumes from the first unscored prompt on reload.
 
 ## 4. Output
 
-Scores accumulate in `eval/scores.csv` (schema in
+Scores accumulate in a condition-specific CSV (schema in
 [`score_sheet_template.csv`](./score_sheet_template.csv)) — one row per
 `(prompt, system)`, with the real `system_id`, shown blind label, `card_id`,
-`condition`, all four Likert scores, optional error tags, and perplexity. This
-is the data source for the paper's faithfulness/quality tables, main figure,
-and error analysis. Join on `system_id` and `condition`, never on
-`shown_label` (the blind label differs per prompt).
+`condition`, all four Likert scores, optional error tags, and perplexity.
 
-`eval/scores_nocard_ablation.csv` holds the 50 prompts x 3 systems scored
-against the old bare-sentence pack. Those prompts are byte-identical to the
-`nocard` pack, so the file stands as the ablation arm's ratings — it is not
-the primary result and its column layout predates `card_id`/`condition`.
+| Condition | Generations | Scores file |
+| --- | --- | --- |
+| **card** (primary) | `eval/generations/run_*.jsonl` or snapshot `generations_card.jsonl` | `eval/scores_card.csv` (also mirrored as `eval/scores.csv`) |
+| **nocard** (ablation) | snapshot `generations_nocard.jsonl` / `run_*_nocard.jsonl` | `eval/scores_nocard.csv` |
+
+Do **not** mix conditions in one scores file — prompt ids are shared. The app
+refuses to append when the file’s condition doesn’t match the generations.
+
+`eval/scores_nocard_ablation.csv` is the older Jul-25 bare-prompt pass (50
+prompts, pre-`card_id`/`condition` columns). Prefer `scores_nocard.csv` for the
+Jul-26 snapshot nocard generations.
 
 ## 5. Aggregate
 
@@ -159,9 +172,11 @@ paper's tables, so reported numbers come from a command rather than a
 spreadsheet:
 
 ```bash
-python eval/summarize_scores.py                                   # eval/scores.csv
-python eval/summarize_scores.py --generations eval/generations/run_20260726.jsonl
-python eval/summarize_scores.py --scores eval/scores_nocard_ablation.csv
+python eval/summarize_scores.py --scores eval/scores_card.csv \
+  --generations eval/snapshots/20260726_card60/generations_card.jsonl
+python eval/summarize_scores.py --scores eval/scores_nocard.csv \
+  --generations eval/snapshots/20260726_card60/generations_nocard.jsonl
+python eval/summarize_scores.py --scores eval/scores_nocard_ablation.csv  # legacy Jul-25
 ```
 
 It prints per-system Likert means, the error-tag counts that feed the required
